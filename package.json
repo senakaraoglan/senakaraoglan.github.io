@@ -2,7 +2,7 @@
   "name": "karaoglan-personal-web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://karaoglan.github.io",
+  "homepage": "https://senakaraoglan.github.io",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "jquery": "^3.2.1",
