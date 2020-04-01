@@ -1,0 +1,166 @@
+{
+  "main": {
+    "name": "Burak Karaoglan",
+    "occupation": "Software Development Engineer",
+    "description": "Experienced Java developer & clean coder in various fields like transportation, aviation, finance industries. Always keen to learn new technologies, and looking to take more leadership over project delivery. Keeping up new technologies. Following SOLID principles not just in theory.",
+    "image": "profilepic.png",
+    "jobDescription": "Software Engineer",
+    "employer": "Central Security Depository of Turkey (MKK)",
+    "employerLink": "https://www.mkk.com.tr/",
+    "bio": "Over 5 years experience on Java technologies. In addition have a passion to master Golang.",
+    "contactmessage": "What about a coffe?",
+    "email": "burakkaraoglan@icloud.com",
+    "address": {
+      "city": "Istanbul",
+      "state": "Ümraniye",
+      "zip": "34400"
+    },
+    "website": "http://www.burakkaraoglan.com",
+    "resumedownload": "resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/karaoglanburak/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/Karaoglan",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://skype.com/burakkaraoglan",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Eager to expand knowledge!",
+    "education": [
+      {
+        "school": "Technische Universität Wien",
+        "degree": "Bachelor of Science in Software & Information Engineering",
+        "graduated": "July 2016",
+        "description": "Activities and Societies: Vienna University of Technology, Engineering Sciences & Computer Sciences Software Engineering is concerned with the development of software, from analysis and design to implementation, quality assurance and software maintenance. Our mission is technology for people. Through our research we develop scientific excellence, through our teaching we enhance comprehensive competence. www.tuwien.ac.at Thesis: * SmartCities - Graphical projection of SmartCities' statistical analysis http://www.smart-cities.eu"
+      },
+      {
+        "school": "VWU - German Preparation Programme of Technical University of Vienna",
+        "degree": "German Proficiency Certificate",
+        "graduated": "June 2009",
+        "description": "The VWU is an institution providing university preparation courses for international students. Its role is to prepare students for supplementary examinations. The VWU offers intensive courses for foreign applicants for a place at university to prepare them for supplementary examinations prescribed by the universities."
+      }
+    ],
+    "work": [
+      {
+        "company": "Central Securities Depository of Turkey",
+        "title": "Software Engineer",
+        "years": "June 2019 - Present",
+        "description": "BIDS - (Blockchain based issuance distribution system)\nRole: Architecture and Implementation of ethereum solidity, NestJS and React hooks.\nE-VEDO\nRole: Implementation and Architecture design of spring boot microservice application."
+      },
+      {
+        "company": "adesso SE",
+        "title": "Software Engineer",
+        "years": "June 2018 - June 2019",
+        "description": "Service for balance in financial accounts for medicament and medical engineering based on\nJava8 Microservices, Spring Boot and Angular6 (with ngrx redux state management), Docker\nRole: Fullstack Software Engineer, Design & Implementierung"
+      },
+
+      {
+        "company": "Amadeus IT Group",
+        "title": "Software Engineer",
+        "years": "Dec 2016 - June 2018",
+        "description": "Project: Loyalty Management System - Core Modules and Architecture\nTechnologies: JavaEE, Spring JDBC, Angular 2, OracleDS, Rest Architecture, Maven\nDuties:\nDesigning database models\nDesigning rest resources based on swagger yaml\nFinding better and simple solutions on business flows by following SOLID principles and design patterns."
+      },
+      {
+        "company": "Muhamo GmbH",
+        "title": "Software Engineer",
+        "years": "Jan 2015 - Jan 2016",
+        "description": "The Company is working with FedEx to transporting goods into Austria, and besides they were also providing chauffeured limousine and rental car services.\nServices: Real time vehicle tracking, registration and login system\nTechnologies: Java, Spring Boot, Rest Architecture, Hibernate, AngularJS, MySQL"
+      },
+      {
+        "company": "Freelance Works",
+        "title": "Freelance Software Engineer",
+        "years": "Jan 2013 - Jan 2015",
+        "description": "Designed openstreetmap Data validator using Spring boot and angular By requesting google and microsoft and besides I was involved and created many javafx projects. Developed some web applications using spring and angular.\n(Implementierung openstreetmap Datenvalidator mit Spring Boot und Angular mit der Hilfe von Google & Microsoft- services. Design & Implementierung Sprachübersetzer mit der Hilfe von Google Sprach services. Design & Implementierung 2D Brettspiel via JavaFx)\ndesign, implementierung, test"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "100%",
+        "image": "git.jpg"
+      },
+      {
+        "name": "ReactJs",
+        "level": "75%",
+        "image": "react.jpg"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%",
+        "image": "mongo.jpg"
+      },
+      {
+        "name": "Analytical thinking & Problem solving",
+        "level": "85%",
+        "image": "analytical.jpg"
+      },
+      {
+        "name": "Spring Framework and Java",
+        "level": "90%",
+        "image": "java-spring.jpg"
+      },
+      {
+        "name": "SQL",
+        "level": "80%",
+        "image": "sql.png"
+      },
+      {
+        "name": "Design patterns and SOLID principles and Clean Coding",
+        "level": "85%",
+        "image": "solid.jpeg"
+      },
+      {
+        "name": "Ethereum and Solidity",
+        "level": "55%",
+        "image": "solidity.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Electronic Data Management",
+        "category": "Central Security Depository - electronic data",
+        "image": "mkk.jpg",
+        "url": "https://www.mkk.com.tr/tr/content/Yatirimci-Hizmetleri/e-VEDO"
+      },
+      {
+        "title": "Optica 2.0",
+        "category": "Optica Dr.Gueldener Group",
+        "image": "optica.gif",
+        "url": "https://www.drgueldener.de/die-gruppe/"
+      },
+      {
+        "title": "Amadeus Loyalty Management",
+        "category": "Amadeus Loyalty",
+        "image": "amadeus.png",
+        "url": "https://amadeus.com/en/portfolio/airlines/loyalty-management"
+      },
+      {
+        "title": "Freelance Projects",
+        "category": "Freelance Projects pics",
+        "image": "freelance.jpg",
+        "url": "https://www.drgueldener.de/die-gruppe/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Burak Karaoğlan is not only a responsible and ambitious programmer but also an inspiring person. Very good and broad-minded developer - that's him! Dedicated, insightful and precise. Strongly I recommend him.",
+        "user": "Muhammad Durrah"
+      }
+    ]
+  }
+}
