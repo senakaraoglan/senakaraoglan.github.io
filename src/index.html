@@ -1,24 +1,48 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>ClimateCrud</title>
-  <base href="/">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <head>
+    <meta charset="utf-8" />
+    <title>ClimateCrud</title>
+    <base href="/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
 
-  <link title="timeline-styles" rel="stylesheet" href="assets/timeline3/css/timeline.css">
+    <link
+      title="timeline-styles"
+      rel="stylesheet"
+      href="assets/timeline3/css/timeline.css"
+    />
 
-  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-</head>
-<body>
-  <app-root></app-root>
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
 
-  <div id='timeline-embed' style="width: 100%; height: 600px"></div>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-163673771-1"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
+      gtag("config", "UA-163673771-1");
+    </script>
+  </head>
+  <body>
+    <app-root></app-root>
 
-  <!-- <script type="text/javascript">
+    <div id="timeline-embed" style="width: 100%; height: 600px;"></div>
+
+    <!-- <script type="text/javascript">
     var timeline_json = {
       "title": {
         "media": {
@@ -295,5 +319,5 @@
     // a suitable JSON object
     //new TL.Timeline('timeline-embed', timeline_json);
    </script> -->
-</body>
+  </body>
 </html>
