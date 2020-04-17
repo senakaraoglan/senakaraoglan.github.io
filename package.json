@@ -5,6 +5,7 @@
   "homepage": "https://senakaraoglan.github.io",
   "scripts": {
     "ng": "ng",
+    "start": "ng serve",
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "build": "ng build --prod",
