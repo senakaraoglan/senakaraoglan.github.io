@@ -470,7 +470,7 @@
     "author": "Bayram Ali Kaya-Sezai Küçük",
     "publishedBy": "Zeytinburnu Belediyesi Kültür Yayınları",
     "publishedDate": "2011",
-    "weatherTags": "şiddetli soğuk, don",
+    "weatherTags": "şiddetli soğuk,don",
     "yearExist": true,
     "monthExist": true,
     "dayExist": true
@@ -640,7 +640,7 @@
     "author": "Bayram Ali Kaya-Sezai Küçük",
     "publishedBy": "Zeytinburnu Belediyesi Kültür Yayınları",
     "publishedDate": "2011",
-    "weatherTags": "fırtına/yağmur",
+    "weatherTags": "fırtına,yağmur",
     "yearExist": true,
     "monthExist": true,
     "dayExist": true
@@ -760,7 +760,7 @@
     "publishedBy": "Zeytinburnu Belediyesi Kültür Yayınları",
     "publishedDate": "2011",
     "weatherTags": "ay tutulması",
-    "yearExist": true,
+    "yeardExist": true,
     "monthExist": true,
     "dayExist": true
   },
