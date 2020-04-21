@@ -9,21 +9,25 @@
   </a>
   <span class="example-spacer"></span>
   <div fxHide.lt-md="true">
-    <a mat-button routerLink="/">Home</a>
-    <a mat-button routerLink="/graphics">Graphics</a>
+    <a mat-button routerLink="/">Anasayfa</a>
+    <a mat-button routerLink="/istatistik">İstatistik</a>
   </div>
 </mat-toolbar>
 <mat-sidenav-container fxFlexFill class="example-container">
-  <mat-sidenav color="primary" #sidenav fxLayout="column" mode="over" opened="false" fxHide.gt-sm="true">
+  <mat-sidenav
+    color="primary"
+    #sidenav
+    fxLayout="column"
+    mode="over"
+    opened="false"
+    fxHide.gt-sm="true"
+  >
     <div fxLayout="column">
-      <a mat-button routerLink="/">Home</a>
-      <a mat-button routerLink="/graphics">Graphics</a>
+      <a mat-button routerLink="/">Anasayfa</a>
+      <a mat-button routerLink="/istatistik">İstatistik</a>
     </div>
   </mat-sidenav>
   <mat-sidenav-content fxFlexFill>
-
     <router-outlet></router-outlet>
-
   </mat-sidenav-content>
 </mat-sidenav-container>
-
