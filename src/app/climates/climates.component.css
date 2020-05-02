@@ -25,9 +25,7 @@ table {
 
 .detail-row {
   color: red;
-  margin: 5px 15px 25px 10px;
-
-  border-bottom: 1px dotted red;
+  margin: 5px 15px 25px 40px;
 }
 
 .element-row {
@@ -52,4 +50,14 @@ table {
 
 .element-row.expanded {
   border-bottom-color: transparent;
+}
+
+.mat-column-index {
+  border-right: 1px dotted rgb(203, 202, 202);
+  align-self: stretch;
+}
+
+.tooltip {
+  min-width: 30px;
+  font-size: 20px;
 }

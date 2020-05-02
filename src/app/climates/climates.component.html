@@ -45,16 +45,22 @@
 
     <mat-table [dataSource]="dataSource" class="mat-elevation-z8" matSort>
       <!-- Position Column -->
-      <ng-container matColumnDef="#">
+      <ng-container matColumnDef="i">
         <mat-header-cell
-          [style.flex]="'0 0 2%'"
+          [style.flex]="'0 0 5%'"
           *matHeaderCellDef
           mat-sort-header
         >
           No.
         </mat-header-cell>
         <mat-cell
-          [style.flex]="'0 0 2%'"
+          class="mat-column-index"
+          [style.flex]="'0 0 5%'"
+          [ngStyle]="{
+            'background-color': element.rangeEndDate
+              ? 'rgb(189, 187, 187)'
+              : 'none'
+          }"
           *matCellDef="let element; let i = index"
         >
           {{ i + 1 }}
@@ -75,6 +81,34 @@
         </mat-cell>
       </ng-container>
 
+      <!-- weather Column -->
+      <ng-container matColumnDef="weatherTags">
+        <mat-header-cell
+          *matHeaderCellDef
+          mat-sort-header
+          [style.flex]="'0 0 12%'"
+        >
+          İklim Durumu
+        </mat-header-cell>
+        <mat-cell
+          fxFlexLayout="space-between start"
+          fxLayout="row"
+          fxLayoutGap="10px"
+          *matCellDef="let element"
+          [style.flex]="'0 0 12%'"
+        >
+          <h1
+            *ngFor="let item of element.weatherTags?.split(','); let i = index"
+            matTooltip="{{ item }}"
+          >
+            <i
+              *ngIf="i < 3"
+              [ngClass]="getWeatherTagClass(item.trim().toLowerCase())"
+            ></i>
+          </h1>
+        </mat-cell>
+      </ng-container>
+
       <!-- Place Column -->
       <ng-container matColumnDef="place">
         <mat-header-cell *matHeaderCellDef mat-sort-header>
@@ -90,7 +124,12 @@
         <mat-header-cell *matHeaderCellDef mat-sort-header>
           Tarih(Miladi)
         </mat-header-cell>
-        <mat-cell *matCellDef="let element" [style.color]="'#' + '0000ff'">
+        <mat-cell
+          matTooltipClass="tooltip"
+          matTooltip="{{ element.rangeEndDate ? element.rangeEndDate : null }}"
+          *matCellDef="let element"
+          [style.color]="'#' + '0000ff'"
+        >
           {{ element.date }}
         </mat-cell>
       </ng-container>
@@ -119,36 +158,16 @@
         </mat-cell>
       </ng-container>
 
-      <!--  yazar -->
-      <ng-container matColumnDef="author">
-        <mat-header-cell *matHeaderCellDef mat-sort-header>
-          Yazar
-        </mat-header-cell>
-        <mat-cell *matCellDef="let element" [style.color]="'#' + '0000ff'">
-          {{ element.author | textShrink: 5 }}
-        </mat-cell>
-      </ng-container>
-
-      <!-- yayınevi -->
-      <ng-container matColumnDef="publisher">
-        <mat-header-cell *matHeaderCellDef mat-sort-header>
-          YayınEvi
-        </mat-header-cell>
-        <mat-cell *matCellDef="let element">
-          {{ element.publishedBy | textShrink: 6 }}
-        </mat-cell>
-      </ng-container>
-
       <!-- yıl Column -->
       <ng-container matColumnDef="year">
-        <mat-header-cell *matHeaderCellDef
+        <mat-header-cell *matHeaderCellDef [style.flex]="'0 0 5%'"
           ><span
             >Yıl<mat-checkbox
               [(ngModel)]="yearCheck"
               (change)="dateClicked($event)"
             ></mat-checkbox></span
         ></mat-header-cell>
-        <mat-cell *matCellDef="let element">
+        <mat-cell *matCellDef="let element" [style.flex]="'0 0 5%'">
           <mat-icon
             aria-hidden="false"
             aria-label="Example home icon"
@@ -161,14 +180,14 @@
 
       <!-- ay Column -->
       <ng-container matColumnDef="month">
-        <mat-header-cell *matHeaderCellDef
+        <mat-header-cell *matHeaderCellDef [style.flex]="'0 0 5%'"
           ><span
             >Ay<mat-checkbox
               [(ngModel)]="monthCheck"
               (change)="dateClicked($event)"
             ></mat-checkbox></span
         ></mat-header-cell>
-        <mat-cell *matCellDef="let element">
+        <mat-cell *matCellDef="let element" [style.flex]="'0 0 5%'">
           <mat-icon
             aria-hidden="false"
             aria-label="Example home icon"
@@ -181,14 +200,14 @@
 
       <!-- gün Column -->
       <ng-container matColumnDef="day">
-        <mat-header-cell *matHeaderCellDef
+        <mat-header-cell *matHeaderCellDef [style.flex]="'0 0 5%'"
           ><span
             >Gün<mat-checkbox
               [(ngModel)]="dayCheck"
               (change)="dateClicked($event)"
             ></mat-checkbox></span
         ></mat-header-cell>
-        <mat-cell *matCellDef="let element">
+        <mat-cell *matCellDef="let element" [style.flex]="'0 0 5%'">
           <mat-icon
             aria-hidden="false"
             aria-label="Example home icon"
@@ -196,21 +215,6 @@
           >
             {{ element.dayExist ? "done" : "close" }}
           </mat-icon>
-        </mat-cell>
-      </ng-container>
-
-      <!-- weather Column -->
-      <ng-container matColumnDef="weatherTags">
-        <mat-header-cell *matHeaderCellDef mat-sort-header>
-          Hava Durumu
-        </mat-header-cell>
-        <mat-cell *matCellDef="let element">
-          <h1
-            *ngFor="let item of element.weatherTags?.split(',')"
-            matTooltip="{{ item }}"
-          >
-            <i [ngClass]="getWeatherTagClass(item.trim().toLowerCase())"></i>
-          </h1>
         </mat-cell>
       </ng-container>
 
@@ -230,21 +234,28 @@
   <ng-container>
     <div class="mat-row detail-row" [@detailExpand] style="overflow: hidden;">
       <mat-card class="example-card detail-row">
-        <mat-card-header>
+        <mat-card-header fxLayout="row">
           <mat-card-title
-            >{{ element.author }} - {{ element.bookName }} -
-            {{ element.pageNumber }}. s.</mat-card-title
-          >
-          <mat-card-subtitle>{{ element.originalDate }}</mat-card-subtitle>
+            >{{ element.author }} - {{ element.bookName }}
+          </mat-card-title>
+          <div fxFlex fxLayoutAlign="end">{{ element.pageNumber }}. s.</div>
+          <mat-card-subtitle
+            ><h3>{{ element.originalDate }}</h3>
+          </mat-card-subtitle>
+          <mat-card-subtitle>{{ element.date }} </mat-card-subtitle>
         </mat-card-header>
         <mat-card-content>
           <p>
             {{ element.text }}
           </p>
         </mat-card-content>
-        <mat-card-actions fxFlexFill fxLayout="column">
+        <mat-card-actions
+          fxFlexFill
+          fxLayout="row"
+          fxLayoutAlign="center"
+          fxLayoutGap="10px"
+        >
           <h1
-            fxLayout="column"
             *ngFor="let item of element.weatherTags?.split(',')"
             matTooltip="{{ item }}"
           >

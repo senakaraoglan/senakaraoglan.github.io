@@ -1,30 +1,30 @@
-import { BrowserModule } from '@angular/platform-browser';
-import { NgModule } from '@angular/core';
-
-import { AppRoutingModule } from './app-routing.module';
-import { AppComponent } from './app.component';
-import { ClimateService } from './services/climate.service';
-import { HttpClientModule } from '@angular/common/http';
-import { FormsModule, ReactiveFormsModule } from '@angular/forms';
-import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { CdkTableModule } from "@angular/cdk/table";
+import { CdkTreeModule } from "@angular/cdk/tree";
+import { HttpClientModule } from "@angular/common/http";
+import { NgModule } from "@angular/core";
 import { FlexLayoutModule } from "@angular/flex-layout";
-import {MatToolbarModule} from '@angular/material/toolbar';
-import {MatSidenavModule} from '@angular/material/sidenav';
-import {MatButtonModule} from '@angular/material/button';
-import {MatIconModule} from '@angular/material/icon';
-import {MatTableModule} from '@angular/material/table';
-import {TextShrinkPipe} from "./table-text-shrink.pipe";
-import {MatCheckboxModule} from "@angular/material/checkbox";
-import {CdkTableModule} from '@angular/cdk/table';
-import {CdkTreeModule} from '@angular/cdk/tree';
-import {CdkDetailRowDirective} from './cdk-detail-row.directive';
-import {MatInputModule} from "@angular/material/input";
-import {GraphicsComponent} from "./graphics/graphics.component";
-import {MatCardModule} from "@angular/material/card";
-import {ClimatesComponent} from "./climates/climates.component";
-import { HighchartsChartModule } from 'highcharts-angular';
-import {MatSortModule} from "@angular/material/sort";
-import {MatTooltipModule} from "@angular/material/tooltip";
+import { FormsModule, ReactiveFormsModule } from "@angular/forms";
+import { MatDividerModule } from "@angular/material";
+import { MatButtonModule } from "@angular/material/button";
+import { MatCardModule } from "@angular/material/card";
+import { MatCheckboxModule } from "@angular/material/checkbox";
+import { MatIconModule } from "@angular/material/icon";
+import { MatInputModule } from "@angular/material/input";
+import { MatSidenavModule } from "@angular/material/sidenav";
+import { MatSortModule } from "@angular/material/sort";
+import { MatTableModule } from "@angular/material/table";
+import { MatToolbarModule } from "@angular/material/toolbar";
+import { MatTooltipModule } from "@angular/material/tooltip";
+import { BrowserModule } from "@angular/platform-browser";
+import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
+import { HighchartsChartModule } from "highcharts-angular";
+import { AppRoutingModule } from "./app-routing.module";
+import { AppComponent } from "./app.component";
+import { CdkDetailRowDirective } from "./cdk-detail-row.directive";
+import { ClimatesComponent } from "./climates/climates.component";
+import { GraphicsComponent } from "./graphics/graphics.component";
+import { ClimateService } from "./services/climate.service";
+import { TextShrinkPipe } from "./table-text-shrink.pipe";
 
 @NgModule({
   declarations: [
@@ -32,7 +32,7 @@ import {MatTooltipModule} from "@angular/material/tooltip";
     GraphicsComponent,
     ClimatesComponent,
     TextShrinkPipe,
-    CdkDetailRowDirective
+    CdkDetailRowDirective,
   ],
   imports: [
     BrowserModule,
@@ -47,6 +47,7 @@ import {MatTooltipModule} from "@angular/material/tooltip";
     HighchartsChartModule,
     MatCheckboxModule,
     MatSortModule,
+    MatDividerModule,
     MatInputModule,
     CdkTableModule,
     CdkTreeModule,
@@ -57,6 +58,6 @@ import {MatTooltipModule} from "@angular/material/tooltip";
     BrowserAnimationsModule,
   ],
   providers: [ClimateService],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}

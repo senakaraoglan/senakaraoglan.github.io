@@ -1,9 +1,3 @@
-import { Component, OnDestroy, ViewChild } from "@angular/core";
-import { ClimateService } from "src/app/services/climate.service";
-import { Observable, Subject, combineLatest, from, of } from "rxjs";
-import { map, takeUntil } from "rxjs/operators";
-import { MatCheckboxChange } from "@angular/material/checkbox";
-import * as _ from "lodash";
 import {
   animate,
   state,
@@ -11,7 +5,13 @@ import {
   transition,
   trigger,
 } from "@angular/animations";
+import { Component, OnDestroy, OnInit, ViewChild } from "@angular/core";
 import { MatSort, MatTableDataSource } from "@angular/material";
+import { MatCheckboxChange } from "@angular/material/checkbox";
+import * as _ from "lodash";
+import { combineLatest, Observable, of, Subject } from "rxjs";
+import { map, takeUntil } from "rxjs/operators";
+import { ClimateService } from "src/app/services/climate.service";
 
 export interface Climate {
   id?: number;
@@ -45,24 +45,22 @@ export interface Climate {
     ]),
   ],
 })
-export class ClimatesComponent implements OnDestroy {
+export class ClimatesComponent implements OnInit, OnDestroy {
   title = "IKLIM PROJESI";
 
-  public _endSubscriptions$: Subject<boolean> = new Subject();
+  public endSubscriptions$: Subject<boolean> = new Subject();
 
   columnsToDisplay: string[] = [
-    "#",
+    "i",
     "text",
+    "weatherTags",
     "place",
     "date",
     "originalDate",
     "bookName",
-    "author",
-    "publisher",
     "year",
     "month",
     "day",
-    "weatherTags",
   ];
 
   dataSource: MatTableDataSource<Climate>;
@@ -79,9 +77,7 @@ export class ClimatesComponent implements OnDestroy {
    */
   public climates$: Observable<
     Climate[]
-  > = this.climateService
-    .getClimates()
-    .pipe(takeUntil(this._endSubscriptions$));
+  > = this.climateService.getClimates().pipe(takeUntil(this.endSubscriptions$));
 
   yearCheck: boolean = undefined;
   monthCheck: boolean = undefined;
@@ -141,12 +137,13 @@ export class ClimatesComponent implements OnDestroy {
    ZILHICCE('12', 'Z');
    */
 
-  constructor(private climateService: ClimateService) {
+  constructor(private climateService: ClimateService) {}
+
+  ngOnInit(): void {
     this.climates$.subscribe((data) => {
       this.dataSource = new MatTableDataSource<Climate>(data);
       this.dataFromService = data;
-
-      this.addSort();
+      this.dataSource.sort = this.sort;
 
       this.yearFilter$ = of(this.dataFromService);
       this.monthFilter$ = of(this.dataFromService);
@@ -170,13 +167,9 @@ export class ClimatesComponent implements OnDestroy {
     return iconName ? iconName : "fa fa-window-close fa-x";
   }
 
-  addSort(): void {
-    this.dataSource.sort = this.sort;
-  }
-
   ngOnDestroy(): void {
-    this._endSubscriptions$.next(true);
-    this._endSubscriptions$.complete();
+    this.endSubscriptions$.next(true);
+    this.endSubscriptions$.complete();
   }
 
   dateClicked($event: MatCheckboxChange) {
