@@ -2,9 +2,19 @@
 @import "weather-icons.min.css";
 @import "weather-icons-wind.min.css";
 
-html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
 
 .wi {
   color: #924da3;
+}
+
+.mat-tooltip {
+  font-size: 18px;
 }

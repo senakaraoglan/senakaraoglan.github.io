@@ -22,6 +22,22 @@
             placeholder="Ara ..."
           />
         </mat-form-field>
+        <mat-form-field>
+          <input
+            matInput
+            [matAutocomplete]="tdAuto"
+            placeholder="İklim durum filtreleme"
+          />
+          <mat-autocomplete #tdAuto="matAutocomplete" [displayWith]="displayFn">
+            <mat-option
+              (onSelectionChange)="setWeatherFilter(weather.key)"
+              *ngFor="let weather of weatherTagsMap | keyvalue"
+              [value]="weather.key"
+            >
+              {{ weather.key }}
+            </mat-option>
+          </mat-autocomplete>
+        </mat-form-field>
       </form>
       <a mat-flat-button routerLink="." color="warn" (click)="filterOff()">
         <mat-icon aria-hidden="false" aria-label="Example home icon">
@@ -43,226 +59,249 @@
       </a>
     </div>
 
-    <mat-table [dataSource]="dataSource" class="mat-elevation-z8" matSort>
-      <!-- Position Column -->
-      <ng-container matColumnDef="i">
-        <mat-header-cell
-          [style.flex]="'0 0 5%'"
-          *matHeaderCellDef
-          mat-sort-header
-        >
-          No.
-        </mat-header-cell>
-        <mat-cell
-          class="mat-column-index"
-          [style.flex]="'0 0 5%'"
-          [ngStyle]="{
-            'background-color': element.rangeEndDate
-              ? 'rgb(189, 187, 187)'
-              : 'none'
-          }"
-          *matCellDef="let element; let i = index"
-        >
-          {{ i + 1 }}
-        </mat-cell>
-      </ng-container>
-
-      <!-- Text Column -->
-      <ng-container matColumnDef="text">
-        <mat-header-cell
-          [style.flex]="'0 0 30%'"
-          *matHeaderCellDef
-          mat-sort-header
-        >
-          İçerik
-        </mat-header-cell>
-        <mat-cell [style.flex]="'0 0 30%'" *matCellDef="let element">
-          {{ element.text | textShrink: 50 }}
-        </mat-cell>
-      </ng-container>
-
-      <!-- weather Column -->
-      <ng-container matColumnDef="weatherTags">
-        <mat-header-cell
-          *matHeaderCellDef
-          mat-sort-header
-          [style.flex]="'0 0 12%'"
-        >
-          İklim Durumu
-        </mat-header-cell>
-        <mat-cell
-          fxFlexLayout="space-between start"
-          fxLayout="row"
-          fxLayoutGap="10px"
-          *matCellDef="let element"
-          [style.flex]="'0 0 12%'"
-        >
-          <h1
-            *ngFor="let item of element.weatherTags?.split(','); let i = index"
-            matTooltip="{{ item }}"
+    <div class="example-container mat-elevation-z8">
+      <mat-table
+        mat-table
+        [dataSource]="dataSource"
+        matSort
+        matSortDisableClear
+        [multiTemplateDataRows]="true"
+      >
+        <!-- Position Column -->
+        <ng-container matColumnDef="index">
+          <mat-header-cell [style.flex]="'0 0 5%'" *matHeaderCellDef>
+            No.
+          </mat-header-cell>
+          <mat-cell
+            class="mat-column-index"
+            [style.flex]="'0 0 5%'"
+            [ngStyle]="{
+              'background-color': element.rangeEndDate
+                ? 'rgb(189, 187, 187)'
+                : 'none'
+            }"
+            *matCellDef="let element; let i = dataIndex"
           >
-            <i
-              *ngIf="i < 3"
-              [ngClass]="getWeatherTagClass(item.trim().toLowerCase())"
-            ></i>
-          </h1>
-        </mat-cell>
-      </ng-container>
+            {{ i + 1 }}
+          </mat-cell>
+        </ng-container>
 
-      <!-- Place Column -->
-      <ng-container matColumnDef="place">
-        <mat-header-cell *matHeaderCellDef mat-sort-header>
-          Mekan
-        </mat-header-cell>
-        <mat-cell *matCellDef="let element">
-          {{ element.place | textShrink: 15 }}
-        </mat-cell>
-      </ng-container>
+        <!-- Text Column -->
+        <ng-container matColumnDef="text">
+          <mat-header-cell [style.flex]="'0 0 30%'" *matHeaderCellDef>
+            İçerik
+          </mat-header-cell>
+          <mat-cell [style.flex]="'0 0 30%'" *matCellDef="let element">
+            {{ element.text | textShrink: 50 }}
+          </mat-cell>
+        </ng-container>
 
-      <!-- Date Column -->
-      <ng-container matColumnDef="date">
-        <mat-header-cell *matHeaderCellDef mat-sort-header>
-          Tarih(Miladi)
-        </mat-header-cell>
-        <mat-cell
-          matTooltipClass="tooltip"
-          matTooltip="{{ element.rangeEndDate ? element.rangeEndDate : null }}"
-          *matCellDef="let element"
-          [style.color]="'#' + '0000ff'"
-        >
-          {{ element.date }}
-        </mat-cell>
-      </ng-container>
-
-      <!-- Date Column -->
-      <ng-container matColumnDef="originalDate">
-        <mat-header-cell *matHeaderCellDef mat-sort-header>
-          Orjinal Tarih
-        </mat-header-cell>
-        <mat-cell
-          matTooltip="{{ getFullHicriMonthName(element.originalDate) }}"
-          *matCellDef="let element"
-          [style.color]="'#' + 'FF0000'"
-        >
-          {{ element.originalDate }}
-        </mat-cell>
-      </ng-container>
-
-      <!-- bookName Column -->
-      <ng-container matColumnDef="bookName">
-        <mat-header-cell *matHeaderCellDef mat-sort-header>
-          BookName
-        </mat-header-cell>
-        <mat-cell *matCellDef="let element">
-          {{ element.bookName | textShrink: 10 }}
-        </mat-cell>
-      </ng-container>
-
-      <!-- yıl Column -->
-      <ng-container matColumnDef="year">
-        <mat-header-cell *matHeaderCellDef [style.flex]="'0 0 5%'"
-          ><span
-            >Yıl<mat-checkbox
-              [(ngModel)]="yearCheck"
-              (change)="dateClicked($event)"
-            ></mat-checkbox></span
-        ></mat-header-cell>
-        <mat-cell *matCellDef="let element" [style.flex]="'0 0 5%'">
-          <mat-icon
-            aria-hidden="false"
-            aria-label="Example home icon"
-            color="{{ element.yearExist ? 'primary' : 'warn' }}"
+        <!-- weather Column -->
+        <ng-container matColumnDef="weatherTags">
+          <mat-header-cell *matHeaderCellDef [style.flex]="'0 0 12%'">
+            İklim Durumu
+          </mat-header-cell>
+          <mat-cell
+            fxFlexLayout="space-between start"
+            fxLayout="row"
+            fxLayoutGap="10px"
+            *matCellDef="let element"
+            [style.flex]="'0 0 12%'"
           >
-            {{ element.yearExist ? "done" : "close" }}
-          </mat-icon>
-        </mat-cell>
-      </ng-container>
+            <h1
+              *ngFor="
+                let item of element.weatherTags?.split(',');
+                let i = index
+              "
+              matTooltip="{{ item }}"
+            >
+              <i
+                *ngIf="i < 3"
+                [ngClass]="getWeatherTagClass(item.trim().toLowerCase())"
+              ></i>
+            </h1>
+          </mat-cell>
+        </ng-container>
 
-      <!-- ay Column -->
-      <ng-container matColumnDef="month">
-        <mat-header-cell *matHeaderCellDef [style.flex]="'0 0 5%'"
-          ><span
-            >Ay<mat-checkbox
-              [(ngModel)]="monthCheck"
-              (change)="dateClicked($event)"
-            ></mat-checkbox></span
-        ></mat-header-cell>
-        <mat-cell *matCellDef="let element" [style.flex]="'0 0 5%'">
-          <mat-icon
-            aria-hidden="false"
-            aria-label="Example home icon"
-            color="{{ element.monthExist ? 'primary' : 'warn' }}"
+        <!-- Place Column -->
+        <ng-container matColumnDef="place">
+          <mat-header-cell *matHeaderCellDef mat-sort-header>
+            Mekan
+          </mat-header-cell>
+          <mat-cell *matCellDef="let element">
+            {{ element.place | textShrink: 15 }}
+          </mat-cell>
+        </ng-container>
+
+        <!-- Date Column -->
+        <ng-container matColumnDef="date">
+          <mat-header-cell *matHeaderCellDef mat-sort-header>
+            Tarih(Miladi)
+          </mat-header-cell>
+          <mat-cell
+            matTooltipClass="tooltip"
+            matTooltip="{{
+              element.rangeEndDate ? element.rangeEndDate : null
+            }}"
+            *matCellDef="let element"
+            [style.color]="'#' + '0000ff'"
           >
-            {{ element.monthExist ? "done" : "close" }}
-          </mat-icon>
-        </mat-cell>
-      </ng-container>
+            {{ element.date }}
+          </mat-cell>
+        </ng-container>
 
-      <!-- gün Column -->
-      <ng-container matColumnDef="day">
-        <mat-header-cell *matHeaderCellDef [style.flex]="'0 0 5%'"
-          ><span
-            >Gün<mat-checkbox
-              [(ngModel)]="dayCheck"
-              (change)="dateClicked($event)"
-            ></mat-checkbox></span
-        ></mat-header-cell>
-        <mat-cell *matCellDef="let element" [style.flex]="'0 0 5%'">
-          <mat-icon
-            aria-hidden="false"
-            aria-label="Example home icon"
-            color="{{ element.dayExist ? 'primary' : 'warn' }}"
+        <!-- Date Column -->
+        <ng-container matColumnDef="originalDate">
+          <mat-header-cell *matHeaderCellDef>
+            Orjinal Tarih
+          </mat-header-cell>
+          <mat-cell
+            matTooltip="{{ getFullHicriMonthName(element.originalDate) }}"
+            *matCellDef="let element"
+            [style.color]="'#' + 'FF0000'"
           >
-            {{ element.dayExist ? "done" : "close" }}
-          </mat-icon>
-        </mat-cell>
-      </ng-container>
+            {{ element.originalDate }}
+          </mat-cell>
+        </ng-container>
 
-      <mat-header-row *matHeaderRowDef="columnsToDisplay"></mat-header-row>
-      <mat-row
-        *matRowDef="let row; columns: columnsToDisplay"
-        matRipple
-        class="element-row"
-        [cdkDetailRow]="row"
-        [cdkDetailRowTpl]="tpl"
-      ></mat-row>
-    </mat-table>
+        <!-- bookName Column -->
+        <ng-container matColumnDef="bookName">
+          <mat-header-cell *matHeaderCellDef mat-sort-header>
+            Kitap
+          </mat-header-cell>
+          <mat-cell
+            *matCellDef="let element"
+            matTooltip="{{ element.bookName }}"
+          >
+            {{ element.bookName | textShrink: 17 }}
+          </mat-cell>
+        </ng-container>
+
+        <!-- yıl Column -->
+        <ng-container matColumnDef="year">
+          <mat-header-cell *matHeaderCellDef [style.flex]="'0 0 5%'"
+            ><span
+              >Yıl<mat-checkbox
+                [(ngModel)]="yearCheck"
+                (change)="dateClicked($event)"
+              ></mat-checkbox></span
+          ></mat-header-cell>
+          <mat-cell *matCellDef="let element" [style.flex]="'0 0 5%'">
+            <mat-icon
+              aria-hidden="false"
+              aria-label="Example home icon"
+              color="{{ element.yearExist ? 'primary' : 'warn' }}"
+            >
+              {{ element.yearExist ? "done" : "close" }}
+            </mat-icon>
+          </mat-cell>
+        </ng-container>
+
+        <!-- ay Column -->
+        <ng-container matColumnDef="month">
+          <mat-header-cell *matHeaderCellDef [style.flex]="'0 0 5%'"
+            ><span
+              >Ay<mat-checkbox
+                [(ngModel)]="monthCheck"
+                (change)="dateClicked($event)"
+              ></mat-checkbox></span
+          ></mat-header-cell>
+          <mat-cell *matCellDef="let element" [style.flex]="'0 0 5%'">
+            <mat-icon
+              aria-hidden="false"
+              aria-label="Example home icon"
+              color="{{ element.monthExist ? 'primary' : 'warn' }}"
+            >
+              {{ element.monthExist ? "done" : "close" }}
+            </mat-icon>
+          </mat-cell>
+        </ng-container>
+
+        <!-- gün Column -->
+        <ng-container matColumnDef="day">
+          <mat-header-cell *matHeaderCellDef [style.flex]="'0 0 5%'"
+            ><span
+              >Gün<mat-checkbox
+                [(ngModel)]="dayCheck"
+                (change)="dateClicked($event)"
+              ></mat-checkbox></span
+          ></mat-header-cell>
+          <mat-cell *matCellDef="let element" [style.flex]="'0 0 5%'">
+            <mat-icon
+              aria-hidden="false"
+              aria-label="Example home icon"
+              color="{{ element.dayExist ? 'primary' : 'warn' }}"
+            >
+              {{ element.dayExist ? "done" : "close" }}
+            </mat-icon>
+          </mat-cell>
+        </ng-container>
+
+        <ng-container matColumnDef="expandedDetail">
+          <mat-cell
+            *matCellDef="let element"
+            [attr.colspan]="columnsToDisplay.length"
+          >
+            <div *ngIf="element.id === expandedId" fxFlex fxLayout="row">
+              <div
+                class="example-element-diagram"
+                fxFlex
+                fxLayout="column"
+                fxLayoutGap="5px"
+              >
+                <div class="example-element-position">
+                  {{ element.bookName }} - {{ element.author }}
+                </div>
+                <div class="example-element-symbol">
+                  (origin: {{ element.originalDate }})
+                </div>
+                <div class="example-element-name">
+                  {{ element.date }}
+                </div>
+                <div class="example-element-weight">
+                  {{ element.pageNumber }}. s. / <u>Yayınevi: </u>
+                  {{ element.publishedBy }}
+                </div>
+              </div>
+              <div class="example-element-description">
+                {{ element.text }}
+                <span class="example-element-description-attribution">
+                  -- {{ element.place }}
+                </span>
+                <div
+                  fxFlexFill
+                  fxLayout="row"
+                  fxLayoutAlign="center"
+                  fxLayoutGap="10px"
+                >
+                  <h1
+                    *ngFor="let item of element.weatherTags?.split(',')"
+                    matTooltip="{{ item }}"
+                  >
+                    <i
+                      [ngClass]="getWeatherTagClass(item.trim().toLowerCase())"
+                    ></i>
+                  </h1>
+                </div>
+              </div>
+            </div>
+          </mat-cell>
+        </ng-container>
+
+        <mat-header-row
+          *matHeaderRowDef="columnsToDisplay; sticky: true"
+        ></mat-header-row>
+        <mat-row
+          *matRowDef="let row; columns: columnsToDisplay"
+          class="example-element-row"
+          [class.example-expanded-row]="expandedElement === element"
+          (click)="toggleExpandableId(row.id)"
+        ></mat-row>
+        <mat-row
+          *matRowDef="let row; columns: ['expandedDetail']"
+          class="example-detail-row"
+        ></mat-row>
+      </mat-table>
+    </div>
   </div>
 </mat-card>
-
-<ng-template #tpl let-element>
-  <ng-container>
-    <div class="mat-row detail-row" [@detailExpand] style="overflow: hidden;">
-      <mat-card class="example-card detail-row">
-        <mat-card-header fxLayout="row">
-          <mat-card-title
-            >{{ element.author }} - {{ element.bookName }}
-          </mat-card-title>
-          <div fxFlex fxLayoutAlign="end">{{ element.pageNumber }}. s.</div>
-          <mat-card-subtitle
-            ><h3>{{ element.originalDate }}</h3>
-          </mat-card-subtitle>
-          <mat-card-subtitle>{{ element.date }} </mat-card-subtitle>
-        </mat-card-header>
-        <mat-card-content>
-          <p>
-            {{ element.text }}
-          </p>
-        </mat-card-content>
-        <mat-card-actions
-          fxFlexFill
-          fxLayout="row"
-          fxLayoutAlign="center"
-          fxLayoutGap="10px"
-        >
-          <h1
-            *ngFor="let item of element.weatherTags?.split(',')"
-            matTooltip="{{ item }}"
-          >
-            <i [ngClass]="getWeatherTagClass(item.trim().toLowerCase())"></i>
-          </h1>
-        </mat-card-actions>
-      </mat-card>
-    </div>
-  </ng-container>
-</ng-template>

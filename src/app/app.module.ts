@@ -4,7 +4,7 @@ import { HttpClientModule } from "@angular/common/http";
 import { NgModule } from "@angular/core";
 import { FlexLayoutModule } from "@angular/flex-layout";
 import { FormsModule, ReactiveFormsModule } from "@angular/forms";
-import { MatDividerModule } from "@angular/material";
+import { MatAutocompleteModule, MatDividerModule } from "@angular/material";
 import { MatButtonModule } from "@angular/material/button";
 import { MatCardModule } from "@angular/material/card";
 import { MatCheckboxModule } from "@angular/material/checkbox";
@@ -20,7 +20,6 @@ import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
 import { HighchartsChartModule } from "highcharts-angular";
 import { AppRoutingModule } from "./app-routing.module";
 import { AppComponent } from "./app.component";
-import { CdkDetailRowDirective } from "./cdk-detail-row.directive";
 import { ClimatesComponent } from "./climates/climates.component";
 import { GraphicsComponent } from "./graphics/graphics.component";
 import { ClimateService } from "./services/climate.service";
@@ -32,12 +31,13 @@ import { TextShrinkPipe } from "./table-text-shrink.pipe";
     GraphicsComponent,
     ClimatesComponent,
     TextShrinkPipe,
-    CdkDetailRowDirective,
   ],
   imports: [
     BrowserModule,
+    BrowserAnimationsModule,
     AppRoutingModule,
     MatSidenavModule,
+    MatAutocompleteModule,
     HttpClientModule,
     MatIconModule,
     MatCardModule,
@@ -55,7 +55,6 @@ import { TextShrinkPipe } from "./table-text-shrink.pipe";
     MatToolbarModule,
     FormsModule,
     ReactiveFormsModule,
-    BrowserAnimationsModule,
   ],
   providers: [ClimateService],
   bootstrap: [AppComponent],

@@ -1,10 +1,3 @@
-import {
-  animate,
-  state,
-  style,
-  transition,
-  trigger,
-} from "@angular/animations";
 import { Component, OnDestroy, OnInit, ViewChild } from "@angular/core";
 import { MatSort, MatTableDataSource } from "@angular/material";
 import { MatCheckboxChange } from "@angular/material/checkbox";
@@ -12,6 +5,7 @@ import * as _ from "lodash";
 import { combineLatest, Observable, of, Subject } from "rxjs";
 import { map, takeUntil } from "rxjs/operators";
 import { ClimateService } from "src/app/services/climate.service";
+import { expandableRowAnimation } from "./row-animation";
 
 export interface Climate {
   id?: number;
@@ -34,24 +28,17 @@ export interface Climate {
   selector: "app-climates",
   templateUrl: "./climates.component.html",
   styleUrls: ["./climates.component.css"],
-  animations: [
-    trigger("detailExpand", [
-      state(
-        "void",
-        style({ height: "0px", minHeight: "0", visibility: "hidden" })
-      ),
-      state("*", style({ height: "*", visibility: "visible" })),
-      transition("void <=> *", animate("225ms cubic-bezier(0.4, 0.0, 0.2, 1)")),
-    ]),
-  ],
+  animations: [expandableRowAnimation],
 })
 export class ClimatesComponent implements OnInit, OnDestroy {
   title = "IKLIM PROJESI";
 
   public endSubscriptions$: Subject<boolean> = new Subject();
 
+  expandedId: number;
+
   columnsToDisplay: string[] = [
-    "i",
+    "index",
     "text",
     "weatherTags",
     "place",
@@ -154,6 +141,20 @@ export class ClimatesComponent implements OnInit, OnDestroy {
     });
   }
 
+  setWeatherFilter(value: string): void {
+    of(this.dataFromService)
+      .pipe(
+        map((climates: Climate[]) =>
+          climates.filter((climate: Climate) =>
+            climate.weatherTags.toLowerCase().includes(value.toLowerCase())
+          )
+        )
+      )
+      .subscribe((data) => {
+        this.dataSource.data = data;
+      });
+  }
+
   getFullHicriMonthName(originalDate: string): string {
     const shortHicriMonth: string = originalDate.split("-")[1];
     return this.hicriMonthMap.has(shortHicriMonth)
@@ -167,9 +168,8 @@ export class ClimatesComponent implements OnInit, OnDestroy {
     return iconName ? iconName : "fa fa-window-close fa-x";
   }
 
-  ngOnDestroy(): void {
-    this.endSubscriptions$.next(true);
-    this.endSubscriptions$.complete();
+  toggleExpandableId(id: number): void {
+    this.expandedId = this.expandedId === id ? null : id;
   }
 
   dateClicked($event: MatCheckboxChange) {
@@ -245,6 +245,11 @@ export class ClimatesComponent implements OnInit, OnDestroy {
       return acc;
     }, []);
     this.dataSource.data = duplicate;
+  }
+
+  ngOnDestroy(): void {
+    this.endSubscriptions$.next(true);
+    this.endSubscriptions$.complete();
   }
 }
 
