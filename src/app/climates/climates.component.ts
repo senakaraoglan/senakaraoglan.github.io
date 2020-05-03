@@ -1,5 +1,9 @@
 import { Component, OnDestroy, OnInit, ViewChild } from "@angular/core";
-import { MatSort, MatTableDataSource } from "@angular/material";
+import {
+  MatOptionSelectionChange,
+  MatSort,
+  MatTableDataSource,
+} from "@angular/material";
 import { MatCheckboxChange } from "@angular/material/checkbox";
 import * as _ from "lodash";
 import { combineLatest, Observable, of, Subject } from "rxjs";
@@ -141,18 +145,12 @@ export class ClimatesComponent implements OnInit, OnDestroy {
     });
   }
 
-  setWeatherFilter(value: string): void {
-    of(this.dataFromService)
-      .pipe(
-        map((climates: Climate[]) =>
-          climates.filter((climate: Climate) =>
-            climate.weatherTags.toLowerCase().includes(value.toLowerCase())
-          )
-        )
-      )
-      .subscribe((data) => {
-        this.dataSource.data = data;
-      });
+  setWeatherFilter(event: MatOptionSelectionChange, value: string): void {
+    if (event.source.selected) {
+      this.dataSource.data = this.dataFromService.filter((climate: Climate) =>
+        climate.weatherTags.toLowerCase().includes(value.toLowerCase())
+      );
+    }
   }
 
   getFullHicriMonthName(originalDate: string): string {

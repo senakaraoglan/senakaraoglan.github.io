@@ -28,9 +28,9 @@
             [matAutocomplete]="tdAuto"
             placeholder="İklim durum filtreleme"
           />
-          <mat-autocomplete #tdAuto="matAutocomplete" [displayWith]="displayFn">
+          <mat-autocomplete #tdAuto="matAutocomplete">
             <mat-option
-              (onSelectionChange)="setWeatherFilter(weather.key)"
+              (onSelectionChange)="setWeatherFilter($event, weather.key)"
               *ngFor="let weather of weatherTagsMap | keyvalue"
               [value]="weather.key"
             >
@@ -98,7 +98,7 @@
 
         <!-- weather Column -->
         <ng-container matColumnDef="weatherTags">
-          <mat-header-cell *matHeaderCellDef [style.flex]="'0 0 12%'">
+          <mat-header-cell *matHeaderCellDef [style.flex]="'0 0 15%'">
             İklim Durumu
           </mat-header-cell>
           <mat-cell
@@ -106,7 +106,7 @@
             fxLayout="row"
             fxLayoutGap="10px"
             *matCellDef="let element"
-            [style.flex]="'0 0 12%'"
+            [style.flex]="'0 0 15%'"
           >
             <h1
               *ngFor="
@@ -116,7 +116,7 @@
               matTooltip="{{ item }}"
             >
               <i
-                *ngIf="i < 3"
+                *ngIf="i < 4"
                 [ngClass]="getWeatherTagClass(item.trim().toLowerCase())"
               ></i>
             </h1>
@@ -274,14 +274,9 @@
                   fxLayoutAlign="center"
                   fxLayoutGap="10px"
                 >
-                  <h1
-                    *ngFor="let item of element.weatherTags?.split(',')"
-                    matTooltip="{{ item }}"
-                  >
-                    <i
-                      [ngClass]="getWeatherTagClass(item.trim().toLowerCase())"
-                    ></i>
-                  </h1>
+                  <h3>
+                    {{ element.weatherTags }}
+                  </h3>
                 </div>
               </div>
             </div>
@@ -294,7 +289,6 @@
         <mat-row
           *matRowDef="let row; columns: columnsToDisplay"
           class="example-element-row"
-          [class.example-expanded-row]="expandedElement === element"
           (click)="toggleExpandableId(row.id)"
         ></mat-row>
         <mat-row
