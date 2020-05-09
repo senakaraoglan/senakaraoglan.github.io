@@ -1,6 +1,6 @@
 import { CdkTableModule } from "@angular/cdk/table";
 import { CdkTreeModule } from "@angular/cdk/tree";
-import { HttpClientModule } from "@angular/common/http";
+import { HttpClientModule, HTTP_INTERCEPTORS } from "@angular/common/http";
 import { NgModule } from "@angular/core";
 import { FlexLayoutModule } from "@angular/flex-layout";
 import { FormsModule, ReactiveFormsModule } from "@angular/forms";
@@ -20,8 +20,16 @@ import { BrowserAnimationsModule } from "@angular/platform-browser/animations";
 import { HighchartsChartModule } from "highcharts-angular";
 import { AppRoutingModule } from "./app-routing.module";
 import { AppComponent } from "./app.component";
+import { AuthGuardService } from "./auth/auth-guard.service";
+import { AuthService } from "./auth/auth.service";
 import { ClimatesComponent } from "./climates/climates.component";
 import { GraphicsComponent } from "./graphics/graphics.component";
+import { ErrorInterceptor } from "./helpers/error.interceptor";
+import { fakeBackendProvider } from "./helpers/fake-backend";
+import { JwtInterceptor } from "./helpers/jwt.interceptor";
+import { HomeComponent } from "./home/home.component";
+import { LoggedComponent } from "./logged/logged.component";
+import { LoginComponent } from "./login/login.component";
 import { ClimateService } from "./services/climate.service";
 import { TextShrinkPipe } from "./table-text-shrink.pipe";
 
@@ -31,6 +39,9 @@ import { TextShrinkPipe } from "./table-text-shrink.pipe";
     GraphicsComponent,
     ClimatesComponent,
     TextShrinkPipe,
+    HomeComponent,
+    LoginComponent,
+    LoggedComponent,
   ],
   imports: [
     BrowserModule,
@@ -56,7 +67,16 @@ import { TextShrinkPipe } from "./table-text-shrink.pipe";
     FormsModule,
     ReactiveFormsModule,
   ],
-  providers: [ClimateService],
+  providers: [
+    AuthService,
+    AuthGuardService,
+    ClimateService,
+    { provide: HTTP_INTERCEPTORS, useClass: JwtInterceptor, multi: true },
+    { provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true },
+
+    // provider used to create fake backend
+    fakeBackendProvider,
+  ],
   bootstrap: [AppComponent],
 })
 export class AppModule {}
