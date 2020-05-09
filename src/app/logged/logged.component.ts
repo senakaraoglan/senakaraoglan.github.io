@@ -13,8 +13,8 @@ import { Component } from "@angular/core";
       </a>
       <span class="example-spacer"></span>
       <div fxHide.lt-md="true">
-        <a mat-button routerLink="/">Anasayfa</a>
-        <a mat-button routerLink="/istatistik">İstatistik</a>
+        <a mat-button routerLink="/logged">Anasayfa</a>
+        <a mat-button routerLink="/logged/istatistik">İstatistik</a>
       </div>
     </mat-toolbar>
     <mat-sidenav-container fxFlexFill class="example-container">
@@ -28,7 +28,7 @@ import { Component } from "@angular/core";
       >
         <div fxLayout="column">
           <a mat-button routerLink="/logged">Anasayfa</a>
-          <a mat-button routerLink="/istatistik">İstatistik</a>
+          <a mat-button routerLink="/logged/istatistik">İstatistik</a>
         </div>
       </mat-sidenav>
       <mat-sidenav-content fxFlexFill>

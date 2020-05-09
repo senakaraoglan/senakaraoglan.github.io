@@ -1,10 +1,10 @@
 import { Component, OnDestroy } from "@angular/core";
-import { ClimateService } from "src/app/services/climate.service";
 import * as Highcharts from "highcharts";
 import { from, Observable, Subject } from "rxjs";
-import { Climate } from "../climates/climates.component";
 import { groupBy, mergeMap, takeUntil, toArray } from "rxjs/operators";
-import { TimelineData, SlideObject } from "./timeline-model";
+import { ClimateService } from "src/app/services/climate.service";
+import { Climate } from "../climates/climates.component";
+import { SlideObject, TimelineData } from "./timeline-model";
 
 @Component({
   selector: "app-graphics",
@@ -201,28 +201,54 @@ export class GraphicsComponent implements OnDestroy {
     });
   }
 
+  getLengthOfDateFilter(
+    dayExist: boolean,
+    monthExist: boolean,
+    yearExist: boolean
+  ): number {
+    return this.climates.filter(
+      (climate) =>
+        dayExist === climate.dayExist &&
+        monthExist === climate.monthExist &&
+        yearExist === climate.yearExist
+    ).length;
+  }
+
+  getPercentage(filtered: number, sum: number) {
+    return ((filtered * 100) / sum).toFixed(2);
+  }
+
   public generateDateGraph() {
     let dateGraphData = [
       [
-        "Yıl/Ay/Gün",
-        this.climates.filter(
-          (climate) =>
-            climate.dayExist && climate.monthExist && climate.yearExist
-        ).length,
+        "Yıl/Ay/Gün" +
+          "(" +
+          this.getPercentage(
+            this.getLengthOfDateFilter(true, true, true),
+            this.climates.length
+          ) +
+          "%)",
+        this.getLengthOfDateFilter(true, true, true),
       ],
       [
-        "Yıl ve Ay",
-        this.climates.filter(
-          (climate) =>
-            !climate.dayExist && climate.monthExist && climate.yearExist
-        ).length,
+        "Yıl ve Ay" +
+          "(" +
+          this.getPercentage(
+            this.getLengthOfDateFilter(false, true, true),
+            this.climates.length
+          ) +
+          "%)",
+        this.getLengthOfDateFilter(false, true, true),
       ],
       [
-        "Sadece Yıl",
-        this.climates.filter(
-          (climate) =>
-            !climate.dayExist && !climate.monthExist && climate.yearExist
-        ).length,
+        "Sadece Yıl" +
+          "(" +
+          this.getPercentage(
+            this.getLengthOfDateFilter(false, false, true),
+            this.climates.length
+          ) +
+          "%)",
+        this.getLengthOfDateFilter(false, false, true),
       ],
       ["TOPLAM", this.climates.length],
     ];
