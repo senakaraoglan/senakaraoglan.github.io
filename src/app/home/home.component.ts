@@ -3,29 +3,29 @@ import { Component } from "@angular/core";
 @Component({
   selector: "app-home",
   template: `
-    <div
-      style="background-position: center;
-      background-repeat: no-repeat;
-      background-size: cover; width: 100%; height: 100%; background-image: url('assets/bg1.jpeg');"
+    <mat-card class="card"
+      ><a mat-raised-button href="mailto:iletisim@disar.org.tr"
+        >İLETİŞİM</a
+      ></mat-card
     >
-      <mat-toolbar
-        class="transparent"
-        style="position: absolute;
-      background-color:transparent !important;"
-      >
-        <mat-toolbar-row>
-          <a
-            style="
-          background-color:white;"
-            mat-button
-            routerLink="/login"
-          >
-            <span>login</span>
-          </a>
-        </mat-toolbar-row>
-      </mat-toolbar>
-    </div>
   `,
+  styles: [
+    `
+      a {
+        padding-left: 20px;
+        padding-top: 20px;
+        align: center;
+      }
+
+      .card {
+        background-image: url(assets/onsozdusuk.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        height: 1000px;
+      }
+    `,
+  ],
 })
 export class HomeComponent {
   constructor() {}
