@@ -7,7 +7,7 @@ import { Component } from "@angular/core";
       <div class="center-div">
         <mat-card class="card">
           <a mat-raised-button href="mailto:iletisim@disar.org.tr">İLETİŞİM</a>
-          <img mat-card-image src="assets/onsozdusuk.jpg" alt="onsoz" />
+          <img mat-card-image src="assets/onsozyuksek.jpg" alt="onsoz" />
         </mat-card>
       </div>
     </div>

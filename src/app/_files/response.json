@@ -1,6 +1,6 @@
 [
   {
-    "id": 4566,
+    "id": 4994,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -17,7 +17,7 @@
     "dayExist": false
   },
   {
-    "id": 4589,
+    "id": 5017,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -34,7 +34,7 @@
     "dayExist": false
   },
   {
-    "id": 4590,
+    "id": 5018,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -51,7 +51,7 @@
     "dayExist": false
   },
   {
-    "id": 4591,
+    "id": 5019,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -68,7 +68,7 @@
     "dayExist": false
   },
   {
-    "id": 4611,
+    "id": 5039,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -85,7 +85,7 @@
     "dayExist": false
   },
   {
-    "id": 4612,
+    "id": 5040,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -102,7 +102,7 @@
     "dayExist": false
   },
   {
-    "id": 4613,
+    "id": 5041,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -119,7 +119,7 @@
     "dayExist": false
   },
   {
-    "id": 4693,
+    "id": 5121,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -136,7 +136,7 @@
     "dayExist": false
   },
   {
-    "id": 4694,
+    "id": 5122,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -153,7 +153,7 @@
     "dayExist": false
   },
   {
-    "id": 4695,
+    "id": 5123,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -170,7 +170,7 @@
     "dayExist": false
   },
   {
-    "id": 4702,
+    "id": 5130,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -187,7 +187,7 @@
     "dayExist": false
   },
   {
-    "id": 4707,
+    "id": 5135,
     "date": "1000-01-01",
     "originalDate": "?-N-?",
     "rangeEndDate": null,
@@ -204,7 +204,7 @@
     "dayExist": false
   },
   {
-    "id": 4848,
+    "id": 5279,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -221,7 +221,7 @@
     "dayExist": false
   },
   {
-    "id": 4849,
+    "id": 5280,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -238,7 +238,7 @@
     "dayExist": false
   },
   {
-    "id": 4850,
+    "id": 5281,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -255,7 +255,7 @@
     "dayExist": false
   },
   {
-    "id": 4851,
+    "id": 5282,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -272,7 +272,7 @@
     "dayExist": false
   },
   {
-    "id": 4852,
+    "id": 5283,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -289,7 +289,7 @@
     "dayExist": false
   },
   {
-    "id": 4853,
+    "id": 5284,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -306,7 +306,7 @@
     "dayExist": false
   },
   {
-    "id": 4854,
+    "id": 5285,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -323,7 +323,7 @@
     "dayExist": false
   },
   {
-    "id": 4855,
+    "id": 5286,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -340,7 +340,7 @@
     "dayExist": false
   },
   {
-    "id": 4868,
+    "id": 5299,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -357,7 +357,7 @@
     "dayExist": false
   },
   {
-    "id": 4918,
+    "id": 5349,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -374,7 +374,7 @@
     "dayExist": false
   },
   {
-    "id": 4973,
+    "id": 5404,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -391,7 +391,7 @@
     "dayExist": false
   },
   {
-    "id": 4696,
+    "id": 5124,
     "date": "1000-01-02",
     "originalDate": "?-L-2",
     "rangeEndDate": null,
@@ -408,7 +408,7 @@
     "dayExist": true
   },
   {
-    "id": 4698,
+    "id": 5126,
     "date": "1216-09-26",
     "originalDate": "1216-09-26",
     "rangeEndDate": null,
@@ -425,7 +425,7 @@
     "dayExist": true
   },
   {
-    "id": 4979,
+    "id": 5410,
     "date": "1217-01-01",
     "originalDate": "1217-?-?",
     "rangeEndDate": null,
@@ -442,7 +442,7 @@
     "dayExist": false
   },
   {
-    "id": 4701,
+    "id": 5129,
     "date": "1220-01-01",
     "originalDate": "1220-?-?",
     "rangeEndDate": null,
@@ -459,7 +459,7 @@
     "dayExist": false
   },
   {
-    "id": 4715,
+    "id": 5143,
     "date": "1222-01-01",
     "originalDate": "1222-Ş-?",
     "rangeEndDate": null,
@@ -476,7 +476,7 @@
     "dayExist": false
   },
   {
-    "id": 4983,
+    "id": 5414,
     "date": "1223-01-01",
     "originalDate": "1223-?-?",
     "rangeEndDate": null,
@@ -493,7 +493,7 @@
     "dayExist": false
   },
   {
-    "id": 4716,
+    "id": 5144,
     "date": "1226-01-01",
     "originalDate": "1226-B-?",
     "rangeEndDate": null,
@@ -510,7 +510,7 @@
     "dayExist": false
   },
   {
-    "id": 4984,
+    "id": 5415,
     "date": "1227-01-01",
     "originalDate": "1227-?-?",
     "rangeEndDate": null,
@@ -527,7 +527,7 @@
     "dayExist": false
   },
   {
-    "id": 4985,
+    "id": 5416,
     "date": "1228-01-01",
     "originalDate": "1228-?-? ",
     "rangeEndDate": null,
@@ -544,7 +544,7 @@
     "dayExist": false
   },
   {
-    "id": 4986,
+    "id": 5417,
     "date": "1233-01-01",
     "originalDate": "1233-RA-?-1233- L-?",
     "rangeEndDate": "1233-L-?",
@@ -561,7 +561,7 @@
     "dayExist": false
   },
   {
-    "id": 4714,
+    "id": 5142,
     "date": "1338-01-01",
     "originalDate": "1338-?-?",
     "rangeEndDate": null,
@@ -578,7 +578,7 @@
     "dayExist": false
   },
   {
-    "id": 4974,
+    "id": 5405,
     "date": "1755-01-01",
     "originalDate": "1755-?-?",
     "rangeEndDate": null,
@@ -595,7 +595,7 @@
     "dayExist": false
   },
   {
-    "id": 4975,
+    "id": 5406,
     "date": "1755-01-01",
     "originalDate": "1755-?-?",
     "rangeEndDate": null,
@@ -612,7 +612,7 @@
     "dayExist": false
   },
   {
-    "id": 4976,
+    "id": 5407,
     "date": "1755-01-01",
     "originalDate": "1755-?-?",
     "rangeEndDate": null,
@@ -629,7 +629,7 @@
     "dayExist": false
   },
   {
-    "id": 4977,
+    "id": 5408,
     "date": "1755-01-01",
     "originalDate": "1755-?-?",
     "rangeEndDate": null,
@@ -646,7 +646,7 @@
     "dayExist": false
   },
   {
-    "id": 4989,
+    "id": 5420,
     "date": "1755-01-01",
     "originalDate": "1755-?-?",
     "rangeEndDate": null,
@@ -663,7 +663,7 @@
     "dayExist": false
   },
   {
-    "id": 4990,
+    "id": 5421,
     "date": "1755-01-01",
     "originalDate": "1755-?-?",
     "rangeEndDate": null,
@@ -680,7 +680,7 @@
     "dayExist": false
   },
   {
-    "id": 4991,
+    "id": 5422,
     "date": "1755-01-01",
     "originalDate": "1755-?-?",
     "rangeEndDate": null,
@@ -697,7 +697,7 @@
     "dayExist": false
   },
   {
-    "id": 4992,
+    "id": 5423,
     "date": "1755-01-01",
     "originalDate": "1755-?-?",
     "rangeEndDate": null,
@@ -714,7 +714,7 @@
     "dayExist": false
   },
   {
-    "id": 4678,
+    "id": 5106,
     "date": "1766-05-11",
     "originalDate": "1766-05-11",
     "rangeEndDate": null,
@@ -731,7 +731,7 @@
     "dayExist": true
   },
   {
-    "id": 4669,
+    "id": 5097,
     "date": "1778-01-01",
     "originalDate": "1778-?-?-1795-?-?",
     "rangeEndDate": "1795-?-?",
@@ -748,7 +748,7 @@
     "dayExist": false
   },
   {
-    "id": 4670,
+    "id": 5098,
     "date": "1778-01-01",
     "originalDate": "1778-?-?",
     "rangeEndDate": null,
@@ -765,7 +765,7 @@
     "dayExist": false
   },
   {
-    "id": 4677,
+    "id": 5105,
     "date": "1778-01-01",
     "originalDate": "1778-?-?-1795-?-?",
     "rangeEndDate": "1795-?-?",
@@ -782,7 +782,7 @@
     "dayExist": false
   },
   {
-    "id": 4722,
+    "id": 5150,
     "date": "1778-09-05",
     "originalDate": "1778-09-05",
     "rangeEndDate": null,
@@ -799,7 +799,7 @@
     "dayExist": true
   },
   {
-    "id": 4723,
+    "id": 5151,
     "date": "1779-04-18",
     "originalDate": "1779-04-18-1779-04-27",
     "rangeEndDate": "1779-04-27",
@@ -816,7 +816,7 @@
     "dayExist": true
   },
   {
-    "id": 4582,
+    "id": 5010,
     "date": "1779-07-01",
     "originalDate": "1779-07-?",
     "rangeEndDate": null,
@@ -833,7 +833,7 @@
     "dayExist": false
   },
   {
-    "id": 4671,
+    "id": 5099,
     "date": "1782-01-01",
     "originalDate": "1782-?-?",
     "rangeEndDate": null,
@@ -850,7 +850,7 @@
     "dayExist": false
   },
   {
-    "id": 4583,
+    "id": 5011,
     "date": "1782-06-16",
     "originalDate": "1782-06-16",
     "rangeEndDate": null,
@@ -867,7 +867,7 @@
     "dayExist": true
   },
   {
-    "id": 4584,
+    "id": 5012,
     "date": "1782-08-21",
     "originalDate": "1782-08-21-1782-08-22",
     "rangeEndDate": "1782-08-22",
@@ -884,7 +884,7 @@
     "dayExist": true
   },
   {
-    "id": 4930,
+    "id": 5361,
     "date": "1782-08-22",
     "originalDate": "1782-8-22",
     "rangeEndDate": null,
@@ -901,7 +901,7 @@
     "dayExist": true
   },
   {
-    "id": 4672,
+    "id": 5100,
     "date": "1784-08-05",
     "originalDate": "1784-08-05",
     "rangeEndDate": null,
@@ -918,7 +918,7 @@
     "dayExist": true
   },
   {
-    "id": 4720,
+    "id": 5148,
     "date": "1784-08-06",
     "originalDate": "1784-08-06",
     "rangeEndDate": null,
@@ -935,7 +935,7 @@
     "dayExist": true
   },
   {
-    "id": 4872,
+    "id": 5303,
     "date": "1785-02-21",
     "originalDate": "1785-02-21",
     "rangeEndDate": null,
@@ -952,7 +952,7 @@
     "dayExist": true
   },
   {
-    "id": 4873,
+    "id": 5304,
     "date": "1785-05-21",
     "originalDate": "1785-05-21",
     "rangeEndDate": null,
@@ -969,7 +969,7 @@
     "dayExist": true
   },
   {
-    "id": 4874,
+    "id": 5305,
     "date": "1785-08-13",
     "originalDate": "1785-08-13",
     "rangeEndDate": null,
@@ -986,7 +986,7 @@
     "dayExist": true
   },
   {
-    "id": 4875,
+    "id": 5306,
     "date": "1785-09-01",
     "originalDate": "1785-09-?",
     "rangeEndDate": null,
@@ -1003,7 +1003,7 @@
     "dayExist": false
   },
   {
-    "id": 4876,
+    "id": 5307,
     "date": "1785-10-22",
     "originalDate": "1785-10-22",
     "rangeEndDate": null,
@@ -1020,7 +1020,7 @@
     "dayExist": true
   },
   {
-    "id": 4877,
+    "id": 5308,
     "date": "1786-01-05",
     "originalDate": "1786-01-05",
     "rangeEndDate": null,
@@ -1037,7 +1037,7 @@
     "dayExist": true
   },
   {
-    "id": 4878,
+    "id": 5309,
     "date": "1786-02-24",
     "originalDate": "1786-02-24",
     "rangeEndDate": null,
@@ -1054,7 +1054,7 @@
     "dayExist": true
   },
   {
-    "id": 4721,
+    "id": 5149,
     "date": "1786-05-10",
     "originalDate": "1786-05-10",
     "rangeEndDate": null,
@@ -1071,7 +1071,7 @@
     "dayExist": true
   },
   {
-    "id": 4879,
+    "id": 5310,
     "date": "1786-07-04",
     "originalDate": "1786-07-04",
     "rangeEndDate": null,
@@ -1088,7 +1088,7 @@
     "dayExist": true
   },
   {
-    "id": 4731,
+    "id": 5159,
     "date": "1786-08-09",
     "originalDate": "1786-08-09",
     "rangeEndDate": null,
@@ -1105,7 +1105,7 @@
     "dayExist": true
   },
   {
-    "id": 4856,
+    "id": 5287,
     "date": "1786-08-09",
     "originalDate": "1786-08-09",
     "rangeEndDate": null,
@@ -1122,7 +1122,7 @@
     "dayExist": true
   },
   {
-    "id": 4732,
+    "id": 5160,
     "date": "1786-08-13",
     "originalDate": "1786-08-13",
     "rangeEndDate": null,
@@ -1139,7 +1139,7 @@
     "dayExist": true
   },
   {
-    "id": 4857,
+    "id": 5288,
     "date": "1786-08-13",
     "originalDate": "1786-08-13",
     "rangeEndDate": null,
@@ -1156,7 +1156,7 @@
     "dayExist": true
   },
   {
-    "id": 4880,
+    "id": 5311,
     "date": "1786-08-13",
     "originalDate": "1786-08-13",
     "rangeEndDate": null,
@@ -1173,7 +1173,7 @@
     "dayExist": true
   },
   {
-    "id": 4733,
+    "id": 5161,
     "date": "1786-09-05",
     "originalDate": "1786-09-05",
     "rangeEndDate": null,
@@ -1190,7 +1190,7 @@
     "dayExist": true
   },
   {
-    "id": 4858,
+    "id": 5289,
     "date": "1786-09-05",
     "originalDate": "1786-09-05",
     "rangeEndDate": null,
@@ -1207,7 +1207,7 @@
     "dayExist": true
   },
   {
-    "id": 4734,
+    "id": 5162,
     "date": "1786-09-13",
     "originalDate": "1786-09-13",
     "rangeEndDate": null,
@@ -1224,7 +1224,7 @@
     "dayExist": true
   },
   {
-    "id": 4859,
+    "id": 5290,
     "date": "1786-09-13",
     "originalDate": "1786-09-13",
     "rangeEndDate": null,
@@ -1241,7 +1241,7 @@
     "dayExist": true
   },
   {
-    "id": 4735,
+    "id": 5163,
     "date": "1786-09-14",
     "originalDate": "1786-09-14",
     "rangeEndDate": null,
@@ -1258,7 +1258,7 @@
     "dayExist": true
   },
   {
-    "id": 4860,
+    "id": 5291,
     "date": "1786-09-14",
     "originalDate": "1786-09-14",
     "rangeEndDate": null,
@@ -1275,7 +1275,7 @@
     "dayExist": true
   },
   {
-    "id": 4736,
+    "id": 5164,
     "date": "1786-09-21",
     "originalDate": "1786-09-21",
     "rangeEndDate": null,
@@ -1292,7 +1292,7 @@
     "dayExist": true
   },
   {
-    "id": 4861,
+    "id": 5292,
     "date": "1786-09-21",
     "originalDate": "1786-09-21",
     "rangeEndDate": null,
@@ -1309,7 +1309,7 @@
     "dayExist": true
   },
   {
-    "id": 4881,
+    "id": 5312,
     "date": "1786-11-17",
     "originalDate": "1786-11-17",
     "rangeEndDate": null,
@@ -1326,7 +1326,7 @@
     "dayExist": true
   },
   {
-    "id": 4882,
+    "id": 5313,
     "date": "1787-01-08",
     "originalDate": "1787-01-08",
     "rangeEndDate": null,
@@ -1343,7 +1343,7 @@
     "dayExist": true
   },
   {
-    "id": 4883,
+    "id": 5314,
     "date": "1787-01-29",
     "originalDate": "1787-01-29",
     "rangeEndDate": null,
@@ -1360,7 +1360,7 @@
     "dayExist": true
   },
   {
-    "id": 4884,
+    "id": 5315,
     "date": "1787-02-22",
     "originalDate": "1787-02-22",
     "rangeEndDate": null,
@@ -1377,7 +1377,7 @@
     "dayExist": true
   },
   {
-    "id": 4885,
+    "id": 5316,
     "date": "1787-03-22",
     "originalDate": "1787-03-22",
     "rangeEndDate": null,
@@ -1394,7 +1394,7 @@
     "dayExist": true
   },
   {
-    "id": 4886,
+    "id": 5317,
     "date": "1787-03-23",
     "originalDate": "1787-03-23",
     "rangeEndDate": null,
@@ -1411,7 +1411,7 @@
     "dayExist": true
   },
   {
-    "id": 4887,
+    "id": 5318,
     "date": "1787-04-24",
     "originalDate": "1787-04-24",
     "rangeEndDate": null,
@@ -1428,7 +1428,7 @@
     "dayExist": true
   },
   {
-    "id": 4888,
+    "id": 5319,
     "date": "1787-07-17",
     "originalDate": "1787-07-17",
     "rangeEndDate": null,
@@ -1445,7 +1445,7 @@
     "dayExist": true
   },
   {
-    "id": 4889,
+    "id": 5320,
     "date": "1787-09-23",
     "originalDate": "1787-09-23",
     "rangeEndDate": null,
@@ -1462,7 +1462,7 @@
     "dayExist": true
   },
   {
-    "id": 4890,
+    "id": 5321,
     "date": "1787-10-28",
     "originalDate": "1787-10-28",
     "rangeEndDate": null,
@@ -1479,7 +1479,7 @@
     "dayExist": true
   },
   {
-    "id": 4891,
+    "id": 5322,
     "date": "1787-11-06",
     "originalDate": "1787-11-06",
     "rangeEndDate": null,
@@ -1496,7 +1496,7 @@
     "dayExist": true
   },
   {
-    "id": 4869,
+    "id": 5300,
     "date": "1788-01-01",
     "originalDate": "1788-?-?",
     "rangeEndDate": null,
@@ -1513,7 +1513,7 @@
     "dayExist": false
   },
   {
-    "id": 4892,
+    "id": 5323,
     "date": "1788-02-18",
     "originalDate": "1788-02-18",
     "rangeEndDate": null,
@@ -1530,7 +1530,7 @@
     "dayExist": true
   },
   {
-    "id": 4893,
+    "id": 5324,
     "date": "1788-04-07",
     "originalDate": "1788-04-07",
     "rangeEndDate": null,
@@ -1547,7 +1547,7 @@
     "dayExist": true
   },
   {
-    "id": 4894,
+    "id": 5325,
     "date": "1788-04-29",
     "originalDate": "1788-04-29",
     "rangeEndDate": null,
@@ -1564,7 +1564,7 @@
     "dayExist": true
   },
   {
-    "id": 4895,
+    "id": 5326,
     "date": "1788-05-04",
     "originalDate": "1788-05-04",
     "rangeEndDate": null,
@@ -1581,7 +1581,7 @@
     "dayExist": true
   },
   {
-    "id": 4896,
+    "id": 5327,
     "date": "1788-05-06",
     "originalDate": "1788-05-06",
     "rangeEndDate": null,
@@ -1598,7 +1598,7 @@
     "dayExist": true
   },
   {
-    "id": 4576,
+    "id": 5004,
     "date": "1788-05-08",
     "originalDate": "1788-05-08",
     "rangeEndDate": null,
@@ -1615,7 +1615,7 @@
     "dayExist": true
   },
   {
-    "id": 4577,
+    "id": 5005,
     "date": "1788-05-31",
     "originalDate": "1788-05-31",
     "rangeEndDate": null,
@@ -1632,7 +1632,7 @@
     "dayExist": true
   },
   {
-    "id": 4578,
+    "id": 5006,
     "date": "1788-06-04",
     "originalDate": "1788-06-04",
     "rangeEndDate": null,
@@ -1649,7 +1649,7 @@
     "dayExist": true
   },
   {
-    "id": 4579,
+    "id": 5007,
     "date": "1788-06-08",
     "originalDate": "1788-06-08",
     "rangeEndDate": null,
@@ -1666,7 +1666,7 @@
     "dayExist": true
   },
   {
-    "id": 4580,
+    "id": 5008,
     "date": "1788-06-09",
     "originalDate": "1788-06-09",
     "rangeEndDate": null,
@@ -1683,7 +1683,7 @@
     "dayExist": true
   },
   {
-    "id": 4581,
+    "id": 5009,
     "date": "1788-06-10",
     "originalDate": "1788-06-10-1788-06-12",
     "rangeEndDate": "1788-06-12",
@@ -1700,7 +1700,7 @@
     "dayExist": true
   },
   {
-    "id": 4897,
+    "id": 5328,
     "date": "1788-10-21",
     "originalDate": "1788-10-21",
     "rangeEndDate": null,
@@ -1717,7 +1717,7 @@
     "dayExist": true
   },
   {
-    "id": 4898,
+    "id": 5329,
     "date": "1788-11-22",
     "originalDate": "1788-11-22",
     "rangeEndDate": null,
@@ -1734,7 +1734,7 @@
     "dayExist": true
   },
   {
-    "id": 4899,
+    "id": 5330,
     "date": "1788-12-20",
     "originalDate": "1788-12-20",
     "rangeEndDate": null,
@@ -1751,7 +1751,7 @@
     "dayExist": true
   },
   {
-    "id": 4900,
+    "id": 5331,
     "date": "1788-12-22",
     "originalDate": "1788-12-22",
     "rangeEndDate": null,
@@ -1768,7 +1768,7 @@
     "dayExist": true
   },
   {
-    "id": 4901,
+    "id": 5332,
     "date": "1788-12-30",
     "originalDate": "1788-12-30",
     "rangeEndDate": null,
@@ -1785,7 +1785,7 @@
     "dayExist": true
   },
   {
-    "id": 4679,
+    "id": 5107,
     "date": "1789-01-01",
     "originalDate": "1789-?-?",
     "rangeEndDate": null,
@@ -1802,7 +1802,7 @@
     "dayExist": false
   },
   {
-    "id": 4902,
+    "id": 5333,
     "date": "1789-01-31",
     "originalDate": "1789-01-31",
     "rangeEndDate": null,
@@ -1819,7 +1819,7 @@
     "dayExist": true
   },
   {
-    "id": 4903,
+    "id": 5334,
     "date": "1789-02-15",
     "originalDate": "1789-02-15",
     "rangeEndDate": null,
@@ -1836,7 +1836,7 @@
     "dayExist": true
   },
   {
-    "id": 4904,
+    "id": 5335,
     "date": "1789-03-29",
     "originalDate": "1789-03-29",
     "rangeEndDate": null,
@@ -1853,7 +1853,7 @@
     "dayExist": true
   },
   {
-    "id": 4863,
+    "id": 5294,
     "date": "1789-05-24",
     "originalDate": "1789-05-24",
     "rangeEndDate": null,
@@ -1870,7 +1870,7 @@
     "dayExist": true
   },
   {
-    "id": 4905,
+    "id": 5336,
     "date": "1789-05-29",
     "originalDate": "1789-05-29",
     "rangeEndDate": null,
@@ -1887,7 +1887,7 @@
     "dayExist": true
   },
   {
-    "id": 4906,
+    "id": 5337,
     "date": "1789-06-08",
     "originalDate": "1789-06-08",
     "rangeEndDate": null,
@@ -1904,7 +1904,7 @@
     "dayExist": true
   },
   {
-    "id": 4866,
+    "id": 5297,
     "date": "1789-07-23",
     "originalDate": "1789-07-23",
     "rangeEndDate": null,
@@ -1921,7 +1921,7 @@
     "dayExist": true
   },
   {
-    "id": 4867,
+    "id": 5298,
     "date": "1789-07-23",
     "originalDate": "1789-07-23",
     "rangeEndDate": null,
@@ -1938,7 +1938,7 @@
     "dayExist": true
   },
   {
-    "id": 4907,
+    "id": 5338,
     "date": "1789-08-20",
     "originalDate": "1789-08-20",
     "rangeEndDate": null,
@@ -1955,7 +1955,7 @@
     "dayExist": true
   },
   {
-    "id": 4908,
+    "id": 5339,
     "date": "1789-09-25",
     "originalDate": "1789-09-25",
     "rangeEndDate": null,
@@ -1972,7 +1972,7 @@
     "dayExist": true
   },
   {
-    "id": 4909,
+    "id": 5340,
     "date": "1789-10-23",
     "originalDate": "1789-10-23",
     "rangeEndDate": null,
@@ -1989,11 +1989,11 @@
     "dayExist": true
   },
   {
-    "id": 4955,
+    "id": 5386,
     "date": "1789-10-24",
     "originalDate": "1789-10-24",
     "rangeEndDate": null,
-    "text": "Târîh-i Matar-ı Şedîd der-İslâmbol: Ba‘de’s-salâtü’z-zuhr ve kable’s-salâti’l-asr semâdan bir matar-ı şedîd zuhûr etti ki, aslâ misli mesbûk değildir. Ol kadar şedîd zuhûr etti ki, Âstâne’de Mahmûdpaşa Çarşusu ve Tavşântaşı cıvârları ve ba‘zı mahaller suyun darbından yarılup, birkaç âdem boyu çukur olup, aslâ mürûr u ubûru mümkün olmadığı işbu cerîdeye kayd şüd. Üsküdâr’da ve Kasımpaşa’da ve Eyyüp’de vesâ’ir mahallerde katı çok hasârât-ı küllî vâkı‘ olmuşdur. Fî 4 SA. sene 1204 (24.10.1789).",
+    "text": "Târîh-i Matar-ı Şedîd der-İslâmbol: Ba‘de’s-salâtü’z-zuhr ve kable’s-salâti’l-asr semâdan bir matar-ı şedîd zuhûr etti ki, aslâ misli mesbûk değildir. Ol kadar şedîd zuhûr etti ki, Âstâne’de Mahmûdpaşa Çarşusu ve Tavşântaşı cıvârları ve ba‘zı mahaller suyun darbından yarılup, birkaç âdem boyu çukur olup, aslâ mürûr u ubûru mümkün olmadığı işbu cerîdeye kayd şüd. Üsküdâr’da ve Kasımpaşa’da ve Eyyüp’de vesâ’ir mahallerde katı çok hasârât-ı küllî vâkı‘ olmuşdur. Fî 4 SA. sene 1204 (24.10.1789).",
     "place": "İstanbul",
     "pageNumber": "175",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -2006,7 +2006,7 @@
     "dayExist": true
   },
   {
-    "id": 4673,
+    "id": 5101,
     "date": "1790-01-01",
     "originalDate": "1790-?-?",
     "rangeEndDate": null,
@@ -2023,7 +2023,7 @@
     "dayExist": false
   },
   {
-    "id": 4674,
+    "id": 5102,
     "date": "1791-03-21",
     "originalDate": "1791-03-21",
     "rangeEndDate": null,
@@ -2040,7 +2040,7 @@
     "dayExist": true
   },
   {
-    "id": 4957,
+    "id": 5388,
     "date": "1791-09-22",
     "originalDate": "1791-09-22",
     "rangeEndDate": null,
@@ -2057,7 +2057,7 @@
     "dayExist": true
   },
   {
-    "id": 4972,
+    "id": 5403,
     "date": "1792-01-01",
     "originalDate": "1792-?-?",
     "rangeEndDate": null,
@@ -2074,7 +2074,7 @@
     "dayExist": false
   },
   {
-    "id": 4956,
+    "id": 5387,
     "date": "1792-05-15",
     "originalDate": "1792-5-15",
     "rangeEndDate": null,
@@ -2091,7 +2091,7 @@
     "dayExist": true
   },
   {
-    "id": 4675,
+    "id": 5103,
     "date": "1792-09-13",
     "originalDate": "1792-09-13",
     "rangeEndDate": null,
@@ -2108,7 +2108,7 @@
     "dayExist": true
   },
   {
-    "id": 4958,
+    "id": 5389,
     "date": "1792-10-14",
     "originalDate": "1792-10-14",
     "rangeEndDate": null,
@@ -2125,7 +2125,7 @@
     "dayExist": true
   },
   {
-    "id": 4919,
+    "id": 5350,
     "date": "1793-01-01",
     "originalDate": "1793-?-?",
     "rangeEndDate": null,
@@ -2142,7 +2142,7 @@
     "dayExist": false
   },
   {
-    "id": 4967,
+    "id": 5398,
     "date": "1793-01-01",
     "originalDate": "1793-?-?",
     "rangeEndDate": null,
@@ -2159,7 +2159,7 @@
     "dayExist": false
   },
   {
-    "id": 4970,
+    "id": 5401,
     "date": "1793-01-01",
     "originalDate": "1793-?-?",
     "rangeEndDate": null,
@@ -2176,7 +2176,7 @@
     "dayExist": false
   },
   {
-    "id": 4971,
+    "id": 5402,
     "date": "1793-01-01",
     "originalDate": "1793-?-?",
     "rangeEndDate": null,
@@ -2193,7 +2193,7 @@
     "dayExist": false
   },
   {
-    "id": 4966,
+    "id": 5397,
     "date": "1793-05-20",
     "originalDate": "1793-05-20",
     "rangeEndDate": null,
@@ -2210,7 +2210,7 @@
     "dayExist": true
   },
   {
-    "id": 4968,
+    "id": 5399,
     "date": "1793-06-01",
     "originalDate": "1793-06-?",
     "rangeEndDate": null,
@@ -2227,7 +2227,7 @@
     "dayExist": false
   },
   {
-    "id": 4969,
+    "id": 5400,
     "date": "1793-06-01",
     "originalDate": "1793-06-?",
     "rangeEndDate": null,
@@ -2244,7 +2244,7 @@
     "dayExist": false
   },
   {
-    "id": 4960,
+    "id": 5391,
     "date": "1793-08-17",
     "originalDate": "1793-08-17",
     "rangeEndDate": null,
@@ -2261,11 +2261,11 @@
     "dayExist": true
   },
   {
-    "id": 4959,
+    "id": 5390,
     "date": "1793-09-04",
     "originalDate": "1793-9-4",
     "rangeEndDate": null,
-    "text": "Târîh-i Matar-ı şedîd: Âstâne-i aliyye’de, yevm-i salı nehâren sâ‘at yedibuçuk, bir matar-ı şedîd zuhûr edüp, katı küllî hasârât edüp, çok yerleri harâb ettiği işbu cerîdeye kayd olundu. Fî 27 M. sene 1208 (4.9.1793)",
+    "text": "Târîh-i Matar-ı şedîd: Âstâne-i aliyye’de, yevm-i salı nehâren sâ‘at yedibuçuk, bir matar-ı şedîd zuhûr edüp, katı küllî hasârât edüp, çok yerleri harâb ettiği işbu cerîdeye kayd olundu. Fî 27 M. sene 1208 (4.9.1793)",
     "place": "İstanbul",
     "pageNumber": "200",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -2278,7 +2278,58 @@
     "dayExist": true
   },
   {
-    "id": 4607,
+    "id": 5165,
+    "date": "1793-09-20",
+    "originalDate": "1793-09-20",
+    "rangeEndDate": null,
+    "text": "Donnerstags hatten wir einen Marsch von 221 Werst. Wir sahen wieder weiter nichts, als nackte bergigte Gegenden ohne irgend eine Abwechselung. Wir fuhren über den ziemlich bedeutenden Fluss Ergina auf einer langen Brücke und bald darauf auf einer kleinern über die unbedeutende Warna, ohnweit welcher, eine kleine halbe Stunde von dem ansehnlichen und auf einer Anhöhe gelegenen Flecken Tschorlo, unser Lager aufgeschlagen war. Nach Tschorlo wagte sich niemand der Unsrigen hin, weil, wie es hiefs, die Pest dort wüthe.",
+    "place": "İstanbul",
+    "pageNumber": "C.I S.189 ",
+    "bookName": "Reise der russisch-kaiserlichen ausserordentlichen Gesandtschaft an die Othomanische Pforte im Jahre",
+    "author": " Heinrich Christoph von Reimers",
+    "publishedBy": "Schnoorschen Buchdruckerei",
+    "publishedDate": "1803",
+    "weatherTags": "Veba",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5166,
+    "date": "1793-10-20",
+    "originalDate": "1793-10-20",
+    "rangeEndDate": null,
+    "text": "Ihre Freundschaftliche Besorgnis für mich, der Pest wegen verdient meinen besten Dank und ist ein Beweis Ihrer Liebe gegen mich; aber zu Ihrer Beruhigung kann ich Ihnen versichern, dass – ein seit vielen Jahren unerhörtes Beispiel!-- die fürchterliche Pest, die hier sonst gewöhnlich von dem Ende Aprils bis zum November zu wüthen pflegt, in diesem ganzen Jahre in Pera nicht bemerkt wird. Dennoch kann man Constantinopel mit allem Recht den Sitz dieser schrecklichen Plage, die oft aus Alexandrien herübergebracht wird, nennen. Die Hauptursache ist wohl, weil der Mohamedaner sie für eine Strafe des Himmels hält und daher nicht die geringste Vorsicht wider dieselbe gebraucht. Die Unvorsichtigkeit geht so weit, dass man die Kleidungsstücke der an der Pest Gestorbenen anzieht, sie öffentlich vertrödelt oder sie bis zum künftigen Gebrauch aufbewahrt. Oft sterben in sechs Monaten in Constantinopel gegen 60000 Menschen an derselben. In dem Jahre 1778, als die Pest hier so fürchterlich wütete, sollen oft 6 bis 8000 Menschen täglich von ihr hingerafft sein. Ich habe diese, dem Anschein nach übertriebene Nachricht, aus dem Munde eines sehr alten und glaubwürdigen Mannes der ein Eingeborener ist und sich als ein, bei einer hier residierenden fremden Mission angestellter Dragoman, hieselbst immerwährend aufgehalten hat, erfahren. Die Zahl der in Constantinopel und dessen Vorstädten täglich Sterbenden wird nämlich dadurch nachmals bekannt, dass von jeder Leiche an gewissen dazu bestimmten Orten bei der Beerdigung ein Asper (der dritte Theil eines Para's) erlegt und über die Anzahl der an einem Tage Verstorbenen täglich an den Polizeiminister rapportiert wird.",
+    "place": "İstanbul",
+    "pageNumber": "C II 44 ",
+    "bookName": "Reise der russisch-kaiserlichen ausserordentlichen Gesandtschaft an die Othomanische Pforte im Jahre",
+    "author": " Heinrich Christoph von Reimers",
+    "publishedBy": "Schnoorschen Buchdruckerei",
+    "publishedDate": "1803",
+    "weatherTags": "Veba",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5167,
+    "date": "1793-12-05",
+    "originalDate": "1793-12-5",
+    "rangeEndDate": null,
+    "text": "Gewiss sind auch mehr, als der Koran, diese Grossen, denen es an Muth und Einsicht fehlt, sich über Volksvorurteile zu erheben, selbst Schuld an dieselben, indem sie diese Vorurteile selbst unter dem Volke, das, gestaerkt in seinem Wahn, nun wieder die verheerenden Uebel, sowohl wieder Pest, als Feuersgefahr, keine Gegenmittel braucht, naehren und verbreiten",
+    "place": "İstanbul",
+    "pageNumber": "C II 106 ",
+    "bookName": "Reise der russisch-kaiserlichen ausserordentlichen Gesandtschaft an die Othomanische Pforte im Jahre",
+    "author": " Heinrich Christoph von Reimers",
+    "publishedBy": "Schnoorschen Buchdruckerei",
+    "publishedDate": "1803",
+    "weatherTags": "Veba",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5035,
     "date": "1794-01-01",
     "originalDate": "1794-?-?-1796-?-?",
     "rangeEndDate": "1796-?-?",
@@ -2295,7 +2346,7 @@
     "dayExist": false
   },
   {
-    "id": 4608,
+    "id": 5036,
     "date": "1794-01-01",
     "originalDate": "1794-?-?-1796-?-?",
     "rangeEndDate": "1796-?-?",
@@ -2312,7 +2363,7 @@
     "dayExist": false
   },
   {
-    "id": 4609,
+    "id": 5037,
     "date": "1794-01-01",
     "originalDate": "1794-?-?-1796-?-?",
     "rangeEndDate": "1796-?-?",
@@ -2329,7 +2380,7 @@
     "dayExist": false
   },
   {
-    "id": 4915,
+    "id": 5346,
     "date": "1794-01-01",
     "originalDate": "1794-?-?",
     "rangeEndDate": null,
@@ -2346,7 +2397,7 @@
     "dayExist": false
   },
   {
-    "id": 4916,
+    "id": 5347,
     "date": "1794-01-01",
     "originalDate": "1794-?-?",
     "rangeEndDate": null,
@@ -2363,7 +2414,7 @@
     "dayExist": false
   },
   {
-    "id": 4917,
+    "id": 5348,
     "date": "1794-01-01",
     "originalDate": "1794-?-?",
     "rangeEndDate": null,
@@ -2380,7 +2431,7 @@
     "dayExist": false
   },
   {
-    "id": 4610,
+    "id": 5038,
     "date": "1794-06-01",
     "originalDate": "1794-06-?",
     "rangeEndDate": null,
@@ -2397,7 +2448,7 @@
     "dayExist": false
   },
   {
-    "id": 4862,
+    "id": 5293,
     "date": "1794-09-01",
     "originalDate": "1794-09-?",
     "rangeEndDate": null,
@@ -2414,7 +2465,7 @@
     "dayExist": false
   },
   {
-    "id": 4914,
+    "id": 5345,
     "date": "1794-09-01",
     "originalDate": "1794-09-?",
     "rangeEndDate": null,
@@ -2431,7 +2482,7 @@
     "dayExist": false
   },
   {
-    "id": 4752,
+    "id": 5183,
     "date": "1794-09-21",
     "originalDate": "1794-09-21",
     "rangeEndDate": null,
@@ -2448,7 +2499,7 @@
     "dayExist": true
   },
   {
-    "id": 4753,
+    "id": 5184,
     "date": "1794-10-04",
     "originalDate": "1794-10-4",
     "rangeEndDate": null,
@@ -2465,7 +2516,7 @@
     "dayExist": true
   },
   {
-    "id": 4676,
+    "id": 5104,
     "date": "1795-07-07",
     "originalDate": "1795-07-07",
     "rangeEndDate": null,
@@ -2482,7 +2533,7 @@
     "dayExist": true
   },
   {
-    "id": 4751,
+    "id": 5182,
     "date": "1795-07-07",
     "originalDate": "1795-07-07",
     "rangeEndDate": null,
@@ -2499,7 +2550,7 @@
     "dayExist": true
   },
   {
-    "id": 4754,
+    "id": 5185,
     "date": "1797-02-17",
     "originalDate": "1797-02-17",
     "rangeEndDate": null,
@@ -2516,11 +2567,11 @@
     "dayExist": true
   },
   {
-    "id": 4951,
+    "id": 5382,
     "date": "1797-03-24",
     "originalDate": "1797-3-24",
     "rangeEndDate": null,
-    "text": "Mart’ın onüçüncü günü Cum‘a gecesi, Ramazân-ı şerîf’in yirmibeşinci (24.3.1797) günü, İslâmbol’a kar yağup, gāyet berd-i şedîd olup, bir karış mıkdârı yağdı, cemî‘-i sular donduğu işbu cerîdeye kayd şüd. Sene 1211 (1797).",
+    "text": "Mart’ın onüçüncü günü Cum‘a gecesi, Ramazân-ı şerîf’in yirmibeşinci (24.3.1797) günü, İslâmbol’a kar yağup, gāyet berd-i şedîd olup, bir karış mıkdârı yağdı, cemî‘-i sular donduğu işbu cerîdeye kayd şüd. Sene 1211 (1797).",
     "place": "İstanbul",
     "pageNumber": "196",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -2533,7 +2584,7 @@
     "dayExist": true
   },
   {
-    "id": 4755,
+    "id": 5186,
     "date": "1797-06-26",
     "originalDate": "1797-06-26",
     "rangeEndDate": null,
@@ -2550,7 +2601,7 @@
     "dayExist": true
   },
   {
-    "id": 4756,
+    "id": 5187,
     "date": "1797-10-07",
     "originalDate": "1797-10-07",
     "rangeEndDate": null,
@@ -2567,7 +2618,7 @@
     "dayExist": true
   },
   {
-    "id": 4681,
+    "id": 5109,
     "date": "1798-01-01",
     "originalDate": "1798-?-?-1800-?-?",
     "rangeEndDate": "1800-?-?",
@@ -2584,7 +2635,7 @@
     "dayExist": false
   },
   {
-    "id": 4682,
+    "id": 5110,
     "date": "1798-01-01",
     "originalDate": "1798-?-?-1800-?-?",
     "rangeEndDate": "1800-?-?",
@@ -2601,7 +2652,7 @@
     "dayExist": false
   },
   {
-    "id": 4683,
+    "id": 5111,
     "date": "1798-01-01",
     "originalDate": "1798-?-?-1800-?-?",
     "rangeEndDate": "1800-?-?",
@@ -2618,7 +2669,7 @@
     "dayExist": false
   },
   {
-    "id": 4684,
+    "id": 5112,
     "date": "1798-01-01",
     "originalDate": "1798-?-?-1800-?-?",
     "rangeEndDate": "1800-?-?",
@@ -2635,7 +2686,7 @@
     "dayExist": false
   },
   {
-    "id": 4685,
+    "id": 5113,
     "date": "1798-01-01",
     "originalDate": "1798-?-?-1800-?-?",
     "rangeEndDate": "1800-?-?",
@@ -2652,7 +2703,7 @@
     "dayExist": false
   },
   {
-    "id": 4686,
+    "id": 5114,
     "date": "1798-01-01",
     "originalDate": "1798-?-?-1800-?-?",
     "rangeEndDate": "1800-?-?",
@@ -2669,7 +2720,7 @@
     "dayExist": false
   },
   {
-    "id": 4687,
+    "id": 5115,
     "date": "1798-01-01",
     "originalDate": "1798-?-?-1800-?-?",
     "rangeEndDate": "1800-?-?",
@@ -2686,7 +2737,7 @@
     "dayExist": false
   },
   {
-    "id": 4688,
+    "id": 5116,
     "date": "1798-01-01",
     "originalDate": "1798-?-?-1800-?-?",
     "rangeEndDate": "1800-?-?",
@@ -2703,7 +2754,7 @@
     "dayExist": false
   },
   {
-    "id": 4689,
+    "id": 5117,
     "date": "1798-01-01",
     "originalDate": "1798-?-?-1800-?-?",
     "rangeEndDate": "1800-?-?",
@@ -2720,7 +2771,7 @@
     "dayExist": false
   },
   {
-    "id": 4690,
+    "id": 5118,
     "date": "1798-01-01",
     "originalDate": "1798-?-?-1800-?-?",
     "rangeEndDate": "1800-?-?",
@@ -2737,7 +2788,7 @@
     "dayExist": false
   },
   {
-    "id": 4978,
+    "id": 5409,
     "date": "1798-04-28",
     "originalDate": "1212-ZA-12",
     "rangeEndDate": null,
@@ -2754,7 +2805,7 @@
     "dayExist": true
   },
   {
-    "id": 4757,
+    "id": 5188,
     "date": "1798-05-28",
     "originalDate": "1798-05-28",
     "rangeEndDate": null,
@@ -2771,7 +2822,7 @@
     "dayExist": true
   },
   {
-    "id": 4864,
+    "id": 5295,
     "date": "1798-05-28",
     "originalDate": "1798-05-28",
     "rangeEndDate": null,
@@ -2788,7 +2839,7 @@
     "dayExist": true
   },
   {
-    "id": 4680,
+    "id": 5108,
     "date": "1798-06-16",
     "originalDate": "1798-06-16-06-16",
     "rangeEndDate": null,
@@ -2805,7 +2856,7 @@
     "dayExist": true
   },
   {
-    "id": 4865,
+    "id": 5296,
     "date": "1798-07-08",
     "originalDate": "1798-07-08",
     "rangeEndDate": null,
@@ -2822,7 +2873,7 @@
     "dayExist": true
   },
   {
-    "id": 4758,
+    "id": 5189,
     "date": "1799-03-14",
     "originalDate": "1799-03-14",
     "rangeEndDate": null,
@@ -2839,7 +2890,7 @@
     "dayExist": true
   },
   {
-    "id": 4759,
+    "id": 5190,
     "date": "1799-04-18",
     "originalDate": "1799-04-18",
     "rangeEndDate": null,
@@ -2856,7 +2907,7 @@
     "dayExist": true
   },
   {
-    "id": 4691,
+    "id": 5119,
     "date": "1800-09-11",
     "originalDate": "1215-R-21",
     "rangeEndDate": null,
@@ -2873,7 +2924,7 @@
     "dayExist": true
   },
   {
-    "id": 4692,
+    "id": 5120,
     "date": "1800-10-09",
     "originalDate": "1215-CA-20",
     "rangeEndDate": null,
@@ -2890,11 +2941,11 @@
     "dayExist": true
   },
   {
-    "id": 4950,
+    "id": 5381,
     "date": "1801-04-03",
     "originalDate": "1801-04-03",
     "rangeEndDate": null,
-    "text": "Mart’ın yirmiiki[nci] günü, cum‘a sâ‘at üç, Âstâne’ye kar yağdı. Yirmiüçüncü günü gāyet soğuk olup, kar yağdı. Yirmidördüncü gün Kızıl yumurta-yı keferî oldu. Fî 21 ZA. sene 1215 (5.4.1801).",
+    "text": "Mart’ın yirmiiki[nci] günü, cum‘a sâ‘at üç, Âstâne’ye kar yağdı. Yirmiüçüncü günü gāyet soğuk olup, kar yağdı. Yirmidördüncü gün Kızıl yumurta-yı keferî oldu. Fî 21 ZA. sene 1215 (5.4.1801).",
     "place": "İstanbul",
     "pageNumber": "191",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -2907,11 +2958,11 @@
     "dayExist": true
   },
   {
-    "id": 4948,
+    "id": 5379,
     "date": "1802-08-04",
     "originalDate": "1802-8-4",
     "rangeEndDate": null,
-    "text": "Zuhûr-ı Harîk der-Irgatpazarı: Irgatpazarı kurbında Hüseyin Ağa Mahallesi’nde sâ‘at dört, leylen çahârşenbe gecesi, bir harîk zuhûr edüp, Hüseyin Ağa Mahallesi ve Câmi‘i, Uçurlu câmi’i ve Esîr Pazarı ve Çilingirler cümle muhterik olduğu işbu cerîdeye kayd şüd. [Fî 7 RA.] sene 1217 (7.8.1802).",
+    "text": "Zuhûr-ı Harîk der-Irgatpazarı: Irgatpazarı kurbında Hüseyin Ağa Mahallesi’nde sâ‘at dört, leylen çahârşenbe gecesi, bir harîk zuhûr edüp, Hüseyin Ağa Mahallesi ve Câmi‘i, Uçurlu câmi’i ve Esîr Pazarı ve Çilingirler cümle muhterik olduğu işbu cerîdeye kayd şüd. [Fî 7 RA.] sene 1217 (7.8.1802).",
     "place": "İstanbul",
     "pageNumber": "188",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -2924,7 +2975,7 @@
     "dayExist": true
   },
   {
-    "id": 4980,
+    "id": 5411,
     "date": "1802-10-27",
     "originalDate": "1217-C-29",
     "rangeEndDate": null,
@@ -2941,11 +2992,11 @@
     "dayExist": true
   },
   {
-    "id": 4949,
+    "id": 5380,
     "date": "1802-12-08",
     "originalDate": "1802-12-8",
     "rangeEndDate": null,
-    "text": "Zuhûr-ı Harîk derûn-ı Kışla-yı Cebehâne: Ayasofya-yı kebîr karşusunda Cebehâne Kışlası derûnundan leylen sâ‘at altı bir harîk zuhûr edüp, mecmû‘-ı kışlayı ve Arslânhâne ve Nakkaşhâne ve hammâm katı çok yerler muhterik olduğu işbu cerîdeye kayd şüd. Fî 12 Ş. sene 1217 (8.12.1802).",
+    "text": "Zuhûr-ı Harîk derûn-ı Kışla-yı Cebehâne: Ayasofya-yı kebîr karşusunda Cebehâne Kışlası derûnundan leylen sâ‘at altı bir harîk zuhûr edüp, mecmû‘-ı kışlayı ve Arslânhâne ve Nakkaşhâne ve hammâm katı çok yerler muhterik olduğu işbu cerîdeye kayd şüd. Fî 12 Ş. sene 1217 (8.12.1802).",
     "place": "İstanbul",
     "pageNumber": "189",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -2958,7 +3009,7 @@
     "dayExist": true
   },
   {
-    "id": 4760,
+    "id": 5191,
     "date": "1802-12-16",
     "originalDate": "1802-12-16",
     "rangeEndDate": null,
@@ -2975,7 +3026,7 @@
     "dayExist": true
   },
   {
-    "id": 4761,
+    "id": 5192,
     "date": "1802-12-19",
     "originalDate": "1802-12-19",
     "rangeEndDate": null,
@@ -2992,7 +3043,7 @@
     "dayExist": true
   },
   {
-    "id": 4762,
+    "id": 5193,
     "date": "1802-12-23",
     "originalDate": "1802-12-23",
     "rangeEndDate": null,
@@ -3009,7 +3060,7 @@
     "dayExist": true
   },
   {
-    "id": 4763,
+    "id": 5194,
     "date": "1802-12-31",
     "originalDate": "1802-12-31",
     "rangeEndDate": null,
@@ -3026,7 +3077,7 @@
     "dayExist": true
   },
   {
-    "id": 4764,
+    "id": 5195,
     "date": "1803-01-02",
     "originalDate": "1803-01-02",
     "rangeEndDate": null,
@@ -3043,7 +3094,7 @@
     "dayExist": true
   },
   {
-    "id": 4765,
+    "id": 5196,
     "date": "1803-01-13",
     "originalDate": "1803-01-13",
     "rangeEndDate": null,
@@ -3060,7 +3111,7 @@
     "dayExist": true
   },
   {
-    "id": 4766,
+    "id": 5197,
     "date": "1803-01-15",
     "originalDate": "1803-01-15",
     "rangeEndDate": null,
@@ -3077,7 +3128,7 @@
     "dayExist": true
   },
   {
-    "id": 4767,
+    "id": 5198,
     "date": "1803-01-22",
     "originalDate": "1803-01-22",
     "rangeEndDate": null,
@@ -3094,7 +3145,7 @@
     "dayExist": true
   },
   {
-    "id": 4768,
+    "id": 5199,
     "date": "1803-01-23",
     "originalDate": "1803-01-23",
     "rangeEndDate": null,
@@ -3111,7 +3162,7 @@
     "dayExist": true
   },
   {
-    "id": 4769,
+    "id": 5200,
     "date": "1803-01-24",
     "originalDate": "1803-01-24",
     "rangeEndDate": null,
@@ -3128,7 +3179,7 @@
     "dayExist": true
   },
   {
-    "id": 4770,
+    "id": 5201,
     "date": "1803-01-25",
     "originalDate": "1803-01-25",
     "rangeEndDate": null,
@@ -3145,7 +3196,7 @@
     "dayExist": true
   },
   {
-    "id": 4771,
+    "id": 5202,
     "date": "1803-01-26",
     "originalDate": "1803-01-26",
     "rangeEndDate": null,
@@ -3162,7 +3213,7 @@
     "dayExist": true
   },
   {
-    "id": 4772,
+    "id": 5203,
     "date": "1803-01-27",
     "originalDate": "1803-01-27",
     "rangeEndDate": null,
@@ -3179,7 +3230,7 @@
     "dayExist": true
   },
   {
-    "id": 4773,
+    "id": 5204,
     "date": "1803-01-28",
     "originalDate": "1803-01-28",
     "rangeEndDate": null,
@@ -3196,7 +3247,7 @@
     "dayExist": true
   },
   {
-    "id": 4774,
+    "id": 5205,
     "date": "1803-01-29",
     "originalDate": "1803-01-29",
     "rangeEndDate": null,
@@ -3213,7 +3264,7 @@
     "dayExist": true
   },
   {
-    "id": 4775,
+    "id": 5206,
     "date": "1803-01-30",
     "originalDate": "1803-01-30",
     "rangeEndDate": null,
@@ -3230,7 +3281,7 @@
     "dayExist": true
   },
   {
-    "id": 4776,
+    "id": 5207,
     "date": "1803-01-31",
     "originalDate": "1803-01-31",
     "rangeEndDate": null,
@@ -3247,7 +3298,7 @@
     "dayExist": true
   },
   {
-    "id": 4777,
+    "id": 5208,
     "date": "1803-02-01",
     "originalDate": "1803-02-01",
     "rangeEndDate": null,
@@ -3264,7 +3315,7 @@
     "dayExist": true
   },
   {
-    "id": 4778,
+    "id": 5209,
     "date": "1803-02-02",
     "originalDate": "1803-02-02",
     "rangeEndDate": null,
@@ -3281,7 +3332,7 @@
     "dayExist": true
   },
   {
-    "id": 4779,
+    "id": 5210,
     "date": "1803-02-03",
     "originalDate": "1803-02-03",
     "rangeEndDate": null,
@@ -3298,7 +3349,7 @@
     "dayExist": true
   },
   {
-    "id": 4780,
+    "id": 5211,
     "date": "1803-02-04",
     "originalDate": "1803-02-04",
     "rangeEndDate": null,
@@ -3315,7 +3366,7 @@
     "dayExist": true
   },
   {
-    "id": 4781,
+    "id": 5212,
     "date": "1803-02-05",
     "originalDate": "1803-02-05",
     "rangeEndDate": null,
@@ -3332,7 +3383,7 @@
     "dayExist": true
   },
   {
-    "id": 4782,
+    "id": 5213,
     "date": "1803-02-06",
     "originalDate": "1803-02-06",
     "rangeEndDate": null,
@@ -3349,7 +3400,7 @@
     "dayExist": true
   },
   {
-    "id": 4783,
+    "id": 5214,
     "date": "1803-02-07",
     "originalDate": "1803-02-07",
     "rangeEndDate": null,
@@ -3366,7 +3417,7 @@
     "dayExist": true
   },
   {
-    "id": 4784,
+    "id": 5215,
     "date": "1803-02-08",
     "originalDate": "1803-02-08",
     "rangeEndDate": null,
@@ -3383,7 +3434,7 @@
     "dayExist": true
   },
   {
-    "id": 4785,
+    "id": 5216,
     "date": "1803-02-09",
     "originalDate": "1803-02-09",
     "rangeEndDate": null,
@@ -3400,7 +3451,7 @@
     "dayExist": true
   },
   {
-    "id": 4786,
+    "id": 5217,
     "date": "1803-02-10",
     "originalDate": "1803-02-10",
     "rangeEndDate": null,
@@ -3417,7 +3468,7 @@
     "dayExist": true
   },
   {
-    "id": 4787,
+    "id": 5218,
     "date": "1803-02-11",
     "originalDate": "1803-02-11",
     "rangeEndDate": null,
@@ -3434,7 +3485,7 @@
     "dayExist": true
   },
   {
-    "id": 4788,
+    "id": 5219,
     "date": "1803-02-12",
     "originalDate": "1803-02-12",
     "rangeEndDate": null,
@@ -3451,7 +3502,7 @@
     "dayExist": true
   },
   {
-    "id": 4789,
+    "id": 5220,
     "date": "1803-02-13",
     "originalDate": "1803-02-13",
     "rangeEndDate": null,
@@ -3468,7 +3519,7 @@
     "dayExist": true
   },
   {
-    "id": 4790,
+    "id": 5221,
     "date": "1803-02-14",
     "originalDate": "1803-02-14",
     "rangeEndDate": null,
@@ -3485,7 +3536,7 @@
     "dayExist": true
   },
   {
-    "id": 4791,
+    "id": 5222,
     "date": "1803-02-15",
     "originalDate": "1803-02-15",
     "rangeEndDate": null,
@@ -3502,7 +3553,7 @@
     "dayExist": true
   },
   {
-    "id": 4792,
+    "id": 5223,
     "date": "1803-02-16",
     "originalDate": "1803-02-16",
     "rangeEndDate": null,
@@ -3519,7 +3570,7 @@
     "dayExist": true
   },
   {
-    "id": 4793,
+    "id": 5224,
     "date": "1803-02-17",
     "originalDate": "1803-02-17",
     "rangeEndDate": null,
@@ -3536,7 +3587,7 @@
     "dayExist": true
   },
   {
-    "id": 4794,
+    "id": 5225,
     "date": "1803-02-18",
     "originalDate": "1803-02-18",
     "rangeEndDate": null,
@@ -3553,7 +3604,7 @@
     "dayExist": true
   },
   {
-    "id": 4795,
+    "id": 5226,
     "date": "1803-02-19",
     "originalDate": "1803-02-19",
     "rangeEndDate": null,
@@ -3570,7 +3621,7 @@
     "dayExist": true
   },
   {
-    "id": 4796,
+    "id": 5227,
     "date": "1803-02-20",
     "originalDate": "1803-02-20",
     "rangeEndDate": null,
@@ -3587,7 +3638,7 @@
     "dayExist": true
   },
   {
-    "id": 4797,
+    "id": 5228,
     "date": "1803-02-21",
     "originalDate": "1803-02-21",
     "rangeEndDate": null,
@@ -3604,7 +3655,7 @@
     "dayExist": true
   },
   {
-    "id": 4798,
+    "id": 5229,
     "date": "1803-02-24",
     "originalDate": "1803-02-24",
     "rangeEndDate": null,
@@ -3621,7 +3672,7 @@
     "dayExist": true
   },
   {
-    "id": 4799,
+    "id": 5230,
     "date": "1803-02-25",
     "originalDate": "1803-02-25",
     "rangeEndDate": null,
@@ -3638,7 +3689,7 @@
     "dayExist": true
   },
   {
-    "id": 4800,
+    "id": 5231,
     "date": "1803-02-26",
     "originalDate": "1803-02-26",
     "rangeEndDate": null,
@@ -3655,7 +3706,7 @@
     "dayExist": true
   },
   {
-    "id": 4801,
+    "id": 5232,
     "date": "1803-02-27",
     "originalDate": "1803-02-27",
     "rangeEndDate": null,
@@ -3672,7 +3723,7 @@
     "dayExist": true
   },
   {
-    "id": 4802,
+    "id": 5233,
     "date": "1803-02-28",
     "originalDate": "1803-02-28",
     "rangeEndDate": null,
@@ -3689,7 +3740,7 @@
     "dayExist": true
   },
   {
-    "id": 4803,
+    "id": 5234,
     "date": "1803-03-02",
     "originalDate": "1803-03-02",
     "rangeEndDate": null,
@@ -3706,7 +3757,7 @@
     "dayExist": true
   },
   {
-    "id": 4804,
+    "id": 5235,
     "date": "1803-03-04",
     "originalDate": "1803-03-04",
     "rangeEndDate": null,
@@ -3723,7 +3774,7 @@
     "dayExist": true
   },
   {
-    "id": 4805,
+    "id": 5236,
     "date": "1803-03-06",
     "originalDate": "1803-03-06",
     "rangeEndDate": null,
@@ -3740,7 +3791,7 @@
     "dayExist": true
   },
   {
-    "id": 4806,
+    "id": 5237,
     "date": "1803-03-09",
     "originalDate": "1803-03-09",
     "rangeEndDate": null,
@@ -3757,7 +3808,7 @@
     "dayExist": true
   },
   {
-    "id": 4807,
+    "id": 5238,
     "date": "1803-03-10",
     "originalDate": "1803-03-10",
     "rangeEndDate": null,
@@ -3774,7 +3825,7 @@
     "dayExist": true
   },
   {
-    "id": 4808,
+    "id": 5239,
     "date": "1803-03-16",
     "originalDate": "1803-03-16",
     "rangeEndDate": null,
@@ -3791,7 +3842,7 @@
     "dayExist": true
   },
   {
-    "id": 4809,
+    "id": 5240,
     "date": "1803-03-17",
     "originalDate": "1803-03-17",
     "rangeEndDate": null,
@@ -3808,7 +3859,7 @@
     "dayExist": true
   },
   {
-    "id": 4810,
+    "id": 5241,
     "date": "1803-03-19",
     "originalDate": "1803-03-19",
     "rangeEndDate": null,
@@ -3825,7 +3876,7 @@
     "dayExist": true
   },
   {
-    "id": 4811,
+    "id": 5242,
     "date": "1803-03-20",
     "originalDate": "1803-03-20",
     "rangeEndDate": null,
@@ -3842,7 +3893,7 @@
     "dayExist": true
   },
   {
-    "id": 4812,
+    "id": 5243,
     "date": "1803-03-21",
     "originalDate": "1803-03-21",
     "rangeEndDate": null,
@@ -3859,7 +3910,7 @@
     "dayExist": true
   },
   {
-    "id": 4813,
+    "id": 5244,
     "date": "1803-03-22",
     "originalDate": "1803-03-22",
     "rangeEndDate": null,
@@ -3876,7 +3927,7 @@
     "dayExist": true
   },
   {
-    "id": 4814,
+    "id": 5245,
     "date": "1803-03-23",
     "originalDate": "1803-03-23",
     "rangeEndDate": null,
@@ -3893,7 +3944,7 @@
     "dayExist": true
   },
   {
-    "id": 4815,
+    "id": 5246,
     "date": "1803-03-24",
     "originalDate": "1803-03-24",
     "rangeEndDate": null,
@@ -3910,7 +3961,7 @@
     "dayExist": true
   },
   {
-    "id": 4816,
+    "id": 5247,
     "date": "1803-03-25",
     "originalDate": "1803-03-25",
     "rangeEndDate": null,
@@ -3927,7 +3978,7 @@
     "dayExist": true
   },
   {
-    "id": 4817,
+    "id": 5248,
     "date": "1803-03-26",
     "originalDate": "1803-03-26",
     "rangeEndDate": null,
@@ -3944,7 +3995,7 @@
     "dayExist": true
   },
   {
-    "id": 4818,
+    "id": 5249,
     "date": "1803-03-27",
     "originalDate": "1803-03-27",
     "rangeEndDate": null,
@@ -3961,7 +4012,7 @@
     "dayExist": true
   },
   {
-    "id": 4819,
+    "id": 5250,
     "date": "1803-03-28",
     "originalDate": "1803-03-28",
     "rangeEndDate": null,
@@ -3978,7 +4029,7 @@
     "dayExist": true
   },
   {
-    "id": 4820,
+    "id": 5251,
     "date": "1803-03-30",
     "originalDate": "1803-03-30",
     "rangeEndDate": null,
@@ -3995,11 +4046,11 @@
     "dayExist": true
   },
   {
-    "id": 4945,
+    "id": 5376,
     "date": "1803-03-31",
     "originalDate": "1803-3-31",
     "rangeEndDate": null,
-    "text": "Zuhûr-ı harîk der-Çatalçeşme: Çatalçeşme kurbında Kā’immekām-ı merhûm Abdullah Paşa’nın konağından leylen sâ‘at yedi bir harîk zuhûr edüp, Acıhammâm ve Divânyolu ve etrâflarında katı çok yerler muhterik olduğu işbu cerîdeye kayd şüd. Fî 7 Z. sene 1217 (31.3.1803). (TARİH NOT: KIRMIZI)",
+    "text": "Zuhûr-ı harîk der-Çatalçeşme: Çatalçeşme kurbında Kā’immekām-ı merhûm Abdullah Paşa’nın konağından leylen sâ‘at yedi bir harîk zuhûr edüp, Acıhammâm ve Divânyolu ve etrâflarında katı çok yerler muhterik olduğu işbu cerîdeye kayd şüd. Fî 7 Z. sene 1217 (31.3.1803). (TARİH NOT: KIRMIZI)",
     "place": "İstanbul",
     "pageNumber": "184",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -4012,7 +4063,7 @@
     "dayExist": true
   },
   {
-    "id": 4821,
+    "id": 5252,
     "date": "1803-04-01",
     "originalDate": "1803-04-01",
     "rangeEndDate": null,
@@ -4029,7 +4080,7 @@
     "dayExist": true
   },
   {
-    "id": 4822,
+    "id": 5253,
     "date": "1803-04-02",
     "originalDate": "1803-04-02",
     "rangeEndDate": null,
@@ -4046,7 +4097,7 @@
     "dayExist": true
   },
   {
-    "id": 4823,
+    "id": 5254,
     "date": "1803-04-04",
     "originalDate": "1803-04-04",
     "rangeEndDate": null,
@@ -4063,7 +4114,7 @@
     "dayExist": true
   },
   {
-    "id": 4824,
+    "id": 5255,
     "date": "1803-04-05",
     "originalDate": "1803-04-05",
     "rangeEndDate": null,
@@ -4080,7 +4131,7 @@
     "dayExist": true
   },
   {
-    "id": 4825,
+    "id": 5256,
     "date": "1803-04-07",
     "originalDate": "1803-04-07",
     "rangeEndDate": null,
@@ -4097,7 +4148,7 @@
     "dayExist": true
   },
   {
-    "id": 4826,
+    "id": 5257,
     "date": "1803-04-08",
     "originalDate": "1803-04-08",
     "rangeEndDate": null,
@@ -4114,7 +4165,7 @@
     "dayExist": true
   },
   {
-    "id": 4827,
+    "id": 5258,
     "date": "1803-04-09",
     "originalDate": "1803-04-09",
     "rangeEndDate": null,
@@ -4131,7 +4182,7 @@
     "dayExist": true
   },
   {
-    "id": 4828,
+    "id": 5259,
     "date": "1803-04-10",
     "originalDate": "1803-04-10",
     "rangeEndDate": null,
@@ -4148,7 +4199,7 @@
     "dayExist": true
   },
   {
-    "id": 4829,
+    "id": 5260,
     "date": "1803-04-13",
     "originalDate": "1803-04-13",
     "rangeEndDate": null,
@@ -4165,7 +4216,7 @@
     "dayExist": true
   },
   {
-    "id": 4830,
+    "id": 5261,
     "date": "1803-04-14",
     "originalDate": "1803-04-14",
     "rangeEndDate": null,
@@ -4182,7 +4233,7 @@
     "dayExist": true
   },
   {
-    "id": 4831,
+    "id": 5262,
     "date": "1803-04-15",
     "originalDate": "1803-04-15",
     "rangeEndDate": null,
@@ -4199,7 +4250,7 @@
     "dayExist": true
   },
   {
-    "id": 4832,
+    "id": 5263,
     "date": "1803-04-16",
     "originalDate": "1803-04-16",
     "rangeEndDate": null,
@@ -4216,7 +4267,7 @@
     "dayExist": true
   },
   {
-    "id": 4833,
+    "id": 5264,
     "date": "1803-04-17",
     "originalDate": "1803-04-17",
     "rangeEndDate": null,
@@ -4233,7 +4284,7 @@
     "dayExist": true
   },
   {
-    "id": 4834,
+    "id": 5265,
     "date": "1803-04-18",
     "originalDate": "1803-04-18",
     "rangeEndDate": null,
@@ -4250,7 +4301,7 @@
     "dayExist": true
   },
   {
-    "id": 4835,
+    "id": 5266,
     "date": "1803-04-19",
     "originalDate": "1803-04-19",
     "rangeEndDate": null,
@@ -4267,7 +4318,7 @@
     "dayExist": true
   },
   {
-    "id": 4836,
+    "id": 5267,
     "date": "1803-04-20",
     "originalDate": "1803-04-20",
     "rangeEndDate": null,
@@ -4284,7 +4335,7 @@
     "dayExist": true
   },
   {
-    "id": 4837,
+    "id": 5268,
     "date": "1803-04-21",
     "originalDate": "1803-04-21",
     "rangeEndDate": null,
@@ -4301,7 +4352,7 @@
     "dayExist": true
   },
   {
-    "id": 4838,
+    "id": 5269,
     "date": "1803-05-13",
     "originalDate": "1803-05-13",
     "rangeEndDate": null,
@@ -4318,7 +4369,7 @@
     "dayExist": true
   },
   {
-    "id": 4839,
+    "id": 5270,
     "date": "1803-05-16",
     "originalDate": "1803-05-16",
     "rangeEndDate": null,
@@ -4335,7 +4386,7 @@
     "dayExist": true
   },
   {
-    "id": 4840,
+    "id": 5271,
     "date": "1803-05-23",
     "originalDate": "1803-05-23",
     "rangeEndDate": null,
@@ -4352,7 +4403,7 @@
     "dayExist": true
   },
   {
-    "id": 4841,
+    "id": 5272,
     "date": "1803-05-25",
     "originalDate": "1803-05-25",
     "rangeEndDate": null,
@@ -4369,7 +4420,7 @@
     "dayExist": true
   },
   {
-    "id": 4842,
+    "id": 5273,
     "date": "1803-05-26",
     "originalDate": "1803-05-26",
     "rangeEndDate": null,
@@ -4386,7 +4437,7 @@
     "dayExist": true
   },
   {
-    "id": 4843,
+    "id": 5274,
     "date": "1803-05-27",
     "originalDate": "1803-05-27",
     "rangeEndDate": null,
@@ -4403,7 +4454,7 @@
     "dayExist": true
   },
   {
-    "id": 4844,
+    "id": 5275,
     "date": "1803-05-29",
     "originalDate": "1803-05-29",
     "rangeEndDate": null,
@@ -4420,7 +4471,7 @@
     "dayExist": true
   },
   {
-    "id": 4845,
+    "id": 5276,
     "date": "1803-05-30",
     "originalDate": "1803-05-30",
     "rangeEndDate": null,
@@ -4437,7 +4488,7 @@
     "dayExist": true
   },
   {
-    "id": 4846,
+    "id": 5277,
     "date": "1803-06-02",
     "originalDate": "1803-06-02",
     "rangeEndDate": null,
@@ -4454,7 +4505,7 @@
     "dayExist": true
   },
   {
-    "id": 4847,
+    "id": 5278,
     "date": "1803-06-03",
     "originalDate": "1803-06-03",
     "rangeEndDate": null,
@@ -4471,11 +4522,11 @@
     "dayExist": true
   },
   {
-    "id": 4946,
+    "id": 5377,
     "date": "1803-08-01",
     "originalDate": "1803-08-01",
     "rangeEndDate": null,
-    "text": "Kalpakçılarbaşı’nda leylen sâ‘at dört bir harîk zuhûr edüp, Divânyolu’na kadar mecmû’u muhterik oldu. İbtidâ’-i Ağustos, sene 1218 (1803).",
+    "text": "Kalpakçılarbaşı’nda leylen sâ‘at dört bir harîk zuhûr edüp, Divânyolu’na kadar mecmû’u muhterik oldu. İbtidâ’-i Ağustos, sene 1218 (1803).",
     "place": "İstanbul",
     "pageNumber": "188",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -4488,7 +4539,7 @@
     "dayExist": true
   },
   {
-    "id": 4981,
+    "id": 5412,
     "date": "1803-08-16",
     "originalDate": "1218-R-27-1218-R-29",
     "rangeEndDate": "1218-R-29",
@@ -4505,11 +4556,11 @@
     "dayExist": true
   },
   {
-    "id": 4947,
+    "id": 5378,
     "date": "1803-10-02",
     "originalDate": "1803-10-2",
     "rangeEndDate": null,
-    "text": "Zuhûr-u harîk kurb-ı Cebehâne: Ayasofya-yı kebîr karşısında Bâb-ı Hümâyûn’a karşu Sultân Sarayı’nın yanında, pazar gecesi sâ‘at dört bir harîk zuhûr edüp, Cebehâne kurbında İshâk Paşa mahallesi külliyyen ve Bayram Furunu’na kadar Kabasakal Mahallesi’ne varınca cümlesi muhterik olduğu işbu cerîdeye kayd şüd. Fî 17 C. sene 1218 (4.10. 1803).",
+    "text": "Zuhûr-u harîk kurb-ı Cebehâne: Ayasofya-yı kebîr karşısında Bâb-ı Hümâyûn’a karşu Sultân Sarayı’nın yanında, pazar gecesi sâ‘at dört bir harîk zuhûr edüp, Cebehâne kurbında İshâk Paşa mahallesi külliyyen ve Bayram Furunu’na kadar Kabasakal Mahallesi’ne varınca cümlesi muhterik olduğu işbu cerîdeye kayd şüd. Fî 17 C. sene 1218 (4.10. 1803).",
     "place": "İstanbul",
     "pageNumber": "188",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -4522,7 +4573,7 @@
     "dayExist": true
   },
   {
-    "id": 4592,
+    "id": 5020,
     "date": "1804-07-24",
     "originalDate": "1219-R-15",
     "rangeEndDate": null,
@@ -4539,11 +4590,11 @@
     "dayExist": true
   },
   {
-    "id": 4944,
+    "id": 5375,
     "date": "1805-01-01",
     "originalDate": "1805-?-?",
     "rangeEndDate": null,
-    "text": "Gedik Paşa Tatlıkapusu kurbında sâ‘at altı, bir harîk zuhûr edüp, Bursevî Esîrci’nin konağı ile vâfir evler muhterik oldu. Sene 1220 (1805).",
+    "text": "Gedik Paşa Tatlıkapusu kurbında sâ‘at altı, bir harîk zuhûr edüp, Bursevî Esîrci’nin konağı ile vâfir evler muhterik oldu. Sene 1220 (1805).",
     "place": "İstanbul",
     "pageNumber": "182",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -4556,11 +4607,11 @@
     "dayExist": false
   },
   {
-    "id": 4941,
+    "id": 5372,
     "date": "1805-03-20",
     "originalDate": "1805-3-20",
     "rangeEndDate": null,
-    "text": "Bin[iki]yüzondokuzuncu senesi Mart’ın yirminci (20.3.1805/18 Z 1219) günü Âstâne’ye parmak mıkdârı kar yağdı. Yirmiikinci gün yine Âstâne’ye bir karışdan ziyâde yağdı. İki gün zarfında cümlesi mahv oldu. Der-akab çağla bademi geldiği işbu cerîdeye kayd şüd. Sene 1219 (1805).",
+    "text": "Bin[iki]yüzondokuzuncu senesi Mart’ın yirminci (20.3.1805/18 Z 1219) günü Âstâne’ye parmak mıkdârı kar yağdı. Yirmiikinci gün yine Âstâne’ye bir karışdan ziyâde yağdı. İki gün zarfında cümlesi mahv oldu. Der-akab çağla bademi geldiği işbu cerîdeye kayd şüd. Sene 1219 (1805).",
     "place": "İstanbul",
     "pageNumber": "182",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -4573,11 +4624,11 @@
     "dayExist": true
   },
   {
-    "id": 4942,
+    "id": 5373,
     "date": "1805-04-13",
     "originalDate": "1805-4-13",
     "rangeEndDate": null,
-    "text": "Yeniodalar Kışlası derûnunda bir harîk zuhûr edüp, birkaç kışla muhterik oldu. Fî 13 M. sene 1220 (13.4.1805).",
+    "text": "Yeniodalar Kışlası derûnunda bir harîk zuhûr edüp, birkaç kışla muhterik oldu. Fî 13 M. sene 1220 (13.4.1805).",
     "place": "İstanbul",
     "pageNumber": "182",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -4590,11 +4641,11 @@
     "dayExist": true
   },
   {
-    "id": 4943,
+    "id": 5374,
     "date": "1805-06-01",
     "originalDate": "1805-06-?",
     "rangeEndDate": null,
-    "text": "Hazirân’ın cum‘a gecesi sâ‘at bir, dakika on, Ay külliyyen tutulup, altı sâ‘at mıkdârı kaldı. sene 1220 (1805).",
+    "text": "Hazirân’ın cum‘a gecesi sâ‘at bir, dakika on, Ay külliyyen tutulup, altı sâ‘at mıkdârı kaldı. sene 1220 (1805).",
     "place": "İstanbul",
     "pageNumber": "182",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -4607,7 +4658,7 @@
     "dayExist": false
   },
   {
-    "id": 4593,
+    "id": 5021,
     "date": "1805-10-06",
     "originalDate": "1220-B-12",
     "rangeEndDate": null,
@@ -4624,11 +4675,11 @@
     "dayExist": true
   },
   {
-    "id": 4954,
+    "id": 5385,
     "date": "1805-10-13",
     "originalDate": "1805-10-13",
     "rangeEndDate": null,
-    "text": "Kāsım’dan onsekiz gün evvel Âstâne’ye kar yağdı. Bir karış gāyet berd-i şedîd olup, der-akab hareket-i arz vâkı‘ oldu. Fî 19 Ş. sene 1220 (12.11.1805).",
+    "text": "Kāsım’dan onsekiz gün evvel Âstâne’ye kar yağdı. Bir karış gāyet berd-i şedîd olup, der-akab hareket-i arz vâkı‘ oldu. Fî 19 Ş. sene 1220 (12.11.1805).",
     "place": "İstanbul",
     "pageNumber": "183",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -4641,7 +4692,7 @@
     "dayExist": true
   },
   {
-    "id": 4594,
+    "id": 5022,
     "date": "1806-03-31",
     "originalDate": "1221-M-11",
     "rangeEndDate": null,
@@ -4658,7 +4709,7 @@
     "dayExist": true
   },
   {
-    "id": 4595,
+    "id": 5023,
     "date": "1806-04-01",
     "originalDate": "1221-M-12",
     "rangeEndDate": null,
@@ -4675,7 +4726,7 @@
     "dayExist": true
   },
   {
-    "id": 4596,
+    "id": 5024,
     "date": "1806-04-02",
     "originalDate": "1221-M-13",
     "rangeEndDate": null,
@@ -4692,7 +4743,7 @@
     "dayExist": true
   },
   {
-    "id": 4597,
+    "id": 5025,
     "date": "1806-04-03",
     "originalDate": "1221-M-14",
     "rangeEndDate": null,
@@ -4709,7 +4760,7 @@
     "dayExist": true
   },
   {
-    "id": 4598,
+    "id": 5026,
     "date": "1806-04-04",
     "originalDate": "1221-M-15",
     "rangeEndDate": null,
@@ -4726,7 +4777,7 @@
     "dayExist": true
   },
   {
-    "id": 4599,
+    "id": 5027,
     "date": "1806-04-05",
     "originalDate": "1221-M-16",
     "rangeEndDate": null,
@@ -4743,7 +4794,7 @@
     "dayExist": true
   },
   {
-    "id": 4600,
+    "id": 5028,
     "date": "1806-04-06",
     "originalDate": "1221-M-17",
     "rangeEndDate": null,
@@ -4760,7 +4811,7 @@
     "dayExist": true
   },
   {
-    "id": 4601,
+    "id": 5029,
     "date": "1806-04-07",
     "originalDate": "1221-M-18",
     "rangeEndDate": null,
@@ -4777,7 +4828,7 @@
     "dayExist": true
   },
   {
-    "id": 4602,
+    "id": 5030,
     "date": "1806-04-08",
     "originalDate": "1221-M-19",
     "rangeEndDate": null,
@@ -4794,7 +4845,7 @@
     "dayExist": true
   },
   {
-    "id": 4603,
+    "id": 5031,
     "date": "1806-04-09",
     "originalDate": "1221-M-20",
     "rangeEndDate": null,
@@ -4811,7 +4862,7 @@
     "dayExist": true
   },
   {
-    "id": 4604,
+    "id": 5032,
     "date": "1806-11-06",
     "originalDate": "1221-Ş-24",
     "rangeEndDate": null,
@@ -4828,11 +4879,11 @@
     "dayExist": true
   },
   {
-    "id": 4936,
+    "id": 5367,
     "date": "1806-11-09",
     "originalDate": "1806-11-9",
     "rangeEndDate": null,
-    "text": "Eyyüb-i Ensârî’de bir cum‘a gecesi harîk zuhûr edüp, ânda Yeniçeri Ağası duvardan düşüp öldüğü işbu cerîdeye kayd şüd. Fî 26 Ş. sene 1221 (9.11.1806).",
+    "text": "Eyyüb-i Ensârî’de bir cum‘a gecesi harîk zuhûr edüp, ânda Yeniçeri Ağası duvardan düşüp öldüğü işbu cerîdeye kayd şüd. Fî 26 Ş. sene 1221 (9.11.1806).",
     "place": "İstanbul",
     "pageNumber": "180",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -4845,11 +4896,11 @@
     "dayExist": true
   },
   {
-    "id": 4937,
+    "id": 5368,
     "date": "1806-12-11",
     "originalDate": "1806-12-11",
     "rangeEndDate": null,
-    "text": "Harîk-i azîm der-Galata: Ramazân-ı şerîfin pazar gecesi iftârdan yarım sâ‘at sonra Galata’da Sandıkcılar içinde bir harîk zuhûr edüp, onaltı sâ‘at mütemâdî yandı. Tophâne tarafından Kal‘akapusu’nda nihâyet bulup ve bir tarafı Kulkapusu’na, bir tarafı Balıkpazarı’na ve bir tarafı Arabcâmi‘i’ne varınca cümlesi muhterik olup, katı vâfir hasârat olduğu işbu cerîdeye kayd şüd. Fî 30 N. sene 1221 (11.12.1806).",
+    "text": "Harîk-i azîm der-Galata: Ramazân-ı şerîfin pazar gecesi iftârdan yarım sâ‘at sonra Galata’da Sandıkcılar içinde bir harîk zuhûr edüp, onaltı sâ‘at mütemâdî yandı. Tophâne tarafından Kal‘akapusu’nda nihâyet bulup ve bir tarafı Kulkapusu’na, bir tarafı Balıkpazarı’na ve bir tarafı Arabcâmi‘i’ne varınca cümlesi muhterik olup, katı vâfir hasârat olduğu işbu cerîdeye kayd şüd. Fî 30 N. sene 1221 (11.12.1806).",
     "place": "İstanbul",
     "pageNumber": "180",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -4862,11 +4913,11 @@
     "dayExist": true
   },
   {
-    "id": 4940,
+    "id": 5371,
     "date": "1807-01-18",
     "originalDate": "1807-1-18",
     "rangeEndDate": null,
-    "text": "Sâbık Vezîr Kethüdâsı Ahmed Âtıf Efendi’nin Kırkçeşme’de olan konağı içinden leylen sâ’at yedi harîk zuhûr edüp, malıyla ma‘an muhterik oldu. Fî 9 ZA. sene 1221 (18.1.1807).",
+    "text": "Sâbık Vezîr Kethüdâsı Ahmed Âtıf Efendi’nin Kırkçeşme’de olan konağı içinden leylen sâ’at yedi harîk zuhûr edüp, malıyla ma‘an muhterik oldu. Fî 9 ZA. sene 1221 (18.1.1807).",
     "place": "İstanbul",
     "pageNumber": "181",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -4879,11 +4930,11 @@
     "dayExist": true
   },
   {
-    "id": 4933,
+    "id": 5364,
     "date": "1807-07-10",
     "originalDate": "1807-7-10",
     "rangeEndDate": null,
-    "text": "Galata’da Arabcâmi‘i kurbında gece sâ‘at yedi bir harîk zuhûr edüp, onyedi sâ‘at yandı. Galata’nın ekserî yerleri muhterik oldu. Hattâ Meyyit İskelesi’nde nihâyet buldu. Fî 4 CA. sene 1222 (10.7.1807).",
+    "text": "Galata’da Arabcâmi‘i kurbında gece sâ‘at yedi bir harîk zuhûr edüp, onyedi sâ‘at yandı. Galata’nın ekserî yerleri muhterik oldu. Hattâ Meyyit İskelesi’nde nihâyet buldu. Fî 4 CA. sene 1222 (10.7.1807).",
     "place": "İstanbul",
     "pageNumber": "178",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -4896,11 +4947,11 @@
     "dayExist": true
   },
   {
-    "id": 4934,
+    "id": 5365,
     "date": "1807-07-17",
     "originalDate": "1807-7-17",
     "rangeEndDate": null,
-    "text": "Harîk-i Kebîr der-Uzunçarşu: Tahtakal‘a kurbında bir harîk zuhûr edüp, Uzunçarşu muhterik olduğu kayd şüd. Fî 11 CA. sene 1222 (17.7.1807).",
+    "text": "Harîk-i Kebîr der-Uzunçarşu: Tahtakal‘a kurbında bir harîk zuhûr edüp, Uzunçarşu muhterik olduğu kayd şüd. Fî 11 CA. sene 1222 (17.7.1807).",
     "place": "İstanbul",
     "pageNumber": "179",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -4913,11 +4964,11 @@
     "dayExist": true
   },
   {
-    "id": 4935,
+    "id": 5366,
     "date": "1807-07-21",
     "originalDate": "1807-7-21",
     "rangeEndDate": null,
-    "text": "Acemoğlu Kışlası karşusundan bir harîk leylen sâ‘at beş zuhûr edüp, çok evler muhterik olup, Lâleli Câmi‘i’nde nihâyet buldu. Fî 15 C. sene 1222 (21.7.1807).",
+    "text": "Acemoğlu Kışlası karşusundan bir harîk leylen sâ‘at beş zuhûr edüp, çok evler muhterik olup, Lâleli Câmi‘i’nde nihâyet buldu. Fî 15 C. sene 1222 (21.7.1807).",
     "place": "İstanbul",
     "pageNumber": "179",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -4930,7 +4981,7 @@
     "dayExist": true
   },
   {
-    "id": 4605,
+    "id": 5033,
     "date": "1807-09-05",
     "originalDate": "1222-B-2",
     "rangeEndDate": null,
@@ -4947,11 +4998,11 @@
     "dayExist": true
   },
   {
-    "id": 4939,
+    "id": 5370,
     "date": "1807-09-06",
     "originalDate": "1807-9-6",
     "rangeEndDate": null,
-    "text": "Süleymâniyye kurbında sâbık Defterdâr Sa‘dullah Efendi’nin konağı muhterik oldu. Leylen sâ‘at sekiz. Fî 3 B. sene 1222 (6.9.1807).",
+    "text": "Süleymâniyye kurbında sâbık Defterdâr Sa‘dullah Efendi’nin konağı muhterik oldu. Leylen sâ‘at sekiz. Fî 3 B. sene 1222 (6.9.1807).",
     "place": "İstanbul",
     "pageNumber": "181",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -4964,11 +5015,11 @@
     "dayExist": true
   },
   {
-    "id": 4938,
+    "id": 5369,
     "date": "1807-09-14",
     "originalDate": "1807-9-14",
     "rangeEndDate": null,
-    "text": "Soğanağa Mahallesi’nde mekteb karşusunda bir harîk zuhûr edüp, üç hâne muhterik oldu. Leylen sâ‘at sekiz. Fî 11. B. sene 1222 (14.9.1807).",
+    "text": "Soğanağa Mahallesi’nde mekteb karşusunda bir harîk zuhûr edüp, üç hâne muhterik oldu. Leylen sâ‘at sekiz. Fî 11. B. sene 1222 (14.9.1807).",
     "place": "İstanbul",
     "pageNumber": "181",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -4981,7 +5032,7 @@
     "dayExist": true
   },
   {
-    "id": 4982,
+    "id": 5413,
     "date": "1807-09-25",
     "originalDate": "1222-B-22",
     "rangeEndDate": null,
@@ -4998,11 +5049,11 @@
     "dayExist": true
   },
   {
-    "id": 4953,
+    "id": 5384,
     "date": "1808-02-28",
     "originalDate": "1808-02-28-1808-03-03",
     "rangeEndDate": "1808-03-03",
-    "text": "Târîh-i Âstâne’ye Kesret Kar Yağdığı: Binikiyüzyirmiüç Muharrem-i gurresi (28.2.1808) yevm-i sebt ve cemre-i sâniyenin ibtidâ’ki günü, Âstâne’ye dört parmak mıkdârı kar yağup, mâbeyni iki gün fasl olup, üçüncü yevm-i salı yine kar yağmağa başladı. Bir fırtına ile üç gün üç gece ol kadar kar yağdı ki, beş altı karış mıkdârı yağup, çarşu içleri ve Divân yolları ve mahalle aralarında olan yollara birbuçuk âdem boyu mıkdârı kar dolup, çarşulardan ve câddelerden bir türlü mürûr u ubûr mümkün olmadığı ecilden, bâ-Fermân-ı âlî çarşuları ve Divân yollarını vesâ’ir mahalleri lağımcılar kazup, karı kova ile denize ve ba‘zı vîrânelere taşıyup attılar. Yirmibeş gün mıkdârı buz yüzünden kapandı. Ba‘dehu mahv olduğu işbu cerîdeye kayd şüd. Fî 5 M. sene 1223 (3.3.1808).",
+    "text": "Târîh-i Âstâne’ye Kesret Kar Yağdığı: Binikiyüzyirmiüç Muharrem-i gurresi (28.2.1808) yevm-i sebt ve cemre-i sâniyenin ibtidâ’ki günü, Âstâne’ye dört parmak mıkdârı kar yağup, mâbeyni iki gün fasl olup, üçüncü yevm-i salı yine kar yağmağa başladı. Bir fırtına ile üç gün üç gece ol kadar kar yağdı ki, beş altı karış mıkdârı yağup, çarşu içleri ve Divân yolları ve mahalle aralarında olan yollara birbuçuk âdem boyu mıkdârı kar dolup, çarşulardan ve câddelerden bir türlü mürûr u ubûr mümkün olmadığı ecilden, bâ-Fermân-ı âlî çarşuları ve Divân yollarını vesâ’ir mahalleri lağımcılar kazup, karı kova ile denize ve ba‘zı vîrânelere taşıyup attılar. Yirmibeş gün mıkdârı buz yüzünden kapandı. Ba‘dehu mahv olduğu işbu cerîdeye kayd şüd. Fî 5 M. sene 1223 (3.3.1808).",
     "place": "İstanbul",
     "pageNumber": "176",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -5015,11 +5066,11 @@
     "dayExist": true
   },
   {
-    "id": 4920,
+    "id": 5351,
     "date": "1808-07-21",
     "originalDate": "1808-7-21",
     "rangeEndDate": null,
-    "text": "Eyyâm-ı Bahûr’un evvelki günü semâdan bir matar zuhûr edüp, üç gün gece gündüz yağdı.\nMâh-ı Cemâziye’l-âhir’in onuncu çahârşenbe günü Rikâb Kethüdâsı Mustafa Kethüdâ haremi\nile ma‘an Sakız’a nefy olunduğu işbu cerideye kayd şüd. Sene 1223\n",
+    "text": "Eyyâm-ı Bahûr’un evvelki günü semâdan bir matar zuhûr edüp, üç gün gece gündüz yağdı.\nMâh-ı Cemâziye’l-âhir’in onuncu çahârşenbe günü Rikâb Kethüdâsı Mustafa Kethüdâ haremi\nile ma‘an Sakız’a nefy olunduğu işbu cerideye kayd şüd. Sene 1223\n",
     "place": "İstanbul",
     "pageNumber": "113",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -5032,7 +5083,7 @@
     "dayExist": true
   },
   {
-    "id": 4606,
+    "id": 5034,
     "date": "1808-08-24",
     "originalDate": "1223-B-2",
     "rangeEndDate": null,
@@ -5049,11 +5100,11 @@
     "dayExist": true
   },
   {
-    "id": 4921,
+    "id": 5352,
     "date": "1808-08-25",
     "originalDate": "1808-8-25",
     "rangeEndDate": null,
-    "text": "Târîh-i sâ’ika: Receb-i şerîfîn ikinci günü, yevm-i çahârşenbe, sâ‘at onbir, ba‘de’s-sabâh gün yüzüne bulut gelüp, gayet havanın yüzü bozulup, gök gürledi. Yedi kere yıldırım indi. Biri Sultân Mehmed minâresine, biri Süleymâniyye minâresine ve biri Osmâniyye minâresine ve biri Gedik Paşa minâresine ve biri Koğacılar Hammâmı’na ve biri bir hâneye düştüğü işbu cerîdeye kayd oldu. Fî 2 B. Sene 1223\n",
+    "text": "Târîh-i sâ’ika: Receb-i şerîfîn ikinci günü, yevm-i çahârşenbe, sâ‘at onbir, ba‘de’s-sabâh gün yüzüne bulut gelüp, gayet havanın yüzü bozulup, gök gürledi. Yedi kere yıldırım indi. Biri Sultân Mehmed minâresine, biri Süleymâniyye minâresine ve biri Osmâniyye minâresine ve biri Gedik Paşa minâresine ve biri Koğacılar Hammâmı’na ve biri bir hâneye düştüğü işbu cerîdeye kayd oldu. Fî 2 B. Sene 1223\n",
     "place": "İstanbul",
     "pageNumber": "115",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -5066,7 +5117,7 @@
     "dayExist": true
   },
   {
-    "id": 4614,
+    "id": 5042,
     "date": "1809-01-14",
     "originalDate": "1809-01-14",
     "rangeEndDate": null,
@@ -5083,7 +5134,7 @@
     "dayExist": true
   },
   {
-    "id": 4615,
+    "id": 5043,
     "date": "1809-02-08",
     "originalDate": "1809-02-08",
     "rangeEndDate": null,
@@ -5100,7 +5151,7 @@
     "dayExist": true
   },
   {
-    "id": 4616,
+    "id": 5044,
     "date": "1809-02-09",
     "originalDate": "1809-02-09",
     "rangeEndDate": null,
@@ -5117,7 +5168,7 @@
     "dayExist": true
   },
   {
-    "id": 4617,
+    "id": 5045,
     "date": "1809-02-09",
     "originalDate": "1809-02-09",
     "rangeEndDate": null,
@@ -5134,7 +5185,7 @@
     "dayExist": true
   },
   {
-    "id": 4618,
+    "id": 5046,
     "date": "1809-02-10",
     "originalDate": "1809-02-10",
     "rangeEndDate": null,
@@ -5151,7 +5202,7 @@
     "dayExist": true
   },
   {
-    "id": 4619,
+    "id": 5047,
     "date": "1809-02-20",
     "originalDate": "1809-02-20",
     "rangeEndDate": null,
@@ -5168,7 +5219,7 @@
     "dayExist": true
   },
   {
-    "id": 4620,
+    "id": 5048,
     "date": "1809-03-20",
     "originalDate": "1809-03-20",
     "rangeEndDate": null,
@@ -5185,7 +5236,7 @@
     "dayExist": true
   },
   {
-    "id": 4621,
+    "id": 5049,
     "date": "1809-05-20",
     "originalDate": "1809-05-20-1809-05-22",
     "rangeEndDate": "1809-05-22",
@@ -5202,7 +5253,7 @@
     "dayExist": true
   },
   {
-    "id": 4622,
+    "id": 5050,
     "date": "1809-06-28",
     "originalDate": "1809-06-28",
     "rangeEndDate": null,
@@ -5219,7 +5270,7 @@
     "dayExist": true
   },
   {
-    "id": 4623,
+    "id": 5051,
     "date": "1809-08-11",
     "originalDate": "1809-08-11",
     "rangeEndDate": null,
@@ -5236,7 +5287,7 @@
     "dayExist": true
   },
   {
-    "id": 4922,
+    "id": 5353,
     "date": "1809-12-09",
     "originalDate": "1809-12-9",
     "rangeEndDate": null,
@@ -5253,7 +5304,7 @@
     "dayExist": true
   },
   {
-    "id": 4928,
+    "id": 5359,
     "date": "1810-01-01",
     "originalDate": "1810-?-?-1811-?-?",
     "rangeEndDate": "1811-?-?",
@@ -5270,7 +5321,7 @@
     "dayExist": false
   },
   {
-    "id": 4624,
+    "id": 5052,
     "date": "1810-01-07",
     "originalDate": "1810-01-07-1810-02-05",
     "rangeEndDate": "1810-02-05",
@@ -5287,7 +5338,7 @@
     "dayExist": true
   },
   {
-    "id": 4924,
+    "id": 5355,
     "date": "1810-01-07",
     "originalDate": "1810-01-7",
     "rangeEndDate": null,
@@ -5304,11 +5355,11 @@
     "dayExist": true
   },
   {
-    "id": 4923,
+    "id": 5354,
     "date": "1810-02-24",
     "originalDate": "1810-2-24",
     "rangeEndDate": null,
-    "text": "Binikiyüzyirmibeşinci senesi Muharrem’in ondokuzuncu cum‘a günü (24.2.1810), sâ‘at onbir, cemre-i ûlânın beşinci günü, gayet sert rüzgâr ile Âstâne-i aliyye’ye katı vâfir kar yağup, saçaklarda birer karış mıkdârı buz tutdu. Lâkin birkaç gün zarfında cümle mahv olduğu işbu cerîdeye kayd şüd. Fî 19 M. sene 1225\n",
+    "text": "Binikiyüzyirmibeşinci senesi Muharrem’in ondokuzuncu cum‘a günü (24.2.1810), sâ‘at onbir, cemre-i ûlânın beşinci günü, gayet sert rüzgâr ile Âstâne-i aliyye’ye katı vâfir kar yağup, saçaklarda birer karış mıkdârı buz tutdu. Lâkin birkaç gün zarfında cümle mahv olduğu işbu cerîdeye kayd şüd. Fî 19 M. sene 1225\n",
     "place": "İstanbul",
     "pageNumber": "132",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -5321,7 +5372,7 @@
     "dayExist": true
   },
   {
-    "id": 4626,
+    "id": 5054,
     "date": "1810-04-01",
     "originalDate": "1810-04-01",
     "rangeEndDate": null,
@@ -5338,11 +5389,11 @@
     "dayExist": true
   },
   {
-    "id": 4925,
+    "id": 5356,
     "date": "1810-04-20",
     "originalDate": "1810-4-20",
     "rangeEndDate": null,
-    "text": "Târîh-i harîk-i kebîr min-Beyoğlu: Karşu Beyoğlu’nda Galatasarayı kurbında, Firûzağa kurbında, nehâren sâ‘at bir, bir harîk zuhûr edüp, İngiliz Sarayı yanında Aynalıçeşme’ye varınca ve ândan Kasımpaşa’ya varınca ve Dörtyolağızı’na varınca ve Frenk sarayları cümle muhterik olup, oniki sâ‘at dahi ziyâde yandı. Ber-mûcib-i tahmîn yedi sekizbin mıkdârı menzil muhterik olup, katı vâfir zarâr-ı küllî olduğu işbu cerîdeye kayd olunmuştur. Fî 15 RA. sene 1225 (20.4.1810). Yevm-i sebt 428. Belki onbin menzil muhterik oldu.",
+    "text": "Târîh-i harîk-i kebîr min-Beyoğlu: Karşu Beyoğlu’nda Galatasarayı kurbında, Firûzağa kurbında, nehâren sâ‘at bir, bir harîk zuhûr edüp, İngiliz Sarayı yanında Aynalıçeşme’ye varınca ve ândan Kasımpaşa’ya varınca ve Dörtyolağızı’na varınca ve Frenk sarayları cümle muhterik olup, oniki sâ‘at dahi ziyâde yandı. Ber-mûcib-i tahmîn yedi sekizbin mıkdârı menzil muhterik olup, katı vâfir zarâr-ı küllî olduğu işbu cerîdeye kayd olunmuştur. Fî 15 RA. sene 1225 (20.4.1810). Yevm-i sebt 428. Belki onbin menzil muhterik oldu.",
     "place": "İstanbul",
     "pageNumber": "135",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -5355,7 +5406,7 @@
     "dayExist": true
   },
   {
-    "id": 4627,
+    "id": 5055,
     "date": "1810-05-15",
     "originalDate": "1810-05-15",
     "rangeEndDate": null,
@@ -5372,7 +5423,7 @@
     "dayExist": true
   },
   {
-    "id": 4628,
+    "id": 5056,
     "date": "1810-09-21",
     "originalDate": "1810-09-21",
     "rangeEndDate": null,
@@ -5389,7 +5440,7 @@
     "dayExist": true
   },
   {
-    "id": 4625,
+    "id": 5053,
     "date": "1810-12-14",
     "originalDate": "1810-12-14",
     "rangeEndDate": null,
@@ -5406,7 +5457,7 @@
     "dayExist": true
   },
   {
-    "id": 4697,
+    "id": 5125,
     "date": "1811-03-21",
     "originalDate": "1811-03-21",
     "rangeEndDate": null,
@@ -5423,11 +5474,11 @@
     "dayExist": true
   },
   {
-    "id": 4952,
+    "id": 5383,
     "date": "1811-03-21",
     "originalDate": "1811-3-21-1811-3-24",
     "rangeEndDate": "1811-3-24",
-    "text": "İbtidâ’-yı Nevrûz-ı Sultânî’de gāyet soğuk ve kış olup, mütevâliyyen dört gün kar yağdığı işbu cerîdeye kayd şüd. Fî Gur. RA. Sene 1226 (26.3.1811).",
+    "text": "İbtidâ’-yı Nevrûz-ı Sultânî’de gāyet soğuk ve kış olup, mütevâliyyen dört gün kar yağdığı işbu cerîdeye kayd şüd. Fî Gur. RA. Sene 1226 (26.3.1811).",
     "place": "İstanbul",
     "pageNumber": "224",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -5440,11 +5491,11 @@
     "dayExist": true
   },
   {
-    "id": 4927,
+    "id": 5358,
     "date": "1811-03-24",
     "originalDate": "1811-3-24",
     "rangeEndDate": null,
-    "text": "Vefa Meydânı ittisâlinde Külhân’a karşu Yusuf Âgâh Efendi’nin konağı derûnunda leylen sâ‘at yedi, bir harîk zuhûr edüp, konak ve cıvârında birkaç menzîl muhterik olduğu kayd şüd. Fî 28 SA. Sene 1226 (24.3.1811). (TARİH NOT: KIRMIZI)",
+    "text": "Vefa Meydânı ittisâlinde Külhân’a karşu Yusuf Âgâh Efendi’nin konağı derûnunda leylen sâ‘at yedi, bir harîk zuhûr edüp, konak ve cıvârında birkaç menzîl muhterik olduğu kayd şüd. Fî 28 SA. Sene 1226 (24.3.1811). (TARİH NOT: KIRMIZI)",
     "place": "İstanbul",
     "pageNumber": "142",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -5457,7 +5508,7 @@
     "dayExist": true
   },
   {
-    "id": 4743,
+    "id": 5174,
     "date": "1811-06-15",
     "originalDate": "1811-06-15",
     "rangeEndDate": null,
@@ -5474,7 +5525,7 @@
     "dayExist": true
   },
   {
-    "id": 4744,
+    "id": 5175,
     "date": "1811-06-18",
     "originalDate": "1811-06-18",
     "rangeEndDate": null,
@@ -5491,7 +5542,7 @@
     "dayExist": true
   },
   {
-    "id": 4629,
+    "id": 5057,
     "date": "1811-06-19",
     "originalDate": "1811-06-19",
     "rangeEndDate": null,
@@ -5508,11 +5559,11 @@
     "dayExist": true
   },
   {
-    "id": 4961,
+    "id": 5392,
     "date": "1811-06-19",
     "originalDate": "1811-6-19",
     "rangeEndDate": null,
-    "text": "Binikiyüzyirmialtı senesi Cemâziye’l-evvel’in yirmiyedinci salı gün ba‘de’s-salâti’l-fecr azîm yağmur zuhûr edüp, Beşiktaş’da ve Kasımpaşa’da vesâ’ir yerlerde ol kadar kesret-i bârân oldu ki, nîce evler ve dükkânlar ve hammâmlar yıkılup ve nîce hayvânât ve insân helâk ve telef ve zâyi‘ olduğu işbu cerîdeye kayd şüd. Fî 27 CA. sene 1226 (19.6.1811).",
+    "text": "Binikiyüzyirmialtı senesi Cemâziye’l-evvel’in yirmiyedinci salı gün ba‘de’s-salâti’l-fecr azîm yağmur zuhûr edüp, Beşiktaş’da ve Kasımpaşa’da vesâ’ir yerlerde ol kadar kesret-i bârân oldu ki, nîce evler ve dükkânlar ve hammâmlar yıkılup ve nîce hayvânât ve insân helâk ve telef ve zâyi‘ olduğu işbu cerîdeye kayd şüd. Fî 27 CA. sene 1226 (19.6.1811).",
     "place": "İstanbul",
     "pageNumber": "208",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -5525,7 +5576,7 @@
     "dayExist": true
   },
   {
-    "id": 4630,
+    "id": 5058,
     "date": "1811-07-29",
     "originalDate": "1811-07-29",
     "rangeEndDate": null,
@@ -5542,7 +5593,7 @@
     "dayExist": true
   },
   {
-    "id": 4745,
+    "id": 5176,
     "date": "1811-07-29",
     "originalDate": "1811-07-29",
     "rangeEndDate": null,
@@ -5559,11 +5610,11 @@
     "dayExist": true
   },
   {
-    "id": 4929,
+    "id": 5360,
     "date": "1811-07-29",
     "originalDate": "1811-7-29",
     "rangeEndDate": null,
-    "text": "Târîh-i hârîk der-Kurb-ı Yenikapu: Binikiyüzyirmialtıncı senesi mâh-ı Receb-i şerîf’in sekizinci (29.7.1811) isneyn gecesi sâ’at bir, kable’l-işâ’ Lanka Yenikapusu ittisâlinde basmacılar derûnunda bir harîk zuhûr etti. Hârici surdan ân-ı vâhidde basmacılar bi’l-cümlesi muhterik olup, surun dâhiline ateş girüp, iki kol olup, Cellâd Çeşmesi’ne vardı ve bir kolu Musallâ Mahallesi cânibine yürüyüp, tâ ki Havuzlu Hammâm muhterik olup, ânda nihâyet buldu. Ve bir tariki Alaca Mescid tarafında ve bir taraf Dülbentci Mahallesi’nde nihâyet buldu. Netîce-i kelâm ekseriyya muhterik olan, kefere evleri muhterik oldu. Ber-muceb-i tahmîn dörtbin kefere evi, bin kadar Müslüman evi, mecmû‘u 5000 hâne. Bu mıkdâr hâne birkaç hammâm ve birkaç ekmekci dükkânı ve katı vâfir dükkân-ı sâ’ire muhterik oldu. İşbu cerîdeye kayd şüd. Fî 8 B. sene 1226 (29.7.1811).",
+    "text": "Târîh-i hârîk der-Kurb-ı Yenikapu: Binikiyüzyirmialtıncı senesi mâh-ı Receb-i şerîf’in sekizinci (29.7.1811) isneyn gecesi sâ’at bir, kable’l-işâ’ Lanka Yenikapusu ittisâlinde basmacılar derûnunda bir harîk zuhûr etti. Hârici surdan ân-ı vâhidde basmacılar bi’l-cümlesi muhterik olup, surun dâhiline ateş girüp, iki kol olup, Cellâd Çeşmesi’ne vardı ve bir kolu Musallâ Mahallesi cânibine yürüyüp, tâ ki Havuzlu Hammâm muhterik olup, ânda nihâyet buldu. Ve bir tariki Alaca Mescid tarafında ve bir taraf Dülbentci Mahallesi’nde nihâyet buldu. Netîce-i kelâm ekseriyya muhterik olan, kefere evleri muhterik oldu. Ber-muceb-i tahmîn dörtbin kefere evi, bin kadar Müslüman evi, mecmû‘u 5000 hâne. Bu mıkdâr hâne birkaç hammâm ve birkaç ekmekci dükkânı ve katı vâfir dükkân-ı sâ’ire muhterik oldu. İşbu cerîdeye kayd şüd. Fî 8 B. sene 1226 (29.7.1811).",
     "place": "İstanbul",
     "pageNumber": "146",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -5576,7 +5627,7 @@
     "dayExist": true
   },
   {
-    "id": 4631,
+    "id": 5059,
     "date": "1811-08-30",
     "originalDate": "1811-08-30",
     "rangeEndDate": null,
@@ -5593,7 +5644,7 @@
     "dayExist": true
   },
   {
-    "id": 4746,
+    "id": 5177,
     "date": "1811-09-03",
     "originalDate": "1811-09-03",
     "rangeEndDate": null,
@@ -5610,7 +5661,7 @@
     "dayExist": true
   },
   {
-    "id": 4632,
+    "id": 5060,
     "date": "1811-10-01",
     "originalDate": "1811-10-01",
     "rangeEndDate": null,
@@ -5627,7 +5678,7 @@
     "dayExist": true
   },
   {
-    "id": 4931,
+    "id": 5362,
     "date": "1811-10-01",
     "originalDate": "1811-10-1",
     "rangeEndDate": null,
@@ -5644,7 +5695,7 @@
     "dayExist": true
   },
   {
-    "id": 4633,
+    "id": 5061,
     "date": "1811-10-16",
     "originalDate": "1811-10-16",
     "rangeEndDate": null,
@@ -5661,7 +5712,7 @@
     "dayExist": true
   },
   {
-    "id": 4565,
+    "id": 4993,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5678,7 +5729,7 @@
     "dayExist": false
   },
   {
-    "id": 4637,
+    "id": 5065,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5695,7 +5746,7 @@
     "dayExist": false
   },
   {
-    "id": 4638,
+    "id": 5066,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5712,7 +5763,7 @@
     "dayExist": false
   },
   {
-    "id": 4639,
+    "id": 5067,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5729,7 +5780,7 @@
     "dayExist": false
   },
   {
-    "id": 4640,
+    "id": 5068,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5746,7 +5797,7 @@
     "dayExist": false
   },
   {
-    "id": 4641,
+    "id": 5069,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5763,7 +5814,7 @@
     "dayExist": false
   },
   {
-    "id": 4642,
+    "id": 5070,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5780,7 +5831,7 @@
     "dayExist": false
   },
   {
-    "id": 4643,
+    "id": 5071,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5797,7 +5848,7 @@
     "dayExist": false
   },
   {
-    "id": 4647,
+    "id": 5075,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5814,7 +5865,7 @@
     "dayExist": false
   },
   {
-    "id": 4654,
+    "id": 5082,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5831,7 +5882,7 @@
     "dayExist": false
   },
   {
-    "id": 4724,
+    "id": 5152,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5848,7 +5899,7 @@
     "dayExist": false
   },
   {
-    "id": 4748,
+    "id": 5179,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5865,7 +5916,7 @@
     "dayExist": false
   },
   {
-    "id": 4634,
+    "id": 5062,
     "date": "1812-04-30",
     "originalDate": "1812-04-30",
     "rangeEndDate": null,
@@ -5882,7 +5933,7 @@
     "dayExist": true
   },
   {
-    "id": 4962,
+    "id": 5393,
     "date": "1812-05-01",
     "originalDate": "1812-05-?-1813-02-?",
     "rangeEndDate": "1813-02-?",
@@ -5899,7 +5950,7 @@
     "dayExist": false
   },
   {
-    "id": 4635,
+    "id": 5063,
     "date": "1812-05-04",
     "originalDate": "1812-05-04",
     "rangeEndDate": null,
@@ -5916,7 +5967,7 @@
     "dayExist": true
   },
   {
-    "id": 4636,
+    "id": 5064,
     "date": "1812-05-06",
     "originalDate": "1812-05-06",
     "rangeEndDate": null,
@@ -5933,7 +5984,7 @@
     "dayExist": true
   },
   {
-    "id": 4747,
+    "id": 5178,
     "date": "1812-06-01",
     "originalDate": "1812-06-?",
     "rangeEndDate": null,
@@ -5950,7 +6001,7 @@
     "dayExist": false
   },
   {
-    "id": 4725,
+    "id": 5153,
     "date": "1812-08-26",
     "originalDate": "1812-08-26",
     "rangeEndDate": null,
@@ -5967,7 +6018,7 @@
     "dayExist": true
   },
   {
-    "id": 4727,
+    "id": 5155,
     "date": "1812-09-01",
     "originalDate": "1812-09-?",
     "rangeEndDate": null,
@@ -5984,7 +6035,7 @@
     "dayExist": false
   },
   {
-    "id": 4728,
+    "id": 5156,
     "date": "1812-09-01",
     "originalDate": "1812-09-?",
     "rangeEndDate": null,
@@ -6001,7 +6052,7 @@
     "dayExist": false
   },
   {
-    "id": 4729,
+    "id": 5157,
     "date": "1812-09-01",
     "originalDate": "1812-09-?",
     "rangeEndDate": null,
@@ -6018,7 +6069,7 @@
     "dayExist": false
   },
   {
-    "id": 4730,
+    "id": 5158,
     "date": "1812-09-01",
     "originalDate": "1812-09-?",
     "rangeEndDate": null,
@@ -6035,7 +6086,7 @@
     "dayExist": false
   },
   {
-    "id": 4726,
+    "id": 5154,
     "date": "1812-09-04",
     "originalDate": "1812-09-04",
     "rangeEndDate": null,
@@ -6052,7 +6103,7 @@
     "dayExist": true
   },
   {
-    "id": 4644,
+    "id": 5072,
     "date": "1812-09-26",
     "originalDate": "1812-09-26",
     "rangeEndDate": null,
@@ -6069,11 +6120,11 @@
     "dayExist": true
   },
   {
-    "id": 4932,
+    "id": 5363,
     "date": "1812-09-26",
     "originalDate": "1812-9-26",
     "rangeEndDate": null,
-    "text": "Binikiyüzyirmiyedi senesi Ramazân’ının ondokuzuncu (26.9.1812) cum‘aertesi gecesi, sâ‘at üç Balat’dan bir harîk zuhûr edüp, onsekiz sâ‘at mıkdârı yandı. Ber-muceb-i tahmîn onbin mıkdârı hâne muhterik olduğu işbu cerîdeye kayd şüd. Fî 29 N. sene 1227 (6.10.1812).",
+    "text": "Binikiyüzyirmiyedi senesi Ramazân’ının ondokuzuncu (26.9.1812) cum‘aertesi gecesi, sâ‘at üç Balat’dan bir harîk zuhûr edüp, onsekiz sâ‘at mıkdârı yandı. Ber-muceb-i tahmîn onbin mıkdârı hâne muhterik olduğu işbu cerîdeye kayd şüd. Fî 29 N. sene 1227 (6.10.1812).",
     "place": "İstanbul",
     "pageNumber": "147",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -6086,7 +6137,7 @@
     "dayExist": true
   },
   {
-    "id": 4645,
+    "id": 5073,
     "date": "1812-09-28",
     "originalDate": "1812-09-28",
     "rangeEndDate": null,
@@ -6103,7 +6154,7 @@
     "dayExist": true
   },
   {
-    "id": 4646,
+    "id": 5074,
     "date": "1812-10-03",
     "originalDate": "1812-10-03",
     "rangeEndDate": null,
@@ -6120,7 +6171,7 @@
     "dayExist": true
   },
   {
-    "id": 4648,
+    "id": 5076,
     "date": "1812-10-03",
     "originalDate": "1812-10-03",
     "rangeEndDate": null,
@@ -6137,7 +6188,7 @@
     "dayExist": true
   },
   {
-    "id": 4649,
+    "id": 5077,
     "date": "1812-10-10",
     "originalDate": "1812-10-10",
     "rangeEndDate": null,
@@ -6154,7 +6205,7 @@
     "dayExist": true
   },
   {
-    "id": 4650,
+    "id": 5078,
     "date": "1812-10-11",
     "originalDate": "1812-10-11",
     "rangeEndDate": null,
@@ -6171,7 +6222,7 @@
     "dayExist": true
   },
   {
-    "id": 4651,
+    "id": 5079,
     "date": "1812-10-14",
     "originalDate": "1812-10-14",
     "rangeEndDate": null,
@@ -6188,7 +6239,7 @@
     "dayExist": true
   },
   {
-    "id": 4652,
+    "id": 5080,
     "date": "1812-10-16",
     "originalDate": "1812-10-16",
     "rangeEndDate": null,
@@ -6205,7 +6256,7 @@
     "dayExist": true
   },
   {
-    "id": 4653,
+    "id": 5081,
     "date": "1812-10-17",
     "originalDate": "1812-10-17",
     "rangeEndDate": null,
@@ -6222,7 +6273,7 @@
     "dayExist": true
   },
   {
-    "id": 4655,
+    "id": 5083,
     "date": "1812-10-24",
     "originalDate": "1812-10- 24",
     "rangeEndDate": null,
@@ -6239,7 +6290,7 @@
     "dayExist": true
   },
   {
-    "id": 4749,
+    "id": 5180,
     "date": "1812-10-25",
     "originalDate": "1812-10-25",
     "rangeEndDate": null,
@@ -6256,7 +6307,7 @@
     "dayExist": true
   },
   {
-    "id": 4656,
+    "id": 5084,
     "date": "1812-10-27",
     "originalDate": "1812-10-27",
     "rangeEndDate": null,
@@ -6273,7 +6324,7 @@
     "dayExist": true
   },
   {
-    "id": 4750,
+    "id": 5181,
     "date": "1812-11-06",
     "originalDate": "1812-11-06-1812-11-15",
     "rangeEndDate": "1812-11-15",
@@ -6290,7 +6341,7 @@
     "dayExist": true
   },
   {
-    "id": 4657,
+    "id": 5085,
     "date": "1812-11-09",
     "originalDate": "1812-11-09",
     "rangeEndDate": null,
@@ -6307,7 +6358,7 @@
     "dayExist": true
   },
   {
-    "id": 4963,
+    "id": 5394,
     "date": "1813-01-01",
     "originalDate": "1813-?-?",
     "rangeEndDate": null,
@@ -6324,7 +6375,7 @@
     "dayExist": false
   },
   {
-    "id": 4965,
+    "id": 5396,
     "date": "1813-01-05",
     "originalDate": "1813-01-05",
     "rangeEndDate": null,
@@ -6341,7 +6392,7 @@
     "dayExist": true
   },
   {
-    "id": 4658,
+    "id": 5086,
     "date": "1813-01-20",
     "originalDate": "1813-01-20",
     "rangeEndDate": null,
@@ -6358,7 +6409,7 @@
     "dayExist": true
   },
   {
-    "id": 4703,
+    "id": 5131,
     "date": "1813-01-20",
     "originalDate": "1228-M-17",
     "rangeEndDate": null,
@@ -6375,7 +6426,7 @@
     "dayExist": true
   },
   {
-    "id": 4964,
+    "id": 5395,
     "date": "1813-01-21",
     "originalDate": "1813-01-21",
     "rangeEndDate": null,
@@ -6392,7 +6443,7 @@
     "dayExist": true
   },
   {
-    "id": 4659,
+    "id": 5087,
     "date": "1813-01-25",
     "originalDate": "1813-01-25",
     "rangeEndDate": null,
@@ -6409,7 +6460,7 @@
     "dayExist": true
   },
   {
-    "id": 4699,
+    "id": 5127,
     "date": "1813-01-30",
     "originalDate": "1228-M-27",
     "rangeEndDate": null,
@@ -6426,7 +6477,7 @@
     "dayExist": true
   },
   {
-    "id": 4660,
+    "id": 5088,
     "date": "1813-02-01",
     "originalDate": "1813-02-01",
     "rangeEndDate": null,
@@ -6443,7 +6494,7 @@
     "dayExist": true
   },
   {
-    "id": 4661,
+    "id": 5089,
     "date": "1813-02-02",
     "originalDate": "1813-02-02",
     "rangeEndDate": null,
@@ -6460,7 +6511,7 @@
     "dayExist": true
   },
   {
-    "id": 4662,
+    "id": 5090,
     "date": "1813-02-07",
     "originalDate": "1813-02-07",
     "rangeEndDate": null,
@@ -6477,7 +6528,7 @@
     "dayExist": true
   },
   {
-    "id": 4700,
+    "id": 5128,
     "date": "1813-02-08",
     "originalDate": "1228-S-6",
     "rangeEndDate": null,
@@ -6494,7 +6545,7 @@
     "dayExist": true
   },
   {
-    "id": 4663,
+    "id": 5091,
     "date": "1813-02-09",
     "originalDate": "1813-02-09",
     "rangeEndDate": null,
@@ -6511,7 +6562,7 @@
     "dayExist": true
   },
   {
-    "id": 4664,
+    "id": 5092,
     "date": "1813-02-11",
     "originalDate": "1813-02-11",
     "rangeEndDate": null,
@@ -6528,7 +6579,7 @@
     "dayExist": true
   },
   {
-    "id": 4665,
+    "id": 5093,
     "date": "1813-03-30",
     "originalDate": "1813-03-30",
     "rangeEndDate": null,
@@ -6545,7 +6596,7 @@
     "dayExist": true
   },
   {
-    "id": 4704,
+    "id": 5132,
     "date": "1813-04-24",
     "originalDate": "1228-R-22",
     "rangeEndDate": null,
@@ -6562,7 +6613,7 @@
     "dayExist": true
   },
   {
-    "id": 4666,
+    "id": 5094,
     "date": "1813-07-25",
     "originalDate": "1813-07-25",
     "rangeEndDate": null,
@@ -6579,11 +6630,11 @@
     "dayExist": true
   },
   {
-    "id": 4926,
+    "id": 5357,
     "date": "1813-08-02",
     "originalDate": "1813-8-2",
     "rangeEndDate": null,
-    "text": "Târîh-i harîk, fî 4 Ş. sene 1228 (2.8.1813). Yevm-i sebt gecesi, sâ‘at sekiz. Tavukpazarı kurbından Tahtahan’dan zuhûr edüp, Kürkçüler ve Hüseyin Ağa Câmi‘i karşusında olan evler muhterik oldu.",
+    "text": "Târîh-i harîk, fî 4 Ş. sene 1228 (2.8.1813). Yevm-i sebt gecesi, sâ‘at sekiz. Tavukpazarı kurbından Tahtahan’dan zuhûr edüp, Kürkçüler ve Hüseyin Ağa Câmi‘i karşusında olan evler muhterik oldu.",
     "place": "İstanbul",
     "pageNumber": "136",
     "bookName": "Osmanlı'da İmamlar ve Bir İmamın Günlüğü",
@@ -6596,7 +6647,7 @@
     "dayExist": true
   },
   {
-    "id": 4667,
+    "id": 5095,
     "date": "1813-08-14",
     "originalDate": "1813-08-14",
     "rangeEndDate": null,
@@ -6613,7 +6664,7 @@
     "dayExist": true
   },
   {
-    "id": 4668,
+    "id": 5096,
     "date": "1813-12-23",
     "originalDate": "1813-12-23",
     "rangeEndDate": null,
@@ -6630,7 +6681,7 @@
     "dayExist": true
   },
   {
-    "id": 4585,
+    "id": 5013,
     "date": "1814-08-27",
     "originalDate": "1814-08-27",
     "rangeEndDate": null,
@@ -6647,7 +6698,7 @@
     "dayExist": true
   },
   {
-    "id": 4586,
+    "id": 5014,
     "date": "1814-09-07",
     "originalDate": "1814-09-7",
     "rangeEndDate": null,
@@ -6664,7 +6715,7 @@
     "dayExist": true
   },
   {
-    "id": 4587,
+    "id": 5015,
     "date": "1814-09-07",
     "originalDate": "1814-09-7",
     "rangeEndDate": null,
@@ -6681,7 +6732,7 @@
     "dayExist": true
   },
   {
-    "id": 4588,
+    "id": 5016,
     "date": "1814-09-10",
     "originalDate": "1814-09-10",
     "rangeEndDate": null,
@@ -6698,7 +6749,7 @@
     "dayExist": true
   },
   {
-    "id": 4705,
+    "id": 5133,
     "date": "1815-03-21",
     "originalDate": "1230-R-09",
     "rangeEndDate": null,
@@ -6715,7 +6766,7 @@
     "dayExist": true
   },
   {
-    "id": 4706,
+    "id": 5134,
     "date": "1815-08-02",
     "originalDate": "1230-Ş-25",
     "rangeEndDate": null,
@@ -6732,7 +6783,7 @@
     "dayExist": true
   },
   {
-    "id": 4708,
+    "id": 5136,
     "date": "1816-11-14",
     "originalDate": "1231-Z-23",
     "rangeEndDate": null,
@@ -6749,7 +6800,7 @@
     "dayExist": true
   },
   {
-    "id": 4709,
+    "id": 5137,
     "date": "1817-04-02",
     "originalDate": "1232-CA-15",
     "rangeEndDate": null,
@@ -6766,7 +6817,7 @@
     "dayExist": true
   },
   {
-    "id": 4737,
+    "id": 5168,
     "date": "1818-01-09",
     "originalDate": "1818-01-09",
     "rangeEndDate": null,
@@ -6783,7 +6834,7 @@
     "dayExist": true
   },
   {
-    "id": 4738,
+    "id": 5169,
     "date": "1818-04-16",
     "originalDate": "1818-04-16",
     "rangeEndDate": null,
@@ -6800,7 +6851,7 @@
     "dayExist": true
   },
   {
-    "id": 4717,
+    "id": 5145,
     "date": "1818-04-22",
     "originalDate": "1233-C-15",
     "rangeEndDate": null,
@@ -6817,7 +6868,7 @@
     "dayExist": true
   },
   {
-    "id": 4710,
+    "id": 5138,
     "date": "1818-05-23",
     "originalDate": " 1233-B-17",
     "rangeEndDate": null,
@@ -6834,7 +6885,7 @@
     "dayExist": true
   },
   {
-    "id": 4739,
+    "id": 5170,
     "date": "1818-07-15",
     "originalDate": "1818-07-15",
     "rangeEndDate": null,
@@ -6851,7 +6902,7 @@
     "dayExist": true
   },
   {
-    "id": 4740,
+    "id": 5171,
     "date": "1818-07-25",
     "originalDate": "1818-07-25-1818-08-03",
     "rangeEndDate": "1818-08-03",
@@ -6868,7 +6919,7 @@
     "dayExist": true
   },
   {
-    "id": 4741,
+    "id": 5172,
     "date": "1818-08-14",
     "originalDate": "1818-08-14",
     "rangeEndDate": null,
@@ -6885,7 +6936,7 @@
     "dayExist": true
   },
   {
-    "id": 4718,
+    "id": 5146,
     "date": "1819-10-04",
     "originalDate": "1234-Z-14",
     "rangeEndDate": null,
@@ -6902,7 +6953,7 @@
     "dayExist": true
   },
   {
-    "id": 4719,
+    "id": 5147,
     "date": "1820-09-07",
     "originalDate": "1235-ZA-29",
     "rangeEndDate": null,
@@ -6919,7 +6970,7 @@
     "dayExist": true
   },
   {
-    "id": 4711,
+    "id": 5139,
     "date": "1820-09-25",
     "originalDate": "1235-Z-17",
     "rangeEndDate": null,
@@ -6936,7 +6987,7 @@
     "dayExist": true
   },
   {
-    "id": 4742,
+    "id": 5173,
     "date": "1820-10-07",
     "originalDate": "1820-10-07",
     "rangeEndDate": null,
@@ -6953,7 +7004,7 @@
     "dayExist": true
   },
   {
-    "id": 4712,
+    "id": 5140,
     "date": "1820-10-13",
     "originalDate": "1236-M-5",
     "rangeEndDate": null,
@@ -6970,7 +7021,7 @@
     "dayExist": true
   },
   {
-    "id": 4987,
+    "id": 5418,
     "date": "1820-11-12",
     "originalDate": "1236-S-05",
     "rangeEndDate": null,
@@ -6987,7 +7038,7 @@
     "dayExist": true
   },
   {
-    "id": 4870,
+    "id": 5301,
     "date": "1822-01-01",
     "originalDate": "1822-?-?",
     "rangeEndDate": null,
@@ -7004,7 +7055,7 @@
     "dayExist": false
   },
   {
-    "id": 4871,
+    "id": 5302,
     "date": "1822-01-01",
     "originalDate": "1822-?-?",
     "rangeEndDate": null,
@@ -7021,7 +7072,7 @@
     "dayExist": false
   },
   {
-    "id": 4988,
+    "id": 5419,
     "date": "1823-03-01",
     "originalDate": "1238-C-17-1238-C-20",
     "rangeEndDate": "1238-C-20",
@@ -7038,7 +7089,7 @@
     "dayExist": true
   },
   {
-    "id": 4912,
+    "id": 5343,
     "date": "1828-01-01",
     "originalDate": "1828-?-?",
     "rangeEndDate": null,
@@ -7055,7 +7106,7 @@
     "dayExist": false
   },
   {
-    "id": 4913,
+    "id": 5344,
     "date": "1828-01-01",
     "originalDate": "1828-?-?",
     "rangeEndDate": null,
@@ -7072,7 +7123,7 @@
     "dayExist": false
   },
   {
-    "id": 4910,
+    "id": 5341,
     "date": "1828-03-25",
     "originalDate": "1828-03-25",
     "rangeEndDate": null,
@@ -7089,7 +7140,7 @@
     "dayExist": true
   },
   {
-    "id": 4911,
+    "id": 5342,
     "date": "1828-03-25",
     "originalDate": "1828-03-25",
     "rangeEndDate": null,
@@ -7106,7 +7157,7 @@
     "dayExist": true
   },
   {
-    "id": 4713,
+    "id": 5141,
     "date": "1829-07-11",
     "originalDate": "1245-M-9",
     "rangeEndDate": null,
@@ -7123,7 +7174,7 @@
     "dayExist": true
   },
   {
-    "id": 4567,
+    "id": 4995,
     "date": "1833-01-01",
     "originalDate": "1833-?-?",
     "rangeEndDate": null,
@@ -7140,7 +7191,7 @@
     "dayExist": false
   },
   {
-    "id": 4568,
+    "id": 4996,
     "date": "1833-01-01",
     "originalDate": "1833-?-?",
     "rangeEndDate": null,
@@ -7157,7 +7208,7 @@
     "dayExist": false
   },
   {
-    "id": 4569,
+    "id": 4997,
     "date": "1833-01-01",
     "originalDate": "1833-?-?",
     "rangeEndDate": null,
@@ -7174,7 +7225,7 @@
     "dayExist": false
   },
   {
-    "id": 4570,
+    "id": 4998,
     "date": "1833-01-01",
     "originalDate": "1833-?-?",
     "rangeEndDate": null,
@@ -7191,7 +7242,7 @@
     "dayExist": false
   },
   {
-    "id": 4571,
+    "id": 4999,
     "date": "1833-01-01",
     "originalDate": "1833-?-?",
     "rangeEndDate": null,
@@ -7208,7 +7259,7 @@
     "dayExist": false
   },
   {
-    "id": 4572,
+    "id": 5000,
     "date": "1833-01-01",
     "originalDate": "1833-?-?",
     "rangeEndDate": null,
@@ -7225,7 +7276,7 @@
     "dayExist": false
   },
   {
-    "id": 4573,
+    "id": 5001,
     "date": "1833-01-01",
     "originalDate": "1833-?-?",
     "rangeEndDate": null,
@@ -7242,7 +7293,7 @@
     "dayExist": false
   },
   {
-    "id": 4574,
+    "id": 5002,
     "date": "1833-01-11",
     "originalDate": "1833-01-11",
     "rangeEndDate": null,
@@ -7259,7 +7310,7 @@
     "dayExist": true
   },
   {
-    "id": 4575,
+    "id": 5003,
     "date": "1833-01-13",
     "originalDate": "1833-01-13",
     "rangeEndDate": null,

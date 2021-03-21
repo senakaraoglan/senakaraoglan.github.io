@@ -1,9 +1,7 @@
 <mat-card>
   <div class="container">
     <div fxLayout="row" fxLayoutAlign="center">
-      <div>
-        <h3>1800' lü Yılların İstanbul İklim Bilgileri</h3>
-      </div>
+      <div></div>
     </div>
     <div fxLayout="row" fxLayoutAlign="start">
       <div>
@@ -152,9 +150,7 @@
 
         <!-- Date Column -->
         <ng-container matColumnDef="originalDate">
-          <mat-header-cell *matHeaderCellDef>
-            Orjinal Tarih
-          </mat-header-cell>
+          <mat-header-cell *matHeaderCellDef> Orjinal Tarih </mat-header-cell>
           <mat-cell
             matTooltip="{{ getFullHicriMonthName(element.originalDate) }}"
             *matCellDef="let element"

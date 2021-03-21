@@ -35,7 +35,7 @@ export interface Climate {
   animations: [expandableRowAnimation],
 })
 export class ClimatesComponent implements OnInit, OnDestroy {
-  title = "IKLIM PROJESI";
+  title = "DISAR";
 
   public endSubscriptions$: Subject<boolean> = new Subject();
 
