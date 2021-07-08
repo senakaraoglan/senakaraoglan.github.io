@@ -28,7 +28,6 @@ import { AppComponent } from './app.component';
 import { AuthGuardService } from './auth/auth-guard.service';
 import { AuthService } from './auth/auth.service';
 import { ClimatesComponent } from './climates/climates.component';
-import { PercentageDialogComponent } from './climates/percentage-dialog.component';
 import { GraphicsComponent } from './graphics/graphics.component';
 import { ErrorInterceptor } from './helpers/error.interceptor';
 import { fakeBackendProvider } from './helpers/fake-backend';
@@ -48,7 +47,6 @@ import { TextShrinkPipe } from './table-text-shrink.pipe';
     HomeComponent,
     LoginComponent,
     LoggedComponent,
-    PercentageDialogComponent,
   ],
   imports: [
     BrowserModule,
@@ -95,7 +93,7 @@ import { TextShrinkPipe } from './table-text-shrink.pipe';
     // provider used to create fake backend
     fakeBackendProvider,
   ],
-  entryComponents: [PercentageDialogComponent],
+  entryComponents: [],
   bootstrap: [AppComponent],
 })
 export class AppModule {}

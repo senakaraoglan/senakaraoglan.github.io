@@ -10,6 +10,11 @@
     </div>
 
     <div flexLayout="row" fxLayoutAlign="end">
+      <circle-progress
+        class="circle-progress"
+        subtitle="Taranan Eser Yüzdesi"
+        [percent]="readFilePercentage"
+      ></circle-progress>
       <form class="example-form">
         <mat-form-field class="example-full-width">
           <input
@@ -43,7 +48,7 @@
         </mat-icon>
         Filter Off |
         {{
-          "YIL -" + yearCheck + " | AY - " + monthCheck + " | GÜN - " + dayCheck
+          'YIL -' + yearCheck + ' | AY - ' + monthCheck + ' | GÜN - ' + dayCheck
         }}
       </a>
 
@@ -188,7 +193,7 @@
               aria-label="Example home icon"
               color="{{ element.yearExist ? 'primary' : 'warn' }}"
             >
-              {{ element.yearExist ? "done" : "close" }}
+              {{ element.yearExist ? 'done' : 'close' }}
             </mat-icon>
           </mat-cell>
         </ng-container>
@@ -208,7 +213,7 @@
               aria-label="Example home icon"
               color="{{ element.monthExist ? 'primary' : 'warn' }}"
             >
-              {{ element.monthExist ? "done" : "close" }}
+              {{ element.monthExist ? 'done' : 'close' }}
             </mat-icon>
           </mat-cell>
         </ng-container>
@@ -228,7 +233,7 @@
               aria-label="Example home icon"
               color="{{ element.dayExist ? 'primary' : 'warn' }}"
             >
-              {{ element.dayExist ? "done" : "close" }}
+              {{ element.dayExist ? 'done' : 'close' }}
             </mat-icon>
           </mat-cell>
         </ng-container>

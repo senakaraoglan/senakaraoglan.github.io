@@ -83,3 +83,10 @@ mat-row.example-element-row {
 .example-element-description-attribution {
   opacity: 0.5;
 }
+
+.circle-progress {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 50px;
+}

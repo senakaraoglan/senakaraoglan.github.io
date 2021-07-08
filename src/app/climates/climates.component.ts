@@ -1,6 +1,5 @@
 import { Component, OnDestroy, OnInit, ViewChild } from '@angular/core';
 import {
-  MatDialog,
   MatOptionSelectionChange,
   MatSort,
   MatTableDataSource,
@@ -10,7 +9,6 @@ import * as _ from 'lodash';
 import { combineLatest, Observable, of, Subject } from 'rxjs';
 import { map, takeUntil } from 'rxjs/operators';
 import { ClimateService } from 'src/app/services/climate.service';
-import { PercentageDialogComponent } from './percentage-dialog.component';
 import { expandableRowAnimation } from './row-animation';
 
 export interface Climate {
@@ -62,11 +60,13 @@ export class ClimatesComponent implements OnInit, OnDestroy {
 
   dataFromService: Climate[] = [];
 
+  totalBookSize = 48;
+
   @ViewChild(MatSort, { static: true }) sort: MatSort;
 
-  public climates$: Observable<
-    Climate[]
-  > = this.climateService.getClimates().pipe(takeUntil(this.endSubscriptions$));
+  public climates$: Observable<Climate[]> = this.climateService
+    .getClimates()
+    .pipe(takeUntil(this.endSubscriptions$));
 
   yearCheck: boolean = undefined;
   monthCheck: boolean = undefined;
@@ -79,6 +79,8 @@ export class ClimatesComponent implements OnInit, OnDestroy {
   hicriMonthMap: Map<string, string> = new Map<string, string>();
 
   weatherTagsMap: Map<string, string> = new Map<string, string>();
+
+  readFilePercentage: number;
 
   public fillHicriMonthMap(): void {
     this.hicriMonthMap.set('M', 'MUHARREM');
@@ -126,14 +128,9 @@ export class ClimatesComponent implements OnInit, OnDestroy {
    ZILHICCE('12', 'Z');
    */
 
-  constructor(
-    private climateService: ClimateService,
-    private _dialog: MatDialog
-  ) {}
+  constructor(private climateService: ClimateService) {}
 
   ngOnInit(): void {
-    this._openPercentageDialog(85);
-
     this.climates$.subscribe((data) => {
       this.dataSource = new MatTableDataSource<Climate>(data);
       this.dataFromService = data;
@@ -145,8 +142,27 @@ export class ClimatesComponent implements OnInit, OnDestroy {
 
       this.fillHicriMonthMap();
       this.fillWeatherTagMap();
+
+      const grouped = Object.entries(this.groupBy(data, 'bookName'));
+      const percentage = (grouped.length * 100) / this.totalBookSize;
+      grouped.forEach((subArray) => {
+        console.log(subArray[0] + ': ' + (subArray[1] as any).length);
+      });
+      this.readFilePercentage = percentage;
     });
   }
+
+  groupBy = (array, key) => {
+    // Return the end result
+    return array.reduce((result, currentValue) => {
+      // If an array already present for key, push it to the array. Else create an array and push the object
+      (result[currentValue[key]] = result[currentValue[key]] || []).push(
+        currentValue
+      );
+      // Return the current iteration `result` value, this will be taken as next iteration `result` value and accumulate
+      return result;
+    }, {}); // empty object is the initial value for result object
+  };
 
   setWeatherFilter(event: MatOptionSelectionChange, value: string): void {
     if (event.source.selected) {
@@ -253,14 +269,6 @@ export class ClimatesComponent implements OnInit, OnDestroy {
   ngOnDestroy(): void {
     this.endSubscriptions$.next(true);
     this.endSubscriptions$.complete();
-  }
-
-  private _openPercentageDialog(data: number): void {
-    const dialogRef = this._dialog.open(PercentageDialogComponent, {
-      width: '500px',
-      height: '350px',
-      data,
-    });
   }
 }
 

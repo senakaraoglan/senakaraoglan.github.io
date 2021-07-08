@@ -1,6 +1,6 @@
 [
   {
-    "id": 4994,
+    "id": 5425,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -17,7 +17,7 @@
     "dayExist": false
   },
   {
-    "id": 5017,
+    "id": 5448,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -34,7 +34,7 @@
     "dayExist": false
   },
   {
-    "id": 5018,
+    "id": 5449,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -51,7 +51,7 @@
     "dayExist": false
   },
   {
-    "id": 5019,
+    "id": 5450,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -68,7 +68,24 @@
     "dayExist": false
   },
   {
-    "id": 5039,
+    "id": 5543,
+    "date": "1000-01-01",
+    "originalDate": "?-?-?",
+    "rangeEndDate": null,
+    "text": "Some few mornings after my arrival at Terapia, we experienced two smart shocks of an earthquake, which however did no other damage than throwing down some tiles from the roofs of the houses. This concussion was succeeded by a strong hurricane from the north, and a fall of snow, which was melted in a few hours. The wind continuing for two or three days from the north, we were suprised at beholding a singular rippling appearance in the midst of the waters of the Bosporus, forming a dark serpentine line about a mile and a half in length.",
+    "place": "Tarabya",
+    "pageNumber": "204",
+    "bookName": "Travels through some parts of Germany, Poland, Moldavia and Turkey",
+    "author": "Adam Neale",
+    "publishedBy": "A. Strahan New-Street-Square London",
+    "publishedDate": "1818",
+    "weatherTags": "Deprem,  Kasırga, Kar, Şiddetli Rüzgar",
+    "yearExist": false,
+    "monthExist": false,
+    "dayExist": false
+  },
+  {
+    "id": 5548,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -85,7 +102,7 @@
     "dayExist": false
   },
   {
-    "id": 5040,
+    "id": 5549,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -102,7 +119,7 @@
     "dayExist": false
   },
   {
-    "id": 5041,
+    "id": 5550,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -119,7 +136,7 @@
     "dayExist": false
   },
   {
-    "id": 5121,
+    "id": 5630,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -136,7 +153,7 @@
     "dayExist": false
   },
   {
-    "id": 5122,
+    "id": 5631,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -153,7 +170,7 @@
     "dayExist": false
   },
   {
-    "id": 5123,
+    "id": 5632,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -170,7 +187,7 @@
     "dayExist": false
   },
   {
-    "id": 5130,
+    "id": 5639,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -187,7 +204,7 @@
     "dayExist": false
   },
   {
-    "id": 5135,
+    "id": 5644,
     "date": "1000-01-01",
     "originalDate": "?-N-?",
     "rangeEndDate": null,
@@ -204,7 +221,7 @@
     "dayExist": false
   },
   {
-    "id": 5279,
+    "id": 5792,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -221,7 +238,7 @@
     "dayExist": false
   },
   {
-    "id": 5280,
+    "id": 5793,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -238,7 +255,7 @@
     "dayExist": false
   },
   {
-    "id": 5281,
+    "id": 5794,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -255,7 +272,7 @@
     "dayExist": false
   },
   {
-    "id": 5282,
+    "id": 5795,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -272,7 +289,7 @@
     "dayExist": false
   },
   {
-    "id": 5283,
+    "id": 5796,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -289,7 +306,7 @@
     "dayExist": false
   },
   {
-    "id": 5284,
+    "id": 5797,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -306,7 +323,7 @@
     "dayExist": false
   },
   {
-    "id": 5285,
+    "id": 5798,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -323,7 +340,7 @@
     "dayExist": false
   },
   {
-    "id": 5286,
+    "id": 5799,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -340,7 +357,7 @@
     "dayExist": false
   },
   {
-    "id": 5299,
+    "id": 5806,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -357,7 +374,7 @@
     "dayExist": false
   },
   {
-    "id": 5349,
+    "id": 5856,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -374,7 +391,7 @@
     "dayExist": false
   },
   {
-    "id": 5404,
+    "id": 5911,
     "date": "1000-01-01",
     "originalDate": "?-?-?",
     "rangeEndDate": null,
@@ -391,7 +408,7 @@
     "dayExist": false
   },
   {
-    "id": 5124,
+    "id": 5633,
     "date": "1000-01-02",
     "originalDate": "?-L-2",
     "rangeEndDate": null,
@@ -408,7 +425,7 @@
     "dayExist": true
   },
   {
-    "id": 5126,
+    "id": 5635,
     "date": "1216-09-26",
     "originalDate": "1216-09-26",
     "rangeEndDate": null,
@@ -425,7 +442,7 @@
     "dayExist": true
   },
   {
-    "id": 5410,
+    "id": 5913,
     "date": "1217-01-01",
     "originalDate": "1217-?-?",
     "rangeEndDate": null,
@@ -442,7 +459,7 @@
     "dayExist": false
   },
   {
-    "id": 5129,
+    "id": 5638,
     "date": "1220-01-01",
     "originalDate": "1220-?-?",
     "rangeEndDate": null,
@@ -459,7 +476,7 @@
     "dayExist": false
   },
   {
-    "id": 5143,
+    "id": 5652,
     "date": "1222-01-01",
     "originalDate": "1222-Ş-?",
     "rangeEndDate": null,
@@ -476,7 +493,7 @@
     "dayExist": false
   },
   {
-    "id": 5414,
+    "id": 5917,
     "date": "1223-01-01",
     "originalDate": "1223-?-?",
     "rangeEndDate": null,
@@ -493,7 +510,7 @@
     "dayExist": false
   },
   {
-    "id": 5144,
+    "id": 5653,
     "date": "1226-01-01",
     "originalDate": "1226-B-?",
     "rangeEndDate": null,
@@ -510,7 +527,7 @@
     "dayExist": false
   },
   {
-    "id": 5415,
+    "id": 5918,
     "date": "1227-01-01",
     "originalDate": "1227-?-?",
     "rangeEndDate": null,
@@ -527,7 +544,7 @@
     "dayExist": false
   },
   {
-    "id": 5416,
+    "id": 5919,
     "date": "1228-01-01",
     "originalDate": "1228-?-? ",
     "rangeEndDate": null,
@@ -544,7 +561,7 @@
     "dayExist": false
   },
   {
-    "id": 5417,
+    "id": 5920,
     "date": "1233-01-01",
     "originalDate": "1233-RA-?-1233- L-?",
     "rangeEndDate": "1233-L-?",
@@ -561,7 +578,7 @@
     "dayExist": false
   },
   {
-    "id": 5142,
+    "id": 5651,
     "date": "1338-01-01",
     "originalDate": "1338-?-?",
     "rangeEndDate": null,
@@ -578,7 +595,41 @@
     "dayExist": false
   },
   {
-    "id": 5405,
+    "id": 5544,
+    "date": "1745-05-01",
+    "originalDate": "1745-05-?",
+    "rangeEndDate": null,
+    "text": "Dr. Murdoch Mackenzie, who passed upwards of thirty years in practive as a physician at Smyrna and Constantinople, and whose accound of plague is much the best which has yet appeared, states, that exceptimg four years, the plague was, during that period constantly present of threatening, although he never could detect any differences in these years, excepting, perhaps, that the winters set in more severly or earlier, and that there was a heavier fall of snow. Its general time of commencing he found to be about the middle of September. Now as the fleets from Egypt commonly reach the port of Constantinople with a southerly wind between the latter end of March and the beginning of May,, which is also the period of the Greek Lent, it is that the plague breaks forth. This especially happened in May, 1745 and in the beginning of June in the same year great swarms of butterflies arose from a prodigious host of caterpillars, which had preceded them. The same circumstance occured in 1752 and 1758, and in all these years the plague was very violent, more particulary in August and September, 1758, when it proved fatal to several persons belonging to the English and French factories in Constantinople. On the other hand, earthquakes and storms of thunder and ightming, severe falls of snow early winters, have the effect of checking and extinguishing the disease. Thus in 1753; the plague broke out in Constantinople, on the 31st May, and continued throughout the winter, and the next year, till the month of September 1754. On the second day of that month, a terrible shock of an earthquake took place, which threw down part of the castle of the seven towers, a portion of the cirt walls, seven minarets of moques, the prison of Galata, Caravanserais, etc. and killed from sixty to an hundered persons. This shock extended to Grand Cairo, where it killed 40,000 inhabitants.",
+    "place": "istanbul",
+    "pageNumber": "211",
+    "bookName": "Travels through some parts of Germany, Poland, Moldavia and Turkey",
+    "author": "Adam Neale",
+    "publishedBy": "A. Strahan New-Street-Square London",
+    "publishedDate": "1818",
+    "weatherTags": "Deprem, Veba, Kar",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5545,
+    "date": "1745-09-06",
+    "originalDate": "1745-09-06",
+    "rangeEndDate": null,
+    "text": "Four days after, namely, on the 6th September, a storm of thunder and lightning came on, which lasted for two hours, and, in violence, exceeded any thing of the kind that the oldest inhabitants could remember; the thunder and lightning continiuing, without the intermission of even a few seconds, for an hour and a half. On the 17th September, only eleven days afterwards, the plague entirely ceased; and during the following year, hardly showed itself. But, on the 6. of March 1756, it again burst fortth, and did not terminate befcore the 12th December. As to the mortality occasioned by the plague, it is always difficult to come to any very satisfactory conclusion , for the Turks keep neither records, nor any register resembling our bills of mortality . A certain gate of the city , leading to the principal cemetery, is watched; and whenever an hundred bodies are carried through it for interment, in one day , the plague is proclaimed , and prayers are offered up . Dr. Mackenzie has suggested a mode of calculation, founded on the daily consumption of flour, which, in Constantinople, being 20.000 killows, and each killow being consumed by fifty persons , gives pretty nearly the population , one million. Now, during the months of July, August, and September, of the year 1751, there was a falling off in the consumption, of three thousand killows, which, being multiplied by 50, gives a total of 150.000 persons, swept off by plague, during these three months; including, at the same time, a great many persons who were known to have abandoned the city, and fled to the interior, to avoid the pestilence.",
+    "place": "istanbul",
+    "pageNumber": "213",
+    "bookName": "Travels through some parts of Germany, Poland, Moldavia and Turkey",
+    "author": "Adam Neale",
+    "publishedBy": "A. Strahan New-Street-Square London",
+    "publishedDate": "1818",
+    "weatherTags": "Veba, Kasırga, Şimşek",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5923,
     "date": "1755-01-01",
     "originalDate": "1755-?-?",
     "rangeEndDate": null,
@@ -595,7 +646,7 @@
     "dayExist": false
   },
   {
-    "id": 5406,
+    "id": 5924,
     "date": "1755-01-01",
     "originalDate": "1755-?-?",
     "rangeEndDate": null,
@@ -612,7 +663,7 @@
     "dayExist": false
   },
   {
-    "id": 5407,
+    "id": 5925,
     "date": "1755-01-01",
     "originalDate": "1755-?-?",
     "rangeEndDate": null,
@@ -629,7 +680,7 @@
     "dayExist": false
   },
   {
-    "id": 5408,
+    "id": 5926,
     "date": "1755-01-01",
     "originalDate": "1755-?-?",
     "rangeEndDate": null,
@@ -646,75 +697,7 @@
     "dayExist": false
   },
   {
-    "id": 5420,
-    "date": "1755-01-01",
-    "originalDate": "1755-?-?",
-    "rangeEndDate": null,
-    "text": "\"İlk ateş limana ve sarayın duvarlarına yakın bir evden çıktı. Kuzeyden esen rüzgar, yangının sarayın duvarlarını yalayarak yokuşun ortasındaki Sadrazam'ın sarayına doğru yayılmasına sebep oldu. Padişah hemen olay yerine gitti; ancak ne buyrukları, ne de bu şahane yapıyı kurtarmak için yapılan çabalaryangının iyice yayılmasına engel olamadı; üstelik yanan sarayın meydana getirdiği daha iri alevler bir de rüüzgarın etkisiyle daha süratle ilerlemeye başladı. Alevlerin, Aya Sofya'ya geldiğinde bu taş yığını önünde duracağı sanılıyordu; bütün söndürme tedbirleri hep o yana kaydırılmıştı; herkes alevlerin ilerleyişinin durdurulacağını umarken; sıcağın etkisiyle eriyen kurşun kubbetoplanan muhafızları ve tulumbacıları dağıttı, yangının işini büsbütün kolaylaştırdı. O andan itibaren artık yangın söndürülmesi ile değil, rüzgar yönündeki alanın tahrip edilerek kontrol altına alınması ile meşgul olundu. ... birden doğuya dönen şiddetli rüzgar yangının diğer yönde en az altı yüz metrelik bir cephe halinde yayılmasına sebep oldu. şehrin merkezine doğru ilerleyen alevler on üç kola ayrıldı, bir müddet sonra bu kolların kökleri birleşti ve İstanbul bir alev denizine döndü\". (yangında şehrin üçte ikisinin yok olduğu belirtilmiştir) (TARİH NOT: Yazar İstanbul'a 21 Mayıs 1755 yılında geldiğini ve yangının da gelişinden biraz sonra yaşandığını ifade etmektedir.)",
-    "place": "İstanbul",
-    "pageNumber": "19-20",
-    "bookName": "Türkler ve Tatarlara Dair Hatıralar-18. y.yılda Türkler",
-    "author": "Baron De TOTT",
-    "publishedBy": "Tercüman Gazetesi",
-    "publishedDate": "?",
-    "weatherTags": "Yangın",
-    "yearExist": true,
-    "monthExist": false,
-    "dayExist": false
-  },
-  {
-    "id": 5421,
-    "date": "1755-01-01",
-    "originalDate": "1755-?-?",
-    "rangeEndDate": null,
-    "text": "Kıtlığı izleyen ilkbaharda vebanın ilk belirtileri görünmeye başladı; yalnız o yıl içinde İstanbul'da yüz elli bin kişi hastalıktan öldü ve ölüm sayısı o derece arttı ki; Tanrı'dan bu hastalığı kaldırması için genel dua yapılması için hükümetçe buyruk çıkarıldı. Edirnekapısı'ndan çıkarılan günlük ceset sayısı 999'u bulana kadar Türklerin hastalığa tevekkül gösterdiklerini kaydetmek yerinde olur.",
-    "place": "İstanbul",
-    "pageNumber": "30",
-    "bookName": "Türkler ve Tatarlara Dair Hatıralar-18. y.yılda Türkler",
-    "author": "Baron De TOTT",
-    "publishedBy": "Tercüman Gazetesi",
-    "publishedDate": "?",
-    "weatherTags": "Veba",
-    "yearExist": true,
-    "monthExist": false,
-    "dayExist": false
-  },
-  {
-    "id": 5422,
-    "date": "1755-01-01",
-    "originalDate": "1755-?-?",
-    "rangeEndDate": null,
-    "text": "O yıl İstanbul'da, Asya'da çok endişe edilen ve Türkler tarafından Sam yeli diye adlandırılan rüzgar esti: güneydoğudan yavaş yavaş esen bu rüzgar topraklı bir pus havasını da beraberinde sürükler ve bu sayede aşırı sıcaklığından ziyade gezginleri ve kırlarda oturanları rahatsız eder; evlerin içinde bile bu rüzgarın getirdiği havaya tahammül etmek gayet zordur; bu rüzgarın sürdüğü üç gün boyunca ağzımı duvara dayayıp nefes alarak daha rahat etmeye çalıştım.",
-    "place": "İstanbul",
-    "pageNumber": "41",
-    "bookName": "Türkler ve Tatarlara Dair Hatıralar-18. y.yılda Türkler",
-    "author": "Baron De TOTT",
-    "publishedBy": "Tercüman Gazetesi",
-    "publishedDate": "?",
-    "weatherTags": "Rüzgar",
-    "yearExist": true,
-    "monthExist": false,
-    "dayExist": false
-  },
-  {
-    "id": 5423,
-    "date": "1755-01-01",
-    "originalDate": "1755-?-?",
-    "rangeEndDate": null,
-    "text": "İstanbul'da güney ve kuzey rüzgarlarından başka esinti olmaz; genellikle birbiri arkasından gelen bu değişik rüzgarlarSarayburnu önünde çekişirler. Kuzey rüzgarları meltem şeklinde eser; güneş batarken dinip, sabahleyin saat on sularında sıcak günlerde ise daha geç esmeye başlar. kışın ise daha ziyade güney rüzgarları hakimdir; kuzeyden gelen kar fırtınaları akabinde daima güney yönlü rüzgarlar eser; bu değişim çok ani olur. Bu arada kardan sonra gelen güney rüzgarının İstanbul'da çok şiddetli don olaylarına sebep olan keskin bir soğuk getirdiği de vâkîdir; sonra yumuşar, buzlar çözülür ve bazen gayet sıcak havalar görülür. ... Kuzey rüzgarları ile üzerine düşen yeni karlardan sonra esen güney rüzgarı bu karları yalayarak geldiği için İstanbul üzerine dondurucu soğuğunu taşır, neden sonra atmosferi soğuk havadan temizledikten sonra kendine has karakterini gösterir. Bu şehrin coğrafi durumu sık sık meydana gelen fırtınaların, kuzeybatıdan esen rüzgar sayesinde bulutların Anadolu üzerine kayması ile birdenbire dinmesini sağlar. Bu yörelerin hava durumu genellikle hep böyledir.",
-    "place": "İstanbul",
-    "pageNumber": "41",
-    "bookName": "Türkler ve Tatarlara Dair Hatıralar-18. y.yılda Türkler",
-    "author": "Baron De TOTT",
-    "publishedBy": "Tercüman Gazetesi",
-    "publishedDate": "?",
-    "weatherTags": "Rüzgar",
-    "yearExist": true,
-    "monthExist": false,
-    "dayExist": false
-  },
-  {
-    "id": 5106,
+    "id": 5615,
     "date": "1766-05-11",
     "originalDate": "1766-05-11",
     "rangeEndDate": null,
@@ -731,7 +714,7 @@
     "dayExist": true
   },
   {
-    "id": 5097,
+    "id": 5606,
     "date": "1778-01-01",
     "originalDate": "1778-?-?-1795-?-?",
     "rangeEndDate": "1795-?-?",
@@ -748,7 +731,7 @@
     "dayExist": false
   },
   {
-    "id": 5098,
+    "id": 5607,
     "date": "1778-01-01",
     "originalDate": "1778-?-?",
     "rangeEndDate": null,
@@ -765,7 +748,7 @@
     "dayExist": false
   },
   {
-    "id": 5105,
+    "id": 5614,
     "date": "1778-01-01",
     "originalDate": "1778-?-?-1795-?-?",
     "rangeEndDate": "1795-?-?",
@@ -782,7 +765,7 @@
     "dayExist": false
   },
   {
-    "id": 5150,
+    "id": 5659,
     "date": "1778-09-05",
     "originalDate": "1778-09-05",
     "rangeEndDate": null,
@@ -799,7 +782,7 @@
     "dayExist": true
   },
   {
-    "id": 5151,
+    "id": 5660,
     "date": "1779-04-18",
     "originalDate": "1779-04-18-1779-04-27",
     "rangeEndDate": "1779-04-27",
@@ -816,7 +799,7 @@
     "dayExist": true
   },
   {
-    "id": 5010,
+    "id": 5441,
     "date": "1779-07-01",
     "originalDate": "1779-07-?",
     "rangeEndDate": null,
@@ -833,7 +816,7 @@
     "dayExist": false
   },
   {
-    "id": 5099,
+    "id": 5608,
     "date": "1782-01-01",
     "originalDate": "1782-?-?",
     "rangeEndDate": null,
@@ -850,7 +833,7 @@
     "dayExist": false
   },
   {
-    "id": 5011,
+    "id": 5442,
     "date": "1782-06-16",
     "originalDate": "1782-06-16",
     "rangeEndDate": null,
@@ -867,7 +850,7 @@
     "dayExist": true
   },
   {
-    "id": 5012,
+    "id": 5443,
     "date": "1782-08-21",
     "originalDate": "1782-08-21-1782-08-22",
     "rangeEndDate": "1782-08-22",
@@ -884,7 +867,7 @@
     "dayExist": true
   },
   {
-    "id": 5361,
+    "id": 5868,
     "date": "1782-08-22",
     "originalDate": "1782-8-22",
     "rangeEndDate": null,
@@ -901,7 +884,7 @@
     "dayExist": true
   },
   {
-    "id": 5100,
+    "id": 5609,
     "date": "1784-08-05",
     "originalDate": "1784-08-05",
     "rangeEndDate": null,
@@ -918,7 +901,7 @@
     "dayExist": true
   },
   {
-    "id": 5148,
+    "id": 5657,
     "date": "1784-08-06",
     "originalDate": "1784-08-06",
     "rangeEndDate": null,
@@ -935,7 +918,7 @@
     "dayExist": true
   },
   {
-    "id": 5303,
+    "id": 5810,
     "date": "1785-02-21",
     "originalDate": "1785-02-21",
     "rangeEndDate": null,
@@ -952,7 +935,7 @@
     "dayExist": true
   },
   {
-    "id": 5304,
+    "id": 5811,
     "date": "1785-05-21",
     "originalDate": "1785-05-21",
     "rangeEndDate": null,
@@ -969,7 +952,7 @@
     "dayExist": true
   },
   {
-    "id": 5305,
+    "id": 5812,
     "date": "1785-08-13",
     "originalDate": "1785-08-13",
     "rangeEndDate": null,
@@ -986,7 +969,7 @@
     "dayExist": true
   },
   {
-    "id": 5306,
+    "id": 5813,
     "date": "1785-09-01",
     "originalDate": "1785-09-?",
     "rangeEndDate": null,
@@ -1003,7 +986,7 @@
     "dayExist": false
   },
   {
-    "id": 5307,
+    "id": 5814,
     "date": "1785-10-22",
     "originalDate": "1785-10-22",
     "rangeEndDate": null,
@@ -1020,7 +1003,7 @@
     "dayExist": true
   },
   {
-    "id": 5308,
+    "id": 5815,
     "date": "1786-01-05",
     "originalDate": "1786-01-05",
     "rangeEndDate": null,
@@ -1037,7 +1020,7 @@
     "dayExist": true
   },
   {
-    "id": 5309,
+    "id": 5816,
     "date": "1786-02-24",
     "originalDate": "1786-02-24",
     "rangeEndDate": null,
@@ -1054,7 +1037,7 @@
     "dayExist": true
   },
   {
-    "id": 5149,
+    "id": 5658,
     "date": "1786-05-10",
     "originalDate": "1786-05-10",
     "rangeEndDate": null,
@@ -1071,7 +1054,7 @@
     "dayExist": true
   },
   {
-    "id": 5310,
+    "id": 5817,
     "date": "1786-07-04",
     "originalDate": "1786-07-04",
     "rangeEndDate": null,
@@ -1088,7 +1071,7 @@
     "dayExist": true
   },
   {
-    "id": 5159,
+    "id": 5672,
     "date": "1786-08-09",
     "originalDate": "1786-08-09",
     "rangeEndDate": null,
@@ -1105,24 +1088,7 @@
     "dayExist": true
   },
   {
-    "id": 5287,
-    "date": "1786-08-09",
-    "originalDate": "1786-08-09",
-    "rangeEndDate": null,
-    "text": "Bu sabah saat on sularında yangın ihbarı oldu. Yangın ancak saat beşe doğru söndürüldü. O zamana dek şiddetle sürdü ve Venedik ile Fransa Sarayları'nın bulunduğu bölgeye doğru yayıldı. Görünüşe göre yüüz ellinin üzerinde ev yanmış. … Bu yangın yönetimden hoşnut olmayan kundakçılar tarafından çıkarılmış. ... Buraya geldiğimden bu yana bu gördüğüm sekizinci yangın. ",
-    "place": "İstanbul",
-    "pageNumber": "75",
-    "bookName": "VENEZUELALI GENERAL MİRANDA'NIN TÜRKİYE ANILARI",
-    "author": "Francisco Miranda",
-    "publishedBy": "Venezuela Bolivar Cumhuriyeti Büyükelçiliği",
-    "publishedDate": "2004",
-    "weatherTags": "Yangın",
-    "yearExist": true,
-    "monthExist": true,
-    "dayExist": true
-  },
-  {
-    "id": 5160,
+    "id": 5673,
     "date": "1786-08-13",
     "originalDate": "1786-08-13",
     "rangeEndDate": null,
@@ -1139,24 +1105,7 @@
     "dayExist": true
   },
   {
-    "id": 5288,
-    "date": "1786-08-13",
-    "originalDate": "1786-08-13",
-    "rangeEndDate": null,
-    "text": "Akşamüzeri oradan ayrıldık, çünkü buralar bu mevsimde insanın ateşinin yükselmesine neden olabiliyor.",
-    "place": "İstanbul",
-    "pageNumber": "83",
-    "bookName": "VENEZUELALI GENERAL MİRANDA'NIN TÜRKİYE ANILARI",
-    "author": "Francisco Miranda",
-    "publishedBy": "Venezuela Bolivar Cumhuriyeti Büyükelçiliği",
-    "publishedDate": "2004",
-    "weatherTags": "Güneş",
-    "yearExist": true,
-    "monthExist": true,
-    "dayExist": true
-  },
-  {
-    "id": 5311,
+    "id": 5818,
     "date": "1786-08-13",
     "originalDate": "1786-08-13",
     "rangeEndDate": null,
@@ -1173,7 +1122,7 @@
     "dayExist": true
   },
   {
-    "id": 5161,
+    "id": 5674,
     "date": "1786-09-05",
     "originalDate": "1786-09-05",
     "rangeEndDate": null,
@@ -1190,24 +1139,7 @@
     "dayExist": true
   },
   {
-    "id": 5289,
-    "date": "1786-09-05",
-    "originalDate": "1786-09-05",
-    "rangeEndDate": null,
-    "text": "Burada günü ağaçların gölgesi altında ve serinlikte geçirmek üzere öküz arabalarıyla gelen birçok kadına rastladık.",
-    "place": "İstanbul",
-    "pageNumber": "97",
-    "bookName": "VENEZUELALI GENERAL MİRANDA'NIN TÜRKİYE ANILARI",
-    "author": "Francisco Miranda",
-    "publishedBy": "Venezuela Bolivar Cumhuriyeti Büyükelçiliği",
-    "publishedDate": "2004",
-    "weatherTags": "Güneş",
-    "yearExist": true,
-    "monthExist": true,
-    "dayExist": true
-  },
-  {
-    "id": 5162,
+    "id": 5675,
     "date": "1786-09-13",
     "originalDate": "1786-09-13",
     "rangeEndDate": null,
@@ -1224,24 +1156,7 @@
     "dayExist": true
   },
   {
-    "id": 5290,
-    "date": "1786-09-13",
-    "originalDate": "1786-09-13",
-    "rangeEndDate": null,
-    "text": "Sabah erken kalkıp rüzgarda değişiklik olup olmadığına baktım. Bir değişiklik olmamasından istifade ederek, Rusya Elçiliği'nin bahçesine dolaşmaya gittim.",
-    "place": "İstanbul",
-    "pageNumber": "119",
-    "bookName": "VENEZUELALI GENERAL MİRANDA'NIN TÜRKİYE ANILARI",
-    "author": "Francisco Miranda",
-    "publishedBy": "Venezuela Bolivar Cumhuriyeti Büyükelçiliği",
-    "publishedDate": "2004",
-    "weatherTags": "Rüzgar",
-    "yearExist": true,
-    "monthExist": true,
-    "dayExist": true
-  },
-  {
-    "id": 5163,
+    "id": 5676,
     "date": "1786-09-14",
     "originalDate": "1786-09-14",
     "rangeEndDate": null,
@@ -1258,24 +1173,7 @@
     "dayExist": true
   },
   {
-    "id": 5291,
-    "date": "1786-09-14",
-    "originalDate": "1786-09-14",
-    "rangeEndDate": null,
-    "text": "Sabah rüzgarının kuzey yönünden estiğini gördüm ve genç Ludolf ile dostlarımızı da alarak Belgrad Ormanı'na yemeğe gitmeye karar verdik.",
-    "place": "İstanbul",
-    "pageNumber": "119",
-    "bookName": "VENEZUELALI GENERAL MİRANDA'NIN TÜRKİYE ANILARI",
-    "author": "Francisco Miranda",
-    "publishedBy": "Venezuela Bolivar Cumhuriyeti Büyükelçiliği",
-    "publishedDate": "2004",
-    "weatherTags": "Rüzgar",
-    "yearExist": true,
-    "monthExist": true,
-    "dayExist": true
-  },
-  {
-    "id": 5164,
+    "id": 5677,
     "date": "1786-09-21",
     "originalDate": "1786-09-21",
     "rangeEndDate": null,
@@ -1292,24 +1190,7 @@
     "dayExist": true
   },
   {
-    "id": 5292,
-    "date": "1786-09-21",
-    "originalDate": "1786-09-21",
-    "rangeEndDate": null,
-    "text": "Birkaç damla yağmur ve devamının gelebileceğine dair olasılık, ihtiyarı Belgrad'a gitme fikrinden caydırdı.",
-    "place": "İstanbul",
-    "pageNumber": "121",
-    "bookName": "VENEZUELALI GENERAL MİRANDA'NIN TÜRKİYE ANILARI",
-    "author": "Francisco Miranda",
-    "publishedBy": "Venezuela Bolivar Cumhuriyeti Büyükelçiliği",
-    "publishedDate": "2004",
-    "weatherTags": "Yağmur",
-    "yearExist": true,
-    "monthExist": true,
-    "dayExist": true
-  },
-  {
-    "id": 5312,
+    "id": 5819,
     "date": "1786-11-17",
     "originalDate": "1786-11-17",
     "rangeEndDate": null,
@@ -1326,7 +1207,7 @@
     "dayExist": true
   },
   {
-    "id": 5313,
+    "id": 5820,
     "date": "1787-01-08",
     "originalDate": "1787-01-08",
     "rangeEndDate": null,
@@ -1343,7 +1224,7 @@
     "dayExist": true
   },
   {
-    "id": 5314,
+    "id": 5821,
     "date": "1787-01-29",
     "originalDate": "1787-01-29",
     "rangeEndDate": null,
@@ -1360,7 +1241,7 @@
     "dayExist": true
   },
   {
-    "id": 5315,
+    "id": 5822,
     "date": "1787-02-22",
     "originalDate": "1787-02-22",
     "rangeEndDate": null,
@@ -1377,7 +1258,7 @@
     "dayExist": true
   },
   {
-    "id": 5316,
+    "id": 5823,
     "date": "1787-03-22",
     "originalDate": "1787-03-22",
     "rangeEndDate": null,
@@ -1394,7 +1275,7 @@
     "dayExist": true
   },
   {
-    "id": 5317,
+    "id": 5824,
     "date": "1787-03-23",
     "originalDate": "1787-03-23",
     "rangeEndDate": null,
@@ -1411,7 +1292,7 @@
     "dayExist": true
   },
   {
-    "id": 5318,
+    "id": 5825,
     "date": "1787-04-24",
     "originalDate": "1787-04-24",
     "rangeEndDate": null,
@@ -1428,7 +1309,7 @@
     "dayExist": true
   },
   {
-    "id": 5319,
+    "id": 5826,
     "date": "1787-07-17",
     "originalDate": "1787-07-17",
     "rangeEndDate": null,
@@ -1445,7 +1326,7 @@
     "dayExist": true
   },
   {
-    "id": 5320,
+    "id": 5827,
     "date": "1787-09-23",
     "originalDate": "1787-09-23",
     "rangeEndDate": null,
@@ -1462,7 +1343,7 @@
     "dayExist": true
   },
   {
-    "id": 5321,
+    "id": 5828,
     "date": "1787-10-28",
     "originalDate": "1787-10-28",
     "rangeEndDate": null,
@@ -1479,7 +1360,7 @@
     "dayExist": true
   },
   {
-    "id": 5322,
+    "id": 5829,
     "date": "1787-11-06",
     "originalDate": "1787-11-06",
     "rangeEndDate": null,
@@ -1496,7 +1377,7 @@
     "dayExist": true
   },
   {
-    "id": 5300,
+    "id": 5807,
     "date": "1788-01-01",
     "originalDate": "1788-?-?",
     "rangeEndDate": null,
@@ -1513,7 +1394,7 @@
     "dayExist": false
   },
   {
-    "id": 5323,
+    "id": 5830,
     "date": "1788-02-18",
     "originalDate": "1788-02-18",
     "rangeEndDate": null,
@@ -1530,7 +1411,7 @@
     "dayExist": true
   },
   {
-    "id": 5324,
+    "id": 5831,
     "date": "1788-04-07",
     "originalDate": "1788-04-07",
     "rangeEndDate": null,
@@ -1547,7 +1428,7 @@
     "dayExist": true
   },
   {
-    "id": 5325,
+    "id": 5832,
     "date": "1788-04-29",
     "originalDate": "1788-04-29",
     "rangeEndDate": null,
@@ -1564,7 +1445,7 @@
     "dayExist": true
   },
   {
-    "id": 5326,
+    "id": 5833,
     "date": "1788-05-04",
     "originalDate": "1788-05-04",
     "rangeEndDate": null,
@@ -1581,7 +1462,7 @@
     "dayExist": true
   },
   {
-    "id": 5327,
+    "id": 5834,
     "date": "1788-05-06",
     "originalDate": "1788-05-06",
     "rangeEndDate": null,
@@ -1598,7 +1479,7 @@
     "dayExist": true
   },
   {
-    "id": 5004,
+    "id": 5435,
     "date": "1788-05-08",
     "originalDate": "1788-05-08",
     "rangeEndDate": null,
@@ -1615,7 +1496,7 @@
     "dayExist": true
   },
   {
-    "id": 5005,
+    "id": 5436,
     "date": "1788-05-31",
     "originalDate": "1788-05-31",
     "rangeEndDate": null,
@@ -1632,7 +1513,7 @@
     "dayExist": true
   },
   {
-    "id": 5006,
+    "id": 5437,
     "date": "1788-06-04",
     "originalDate": "1788-06-04",
     "rangeEndDate": null,
@@ -1649,7 +1530,7 @@
     "dayExist": true
   },
   {
-    "id": 5007,
+    "id": 5438,
     "date": "1788-06-08",
     "originalDate": "1788-06-08",
     "rangeEndDate": null,
@@ -1666,7 +1547,7 @@
     "dayExist": true
   },
   {
-    "id": 5008,
+    "id": 5439,
     "date": "1788-06-09",
     "originalDate": "1788-06-09",
     "rangeEndDate": null,
@@ -1683,7 +1564,7 @@
     "dayExist": true
   },
   {
-    "id": 5009,
+    "id": 5440,
     "date": "1788-06-10",
     "originalDate": "1788-06-10-1788-06-12",
     "rangeEndDate": "1788-06-12",
@@ -1700,7 +1581,7 @@
     "dayExist": true
   },
   {
-    "id": 5328,
+    "id": 5835,
     "date": "1788-10-21",
     "originalDate": "1788-10-21",
     "rangeEndDate": null,
@@ -1717,7 +1598,7 @@
     "dayExist": true
   },
   {
-    "id": 5329,
+    "id": 5836,
     "date": "1788-11-22",
     "originalDate": "1788-11-22",
     "rangeEndDate": null,
@@ -1734,7 +1615,7 @@
     "dayExist": true
   },
   {
-    "id": 5330,
+    "id": 5837,
     "date": "1788-12-20",
     "originalDate": "1788-12-20",
     "rangeEndDate": null,
@@ -1751,7 +1632,7 @@
     "dayExist": true
   },
   {
-    "id": 5331,
+    "id": 5838,
     "date": "1788-12-22",
     "originalDate": "1788-12-22",
     "rangeEndDate": null,
@@ -1768,7 +1649,7 @@
     "dayExist": true
   },
   {
-    "id": 5332,
+    "id": 5839,
     "date": "1788-12-30",
     "originalDate": "1788-12-30",
     "rangeEndDate": null,
@@ -1785,7 +1666,7 @@
     "dayExist": true
   },
   {
-    "id": 5107,
+    "id": 5616,
     "date": "1789-01-01",
     "originalDate": "1789-?-?",
     "rangeEndDate": null,
@@ -1802,7 +1683,7 @@
     "dayExist": false
   },
   {
-    "id": 5333,
+    "id": 5840,
     "date": "1789-01-31",
     "originalDate": "1789-01-31",
     "rangeEndDate": null,
@@ -1819,7 +1700,7 @@
     "dayExist": true
   },
   {
-    "id": 5334,
+    "id": 5841,
     "date": "1789-02-15",
     "originalDate": "1789-02-15",
     "rangeEndDate": null,
@@ -1836,7 +1717,7 @@
     "dayExist": true
   },
   {
-    "id": 5335,
+    "id": 5842,
     "date": "1789-03-29",
     "originalDate": "1789-03-29",
     "rangeEndDate": null,
@@ -1853,7 +1734,7 @@
     "dayExist": true
   },
   {
-    "id": 5294,
+    "id": 5801,
     "date": "1789-05-24",
     "originalDate": "1789-05-24",
     "rangeEndDate": null,
@@ -1870,7 +1751,7 @@
     "dayExist": true
   },
   {
-    "id": 5336,
+    "id": 5843,
     "date": "1789-05-29",
     "originalDate": "1789-05-29",
     "rangeEndDate": null,
@@ -1887,7 +1768,7 @@
     "dayExist": true
   },
   {
-    "id": 5337,
+    "id": 5844,
     "date": "1789-06-08",
     "originalDate": "1789-06-08",
     "rangeEndDate": null,
@@ -1904,7 +1785,7 @@
     "dayExist": true
   },
   {
-    "id": 5297,
+    "id": 5804,
     "date": "1789-07-23",
     "originalDate": "1789-07-23",
     "rangeEndDate": null,
@@ -1921,7 +1802,7 @@
     "dayExist": true
   },
   {
-    "id": 5298,
+    "id": 5805,
     "date": "1789-07-23",
     "originalDate": "1789-07-23",
     "rangeEndDate": null,
@@ -1938,7 +1819,7 @@
     "dayExist": true
   },
   {
-    "id": 5338,
+    "id": 5845,
     "date": "1789-08-20",
     "originalDate": "1789-08-20",
     "rangeEndDate": null,
@@ -1955,7 +1836,7 @@
     "dayExist": true
   },
   {
-    "id": 5339,
+    "id": 5846,
     "date": "1789-09-25",
     "originalDate": "1789-09-25",
     "rangeEndDate": null,
@@ -1972,7 +1853,7 @@
     "dayExist": true
   },
   {
-    "id": 5340,
+    "id": 5847,
     "date": "1789-10-23",
     "originalDate": "1789-10-23",
     "rangeEndDate": null,
@@ -1989,7 +1870,7 @@
     "dayExist": true
   },
   {
-    "id": 5386,
+    "id": 5893,
     "date": "1789-10-24",
     "originalDate": "1789-10-24",
     "rangeEndDate": null,
@@ -2006,7 +1887,7 @@
     "dayExist": true
   },
   {
-    "id": 5101,
+    "id": 5610,
     "date": "1790-01-01",
     "originalDate": "1790-?-?",
     "rangeEndDate": null,
@@ -2023,7 +1904,7 @@
     "dayExist": false
   },
   {
-    "id": 5102,
+    "id": 5611,
     "date": "1791-03-21",
     "originalDate": "1791-03-21",
     "rangeEndDate": null,
@@ -2040,7 +1921,7 @@
     "dayExist": true
   },
   {
-    "id": 5388,
+    "id": 5895,
     "date": "1791-09-22",
     "originalDate": "1791-09-22",
     "rangeEndDate": null,
@@ -2057,7 +1938,7 @@
     "dayExist": true
   },
   {
-    "id": 5403,
+    "id": 5910,
     "date": "1792-01-01",
     "originalDate": "1792-?-?",
     "rangeEndDate": null,
@@ -2074,7 +1955,7 @@
     "dayExist": false
   },
   {
-    "id": 5387,
+    "id": 5894,
     "date": "1792-05-15",
     "originalDate": "1792-5-15",
     "rangeEndDate": null,
@@ -2091,7 +1972,7 @@
     "dayExist": true
   },
   {
-    "id": 5103,
+    "id": 5612,
     "date": "1792-09-13",
     "originalDate": "1792-09-13",
     "rangeEndDate": null,
@@ -2108,7 +1989,7 @@
     "dayExist": true
   },
   {
-    "id": 5389,
+    "id": 5896,
     "date": "1792-10-14",
     "originalDate": "1792-10-14",
     "rangeEndDate": null,
@@ -2125,7 +2006,7 @@
     "dayExist": true
   },
   {
-    "id": 5350,
+    "id": 5857,
     "date": "1793-01-01",
     "originalDate": "1793-?-?",
     "rangeEndDate": null,
@@ -2142,7 +2023,7 @@
     "dayExist": false
   },
   {
-    "id": 5398,
+    "id": 5905,
     "date": "1793-01-01",
     "originalDate": "1793-?-?",
     "rangeEndDate": null,
@@ -2159,7 +2040,7 @@
     "dayExist": false
   },
   {
-    "id": 5401,
+    "id": 5908,
     "date": "1793-01-01",
     "originalDate": "1793-?-?",
     "rangeEndDate": null,
@@ -2176,7 +2057,7 @@
     "dayExist": false
   },
   {
-    "id": 5402,
+    "id": 5909,
     "date": "1793-01-01",
     "originalDate": "1793-?-?",
     "rangeEndDate": null,
@@ -2193,7 +2074,7 @@
     "dayExist": false
   },
   {
-    "id": 5397,
+    "id": 5904,
     "date": "1793-05-20",
     "originalDate": "1793-05-20",
     "rangeEndDate": null,
@@ -2210,7 +2091,7 @@
     "dayExist": true
   },
   {
-    "id": 5399,
+    "id": 5906,
     "date": "1793-06-01",
     "originalDate": "1793-06-?",
     "rangeEndDate": null,
@@ -2227,7 +2108,7 @@
     "dayExist": false
   },
   {
-    "id": 5400,
+    "id": 5907,
     "date": "1793-06-01",
     "originalDate": "1793-06-?",
     "rangeEndDate": null,
@@ -2244,7 +2125,7 @@
     "dayExist": false
   },
   {
-    "id": 5391,
+    "id": 5898,
     "date": "1793-08-17",
     "originalDate": "1793-08-17",
     "rangeEndDate": null,
@@ -2261,7 +2142,7 @@
     "dayExist": true
   },
   {
-    "id": 5390,
+    "id": 5897,
     "date": "1793-09-04",
     "originalDate": "1793-9-4",
     "rangeEndDate": null,
@@ -2278,7 +2159,7 @@
     "dayExist": true
   },
   {
-    "id": 5165,
+    "id": 5678,
     "date": "1793-09-20",
     "originalDate": "1793-09-20",
     "rangeEndDate": null,
@@ -2295,7 +2176,7 @@
     "dayExist": true
   },
   {
-    "id": 5166,
+    "id": 5679,
     "date": "1793-10-20",
     "originalDate": "1793-10-20",
     "rangeEndDate": null,
@@ -2312,7 +2193,41 @@
     "dayExist": true
   },
   {
-    "id": 5167,
+    "id": 5669,
+    "date": "1793-12-01",
+    "originalDate": "1793-12-?",
+    "rangeEndDate": null,
+    "text": "THE winter was become so severe by the beginning of December, that I was obliged to have recourse to a chaffing-dish to heat my chamber, instead of a stove, a thing rarely to be met with in the houses at Constantinople. This rigour of the season made me for a moment apprehensive that I should not be able to execute my project ; but towards the middle of this month the weather became so fine, that I determined to take advantage of so fortunate a circumstance, and to employ the few days I was to remain in this capital in a pursuit the most agreeable to my feelings.",
+    "place": "istanbul",
+    "pageNumber": "195",
+    "bookName": "Travels in the Crimea;\na history of the embassy from Petersburg to Constantinople in 1793",
+    "author": "\tStruve, Johann Christian von",
+    "publishedBy": "G. and J. Robinson",
+    "publishedDate": "1802",
+    "weatherTags": "kış",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5670,
+    "date": "1793-12-01",
+    "originalDate": "1793-12-?",
+    "rangeEndDate": null,
+    "text": "We were scarcely re-imbarked in our caiques, in order to continue our researches, before we perceived on the surface of the wa-ter a prodigious quantity of dolphins, whose number and incessant motion announced an approaching change of weather. In fact, we had no sooner arrived at Scutari, than a very heavy rain fell, and continued for some hours. ",
+    "place": "üsküdar",
+    "pageNumber": "197",
+    "bookName": "Travels in the Crimea;\na history of the embassy from Petersburg to Constantinople in 1793",
+    "author": "\tStruve, Johann Christian von",
+    "publishedBy": "G. and J. Robinson",
+    "publishedDate": "1802",
+    "weatherTags": "hafif yağmur",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5680,
     "date": "1793-12-05",
     "originalDate": "1793-12-5",
     "rangeEndDate": null,
@@ -2329,7 +2244,24 @@
     "dayExist": true
   },
   {
-    "id": 5035,
+    "id": 5668,
+    "date": "1793-12-25",
+    "originalDate": "1793-12-25",
+    "rangeEndDate": null,
+    "text": "the ball lasted till midnight, and was succeeded by another splendid repast, which terminated the entertainment, to the perfection of which nothing was wanting but more favourable weather; for the rain which fell did great injury to the illuminations, and diminished the effect of this charming exhibition. 1793",
+    "place": "istanbul",
+    "pageNumber": "183",
+    "bookName": "Travels in the Crimea;\na history of the embassy from Petersburg to Constantinople in 1793",
+    "author": "\tStruve, Johann Christian von",
+    "publishedBy": "G. and J. Robinson",
+    "publishedDate": "1802",
+    "weatherTags": "yağmurlu",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5539,
     "date": "1794-01-01",
     "originalDate": "1794-?-?-1796-?-?",
     "rangeEndDate": "1796-?-?",
@@ -2346,7 +2278,7 @@
     "dayExist": false
   },
   {
-    "id": 5036,
+    "id": 5540,
     "date": "1794-01-01",
     "originalDate": "1794-?-?-1796-?-?",
     "rangeEndDate": "1796-?-?",
@@ -2363,7 +2295,7 @@
     "dayExist": false
   },
   {
-    "id": 5037,
+    "id": 5541,
     "date": "1794-01-01",
     "originalDate": "1794-?-?-1796-?-?",
     "rangeEndDate": "1796-?-?",
@@ -2380,7 +2312,7 @@
     "dayExist": false
   },
   {
-    "id": 5346,
+    "id": 5853,
     "date": "1794-01-01",
     "originalDate": "1794-?-?",
     "rangeEndDate": null,
@@ -2397,7 +2329,7 @@
     "dayExist": false
   },
   {
-    "id": 5347,
+    "id": 5854,
     "date": "1794-01-01",
     "originalDate": "1794-?-?",
     "rangeEndDate": null,
@@ -2414,7 +2346,7 @@
     "dayExist": false
   },
   {
-    "id": 5348,
+    "id": 5855,
     "date": "1794-01-01",
     "originalDate": "1794-?-?",
     "rangeEndDate": null,
@@ -2431,7 +2363,24 @@
     "dayExist": false
   },
   {
-    "id": 5038,
+    "id": 5671,
+    "date": "1794-02-07",
+    "originalDate": "1794-02-07",
+    "rangeEndDate": null,
+    "text": "On Friday 7 th of February, the weather being very fine, I determined to put my plan into execution. About eight o'clock in the morning I joined several friends; and, after going through a part of Pera and Galata, we proceeded to  the quay, where we embarked.",
+    "place": "istanbul",
+    "pageNumber": "207",
+    "bookName": "Travels in the Crimea;\na history of the embassy from Petersburg to Constantinople in 1793",
+    "author": "\tStruve, Johann Christian von",
+    "publishedBy": "G. and J. Robinson",
+    "publishedDate": "1802",
+    "weatherTags": "hava",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5542,
     "date": "1794-06-01",
     "originalDate": "1794-06-?",
     "rangeEndDate": null,
@@ -2448,7 +2397,7 @@
     "dayExist": false
   },
   {
-    "id": 5293,
+    "id": 5800,
     "date": "1794-09-01",
     "originalDate": "1794-09-?",
     "rangeEndDate": null,
@@ -2465,7 +2414,7 @@
     "dayExist": false
   },
   {
-    "id": 5345,
+    "id": 5852,
     "date": "1794-09-01",
     "originalDate": "1794-09-?",
     "rangeEndDate": null,
@@ -2482,7 +2431,7 @@
     "dayExist": false
   },
   {
-    "id": 5183,
+    "id": 5696,
     "date": "1794-09-21",
     "originalDate": "1794-09-21",
     "rangeEndDate": null,
@@ -2499,7 +2448,7 @@
     "dayExist": true
   },
   {
-    "id": 5184,
+    "id": 5697,
     "date": "1794-10-04",
     "originalDate": "1794-10-4",
     "rangeEndDate": null,
@@ -2516,7 +2465,7 @@
     "dayExist": true
   },
   {
-    "id": 5104,
+    "id": 5613,
     "date": "1795-07-07",
     "originalDate": "1795-07-07",
     "rangeEndDate": null,
@@ -2533,7 +2482,7 @@
     "dayExist": true
   },
   {
-    "id": 5182,
+    "id": 5695,
     "date": "1795-07-07",
     "originalDate": "1795-07-07",
     "rangeEndDate": null,
@@ -2550,7 +2499,7 @@
     "dayExist": true
   },
   {
-    "id": 5185,
+    "id": 5698,
     "date": "1797-02-17",
     "originalDate": "1797-02-17",
     "rangeEndDate": null,
@@ -2567,7 +2516,7 @@
     "dayExist": true
   },
   {
-    "id": 5382,
+    "id": 5889,
     "date": "1797-03-24",
     "originalDate": "1797-3-24",
     "rangeEndDate": null,
@@ -2584,7 +2533,7 @@
     "dayExist": true
   },
   {
-    "id": 5186,
+    "id": 5699,
     "date": "1797-06-26",
     "originalDate": "1797-06-26",
     "rangeEndDate": null,
@@ -2601,7 +2550,7 @@
     "dayExist": true
   },
   {
-    "id": 5187,
+    "id": 5700,
     "date": "1797-10-07",
     "originalDate": "1797-10-07",
     "rangeEndDate": null,
@@ -2618,7 +2567,7 @@
     "dayExist": true
   },
   {
-    "id": 5109,
+    "id": 5618,
     "date": "1798-01-01",
     "originalDate": "1798-?-?-1800-?-?",
     "rangeEndDate": "1800-?-?",
@@ -2635,7 +2584,7 @@
     "dayExist": false
   },
   {
-    "id": 5110,
+    "id": 5619,
     "date": "1798-01-01",
     "originalDate": "1798-?-?-1800-?-?",
     "rangeEndDate": "1800-?-?",
@@ -2652,7 +2601,7 @@
     "dayExist": false
   },
   {
-    "id": 5111,
+    "id": 5620,
     "date": "1798-01-01",
     "originalDate": "1798-?-?-1800-?-?",
     "rangeEndDate": "1800-?-?",
@@ -2669,7 +2618,7 @@
     "dayExist": false
   },
   {
-    "id": 5112,
+    "id": 5621,
     "date": "1798-01-01",
     "originalDate": "1798-?-?-1800-?-?",
     "rangeEndDate": "1800-?-?",
@@ -2686,7 +2635,7 @@
     "dayExist": false
   },
   {
-    "id": 5113,
+    "id": 5622,
     "date": "1798-01-01",
     "originalDate": "1798-?-?-1800-?-?",
     "rangeEndDate": "1800-?-?",
@@ -2703,7 +2652,7 @@
     "dayExist": false
   },
   {
-    "id": 5114,
+    "id": 5623,
     "date": "1798-01-01",
     "originalDate": "1798-?-?-1800-?-?",
     "rangeEndDate": "1800-?-?",
@@ -2720,7 +2669,7 @@
     "dayExist": false
   },
   {
-    "id": 5115,
+    "id": 5624,
     "date": "1798-01-01",
     "originalDate": "1798-?-?-1800-?-?",
     "rangeEndDate": "1800-?-?",
@@ -2737,7 +2686,7 @@
     "dayExist": false
   },
   {
-    "id": 5116,
+    "id": 5625,
     "date": "1798-01-01",
     "originalDate": "1798-?-?-1800-?-?",
     "rangeEndDate": "1800-?-?",
@@ -2754,7 +2703,7 @@
     "dayExist": false
   },
   {
-    "id": 5117,
+    "id": 5626,
     "date": "1798-01-01",
     "originalDate": "1798-?-?-1800-?-?",
     "rangeEndDate": "1800-?-?",
@@ -2771,7 +2720,7 @@
     "dayExist": false
   },
   {
-    "id": 5118,
+    "id": 5627,
     "date": "1798-01-01",
     "originalDate": "1798-?-?-1800-?-?",
     "rangeEndDate": "1800-?-?",
@@ -2788,7 +2737,7 @@
     "dayExist": false
   },
   {
-    "id": 5409,
+    "id": 5912,
     "date": "1798-04-28",
     "originalDate": "1212-ZA-12",
     "rangeEndDate": null,
@@ -2805,7 +2754,7 @@
     "dayExist": true
   },
   {
-    "id": 5188,
+    "id": 5701,
     "date": "1798-05-28",
     "originalDate": "1798-05-28",
     "rangeEndDate": null,
@@ -2822,7 +2771,7 @@
     "dayExist": true
   },
   {
-    "id": 5295,
+    "id": 5802,
     "date": "1798-05-28",
     "originalDate": "1798-05-28",
     "rangeEndDate": null,
@@ -2839,7 +2788,7 @@
     "dayExist": true
   },
   {
-    "id": 5108,
+    "id": 5617,
     "date": "1798-06-16",
     "originalDate": "1798-06-16-06-16",
     "rangeEndDate": null,
@@ -2856,7 +2805,7 @@
     "dayExist": true
   },
   {
-    "id": 5296,
+    "id": 5803,
     "date": "1798-07-08",
     "originalDate": "1798-07-08",
     "rangeEndDate": null,
@@ -2873,7 +2822,7 @@
     "dayExist": true
   },
   {
-    "id": 5189,
+    "id": 5702,
     "date": "1799-03-14",
     "originalDate": "1799-03-14",
     "rangeEndDate": null,
@@ -2890,7 +2839,7 @@
     "dayExist": true
   },
   {
-    "id": 5190,
+    "id": 5703,
     "date": "1799-04-18",
     "originalDate": "1799-04-18",
     "rangeEndDate": null,
@@ -2907,7 +2856,7 @@
     "dayExist": true
   },
   {
-    "id": 5119,
+    "id": 5628,
     "date": "1800-09-11",
     "originalDate": "1215-R-21",
     "rangeEndDate": null,
@@ -2924,7 +2873,7 @@
     "dayExist": true
   },
   {
-    "id": 5120,
+    "id": 5629,
     "date": "1800-10-09",
     "originalDate": "1215-CA-20",
     "rangeEndDate": null,
@@ -2941,7 +2890,109 @@
     "dayExist": true
   },
   {
-    "id": 5381,
+    "id": 5469,
+    "date": "1800-11-01",
+    "originalDate": "1800-11-?",
+    "rangeEndDate": null,
+    "text": "13.3C",
+    "place": "İstanbul",
+    "pageNumber": "242",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Aylık Ortalama Hava Sıcaklığı",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5470,
+    "date": "1800-12-01",
+    "originalDate": "1800-12-?",
+    "rangeEndDate": null,
+    "text": "9.8C",
+    "place": "",
+    "pageNumber": "242",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Aylık Ortalama Hava Sıcaklığı",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5471,
+    "date": "1801-01-01",
+    "originalDate": "1801-01-?",
+    "rangeEndDate": null,
+    "text": "8.3C",
+    "place": "",
+    "pageNumber": "242",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Aylık Ortalama Hava Sıcaklığı",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5472,
+    "date": "1801-02-01",
+    "originalDate": "1801-02-?",
+    "rangeEndDate": null,
+    "text": "11.4C",
+    "place": "",
+    "pageNumber": "242",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Aylık Ortalama Hava Sıcaklığı",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5474,
+    "date": "1801-03-01",
+    "originalDate": "1801-03-?",
+    "rangeEndDate": null,
+    "text": "13.05C",
+    "place": "",
+    "pageNumber": "242",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Aylık Ortalama Hava Sıcaklığı",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5475,
+    "date": "1801-04-01",
+    "originalDate": "1801-04-?",
+    "rangeEndDate": null,
+    "text": "15C",
+    "place": "",
+    "pageNumber": "242",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Aylık Ortalama Hava Sıcaklığı",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5888,
     "date": "1801-04-03",
     "originalDate": "1801-04-03",
     "rangeEndDate": null,
@@ -2958,7 +3009,109 @@
     "dayExist": true
   },
   {
-    "id": 5379,
+    "id": 5476,
+    "date": "1801-05-01",
+    "originalDate": "1801-05-?",
+    "rangeEndDate": null,
+    "text": "20.4C",
+    "place": "",
+    "pageNumber": "242",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Aylık Ortalama Hava Sıcaklığı",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5477,
+    "date": "1801-06-01",
+    "originalDate": "1801-06-?",
+    "rangeEndDate": null,
+    "text": "24.7C",
+    "place": "",
+    "pageNumber": "242",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Aylık Ortalama Hava Sıcaklığı",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5478,
+    "date": "1801-07-01",
+    "originalDate": "1801-07-?",
+    "rangeEndDate": null,
+    "text": "25.5C",
+    "place": "",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Aylık Ortalama Hava Sıcaklığı",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5479,
+    "date": "1801-08-01",
+    "originalDate": "1801-08-?",
+    "rangeEndDate": null,
+    "text": "25.5C",
+    "place": "",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Aylık Ortalama Hava Sıcaklığı",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5480,
+    "date": "1801-09-01",
+    "originalDate": "1801-09-?",
+    "rangeEndDate": null,
+    "text": "23.3C",
+    "place": "",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Aylık Ortalama Hava Sıcaklığı",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5481,
+    "date": "1801-10-01",
+    "originalDate": "1801-10-?",
+    "rangeEndDate": null,
+    "text": "18.7C",
+    "place": "",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Aylık Ortalama Hava Sıcaklığı",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5886,
     "date": "1802-08-04",
     "originalDate": "1802-8-4",
     "rangeEndDate": null,
@@ -2975,7 +3128,7 @@
     "dayExist": true
   },
   {
-    "id": 5411,
+    "id": 5914,
     "date": "1802-10-27",
     "originalDate": "1217-C-29",
     "rangeEndDate": null,
@@ -2992,7 +3145,7 @@
     "dayExist": true
   },
   {
-    "id": 5380,
+    "id": 5887,
     "date": "1802-12-08",
     "originalDate": "1802-12-8",
     "rangeEndDate": null,
@@ -3009,7 +3162,7 @@
     "dayExist": true
   },
   {
-    "id": 5191,
+    "id": 5704,
     "date": "1802-12-16",
     "originalDate": "1802-12-16",
     "rangeEndDate": null,
@@ -3026,7 +3179,7 @@
     "dayExist": true
   },
   {
-    "id": 5192,
+    "id": 5705,
     "date": "1802-12-19",
     "originalDate": "1802-12-19",
     "rangeEndDate": null,
@@ -3043,7 +3196,7 @@
     "dayExist": true
   },
   {
-    "id": 5193,
+    "id": 5706,
     "date": "1802-12-23",
     "originalDate": "1802-12-23",
     "rangeEndDate": null,
@@ -3060,7 +3213,7 @@
     "dayExist": true
   },
   {
-    "id": 5194,
+    "id": 5707,
     "date": "1802-12-31",
     "originalDate": "1802-12-31",
     "rangeEndDate": null,
@@ -3077,7 +3230,7 @@
     "dayExist": true
   },
   {
-    "id": 5195,
+    "id": 5708,
     "date": "1803-01-02",
     "originalDate": "1803-01-02",
     "rangeEndDate": null,
@@ -3094,7 +3247,7 @@
     "dayExist": true
   },
   {
-    "id": 5196,
+    "id": 5709,
     "date": "1803-01-13",
     "originalDate": "1803-01-13",
     "rangeEndDate": null,
@@ -3111,7 +3264,7 @@
     "dayExist": true
   },
   {
-    "id": 5197,
+    "id": 5710,
     "date": "1803-01-15",
     "originalDate": "1803-01-15",
     "rangeEndDate": null,
@@ -3128,7 +3281,7 @@
     "dayExist": true
   },
   {
-    "id": 5198,
+    "id": 5711,
     "date": "1803-01-22",
     "originalDate": "1803-01-22",
     "rangeEndDate": null,
@@ -3145,7 +3298,7 @@
     "dayExist": true
   },
   {
-    "id": 5199,
+    "id": 5712,
     "date": "1803-01-23",
     "originalDate": "1803-01-23",
     "rangeEndDate": null,
@@ -3162,7 +3315,7 @@
     "dayExist": true
   },
   {
-    "id": 5200,
+    "id": 5713,
     "date": "1803-01-24",
     "originalDate": "1803-01-24",
     "rangeEndDate": null,
@@ -3179,7 +3332,7 @@
     "dayExist": true
   },
   {
-    "id": 5201,
+    "id": 5714,
     "date": "1803-01-25",
     "originalDate": "1803-01-25",
     "rangeEndDate": null,
@@ -3196,7 +3349,7 @@
     "dayExist": true
   },
   {
-    "id": 5202,
+    "id": 5715,
     "date": "1803-01-26",
     "originalDate": "1803-01-26",
     "rangeEndDate": null,
@@ -3213,7 +3366,7 @@
     "dayExist": true
   },
   {
-    "id": 5203,
+    "id": 5716,
     "date": "1803-01-27",
     "originalDate": "1803-01-27",
     "rangeEndDate": null,
@@ -3230,7 +3383,7 @@
     "dayExist": true
   },
   {
-    "id": 5204,
+    "id": 5717,
     "date": "1803-01-28",
     "originalDate": "1803-01-28",
     "rangeEndDate": null,
@@ -3247,7 +3400,7 @@
     "dayExist": true
   },
   {
-    "id": 5205,
+    "id": 5718,
     "date": "1803-01-29",
     "originalDate": "1803-01-29",
     "rangeEndDate": null,
@@ -3264,7 +3417,7 @@
     "dayExist": true
   },
   {
-    "id": 5206,
+    "id": 5719,
     "date": "1803-01-30",
     "originalDate": "1803-01-30",
     "rangeEndDate": null,
@@ -3281,7 +3434,7 @@
     "dayExist": true
   },
   {
-    "id": 5207,
+    "id": 5720,
     "date": "1803-01-31",
     "originalDate": "1803-01-31",
     "rangeEndDate": null,
@@ -3298,7 +3451,7 @@
     "dayExist": true
   },
   {
-    "id": 5208,
+    "id": 5721,
     "date": "1803-02-01",
     "originalDate": "1803-02-01",
     "rangeEndDate": null,
@@ -3315,7 +3468,7 @@
     "dayExist": true
   },
   {
-    "id": 5209,
+    "id": 5722,
     "date": "1803-02-02",
     "originalDate": "1803-02-02",
     "rangeEndDate": null,
@@ -3332,7 +3485,7 @@
     "dayExist": true
   },
   {
-    "id": 5210,
+    "id": 5723,
     "date": "1803-02-03",
     "originalDate": "1803-02-03",
     "rangeEndDate": null,
@@ -3349,7 +3502,7 @@
     "dayExist": true
   },
   {
-    "id": 5211,
+    "id": 5724,
     "date": "1803-02-04",
     "originalDate": "1803-02-04",
     "rangeEndDate": null,
@@ -3366,7 +3519,7 @@
     "dayExist": true
   },
   {
-    "id": 5212,
+    "id": 5725,
     "date": "1803-02-05",
     "originalDate": "1803-02-05",
     "rangeEndDate": null,
@@ -3383,7 +3536,7 @@
     "dayExist": true
   },
   {
-    "id": 5213,
+    "id": 5726,
     "date": "1803-02-06",
     "originalDate": "1803-02-06",
     "rangeEndDate": null,
@@ -3400,7 +3553,7 @@
     "dayExist": true
   },
   {
-    "id": 5214,
+    "id": 5727,
     "date": "1803-02-07",
     "originalDate": "1803-02-07",
     "rangeEndDate": null,
@@ -3417,7 +3570,7 @@
     "dayExist": true
   },
   {
-    "id": 5215,
+    "id": 5728,
     "date": "1803-02-08",
     "originalDate": "1803-02-08",
     "rangeEndDate": null,
@@ -3434,7 +3587,7 @@
     "dayExist": true
   },
   {
-    "id": 5216,
+    "id": 5729,
     "date": "1803-02-09",
     "originalDate": "1803-02-09",
     "rangeEndDate": null,
@@ -3451,7 +3604,7 @@
     "dayExist": true
   },
   {
-    "id": 5217,
+    "id": 5730,
     "date": "1803-02-10",
     "originalDate": "1803-02-10",
     "rangeEndDate": null,
@@ -3468,7 +3621,7 @@
     "dayExist": true
   },
   {
-    "id": 5218,
+    "id": 5731,
     "date": "1803-02-11",
     "originalDate": "1803-02-11",
     "rangeEndDate": null,
@@ -3485,7 +3638,7 @@
     "dayExist": true
   },
   {
-    "id": 5219,
+    "id": 5732,
     "date": "1803-02-12",
     "originalDate": "1803-02-12",
     "rangeEndDate": null,
@@ -3502,7 +3655,7 @@
     "dayExist": true
   },
   {
-    "id": 5220,
+    "id": 5733,
     "date": "1803-02-13",
     "originalDate": "1803-02-13",
     "rangeEndDate": null,
@@ -3519,7 +3672,7 @@
     "dayExist": true
   },
   {
-    "id": 5221,
+    "id": 5734,
     "date": "1803-02-14",
     "originalDate": "1803-02-14",
     "rangeEndDate": null,
@@ -3536,7 +3689,7 @@
     "dayExist": true
   },
   {
-    "id": 5222,
+    "id": 5735,
     "date": "1803-02-15",
     "originalDate": "1803-02-15",
     "rangeEndDate": null,
@@ -3553,7 +3706,7 @@
     "dayExist": true
   },
   {
-    "id": 5223,
+    "id": 5736,
     "date": "1803-02-16",
     "originalDate": "1803-02-16",
     "rangeEndDate": null,
@@ -3570,7 +3723,7 @@
     "dayExist": true
   },
   {
-    "id": 5224,
+    "id": 5737,
     "date": "1803-02-17",
     "originalDate": "1803-02-17",
     "rangeEndDate": null,
@@ -3587,7 +3740,7 @@
     "dayExist": true
   },
   {
-    "id": 5225,
+    "id": 5738,
     "date": "1803-02-18",
     "originalDate": "1803-02-18",
     "rangeEndDate": null,
@@ -3604,7 +3757,7 @@
     "dayExist": true
   },
   {
-    "id": 5226,
+    "id": 5739,
     "date": "1803-02-19",
     "originalDate": "1803-02-19",
     "rangeEndDate": null,
@@ -3621,7 +3774,7 @@
     "dayExist": true
   },
   {
-    "id": 5227,
+    "id": 5740,
     "date": "1803-02-20",
     "originalDate": "1803-02-20",
     "rangeEndDate": null,
@@ -3638,7 +3791,7 @@
     "dayExist": true
   },
   {
-    "id": 5228,
+    "id": 5741,
     "date": "1803-02-21",
     "originalDate": "1803-02-21",
     "rangeEndDate": null,
@@ -3655,7 +3808,7 @@
     "dayExist": true
   },
   {
-    "id": 5229,
+    "id": 5742,
     "date": "1803-02-24",
     "originalDate": "1803-02-24",
     "rangeEndDate": null,
@@ -3672,7 +3825,7 @@
     "dayExist": true
   },
   {
-    "id": 5230,
+    "id": 5743,
     "date": "1803-02-25",
     "originalDate": "1803-02-25",
     "rangeEndDate": null,
@@ -3689,7 +3842,7 @@
     "dayExist": true
   },
   {
-    "id": 5231,
+    "id": 5744,
     "date": "1803-02-26",
     "originalDate": "1803-02-26",
     "rangeEndDate": null,
@@ -3706,7 +3859,7 @@
     "dayExist": true
   },
   {
-    "id": 5232,
+    "id": 5745,
     "date": "1803-02-27",
     "originalDate": "1803-02-27",
     "rangeEndDate": null,
@@ -3723,7 +3876,7 @@
     "dayExist": true
   },
   {
-    "id": 5233,
+    "id": 5746,
     "date": "1803-02-28",
     "originalDate": "1803-02-28",
     "rangeEndDate": null,
@@ -3740,7 +3893,7 @@
     "dayExist": true
   },
   {
-    "id": 5234,
+    "id": 5747,
     "date": "1803-03-02",
     "originalDate": "1803-03-02",
     "rangeEndDate": null,
@@ -3757,7 +3910,7 @@
     "dayExist": true
   },
   {
-    "id": 5235,
+    "id": 5748,
     "date": "1803-03-04",
     "originalDate": "1803-03-04",
     "rangeEndDate": null,
@@ -3774,7 +3927,7 @@
     "dayExist": true
   },
   {
-    "id": 5236,
+    "id": 5749,
     "date": "1803-03-06",
     "originalDate": "1803-03-06",
     "rangeEndDate": null,
@@ -3791,7 +3944,7 @@
     "dayExist": true
   },
   {
-    "id": 5237,
+    "id": 5750,
     "date": "1803-03-09",
     "originalDate": "1803-03-09",
     "rangeEndDate": null,
@@ -3808,7 +3961,7 @@
     "dayExist": true
   },
   {
-    "id": 5238,
+    "id": 5751,
     "date": "1803-03-10",
     "originalDate": "1803-03-10",
     "rangeEndDate": null,
@@ -3825,7 +3978,7 @@
     "dayExist": true
   },
   {
-    "id": 5239,
+    "id": 5752,
     "date": "1803-03-16",
     "originalDate": "1803-03-16",
     "rangeEndDate": null,
@@ -3842,7 +3995,7 @@
     "dayExist": true
   },
   {
-    "id": 5240,
+    "id": 5753,
     "date": "1803-03-17",
     "originalDate": "1803-03-17",
     "rangeEndDate": null,
@@ -3859,7 +4012,7 @@
     "dayExist": true
   },
   {
-    "id": 5241,
+    "id": 5754,
     "date": "1803-03-19",
     "originalDate": "1803-03-19",
     "rangeEndDate": null,
@@ -3876,7 +4029,7 @@
     "dayExist": true
   },
   {
-    "id": 5242,
+    "id": 5755,
     "date": "1803-03-20",
     "originalDate": "1803-03-20",
     "rangeEndDate": null,
@@ -3893,7 +4046,7 @@
     "dayExist": true
   },
   {
-    "id": 5243,
+    "id": 5756,
     "date": "1803-03-21",
     "originalDate": "1803-03-21",
     "rangeEndDate": null,
@@ -3910,7 +4063,7 @@
     "dayExist": true
   },
   {
-    "id": 5244,
+    "id": 5757,
     "date": "1803-03-22",
     "originalDate": "1803-03-22",
     "rangeEndDate": null,
@@ -3927,7 +4080,7 @@
     "dayExist": true
   },
   {
-    "id": 5245,
+    "id": 5758,
     "date": "1803-03-23",
     "originalDate": "1803-03-23",
     "rangeEndDate": null,
@@ -3944,7 +4097,7 @@
     "dayExist": true
   },
   {
-    "id": 5246,
+    "id": 5759,
     "date": "1803-03-24",
     "originalDate": "1803-03-24",
     "rangeEndDate": null,
@@ -3961,7 +4114,7 @@
     "dayExist": true
   },
   {
-    "id": 5247,
+    "id": 5760,
     "date": "1803-03-25",
     "originalDate": "1803-03-25",
     "rangeEndDate": null,
@@ -3978,7 +4131,7 @@
     "dayExist": true
   },
   {
-    "id": 5248,
+    "id": 5761,
     "date": "1803-03-26",
     "originalDate": "1803-03-26",
     "rangeEndDate": null,
@@ -3995,7 +4148,7 @@
     "dayExist": true
   },
   {
-    "id": 5249,
+    "id": 5762,
     "date": "1803-03-27",
     "originalDate": "1803-03-27",
     "rangeEndDate": null,
@@ -4012,7 +4165,7 @@
     "dayExist": true
   },
   {
-    "id": 5250,
+    "id": 5763,
     "date": "1803-03-28",
     "originalDate": "1803-03-28",
     "rangeEndDate": null,
@@ -4029,7 +4182,7 @@
     "dayExist": true
   },
   {
-    "id": 5251,
+    "id": 5764,
     "date": "1803-03-30",
     "originalDate": "1803-03-30",
     "rangeEndDate": null,
@@ -4046,7 +4199,7 @@
     "dayExist": true
   },
   {
-    "id": 5376,
+    "id": 5883,
     "date": "1803-03-31",
     "originalDate": "1803-3-31",
     "rangeEndDate": null,
@@ -4063,7 +4216,7 @@
     "dayExist": true
   },
   {
-    "id": 5252,
+    "id": 5765,
     "date": "1803-04-01",
     "originalDate": "1803-04-01",
     "rangeEndDate": null,
@@ -4080,7 +4233,7 @@
     "dayExist": true
   },
   {
-    "id": 5253,
+    "id": 5766,
     "date": "1803-04-02",
     "originalDate": "1803-04-02",
     "rangeEndDate": null,
@@ -4097,7 +4250,7 @@
     "dayExist": true
   },
   {
-    "id": 5254,
+    "id": 5767,
     "date": "1803-04-04",
     "originalDate": "1803-04-04",
     "rangeEndDate": null,
@@ -4114,7 +4267,7 @@
     "dayExist": true
   },
   {
-    "id": 5255,
+    "id": 5768,
     "date": "1803-04-05",
     "originalDate": "1803-04-05",
     "rangeEndDate": null,
@@ -4131,7 +4284,7 @@
     "dayExist": true
   },
   {
-    "id": 5256,
+    "id": 5769,
     "date": "1803-04-07",
     "originalDate": "1803-04-07",
     "rangeEndDate": null,
@@ -4148,7 +4301,7 @@
     "dayExist": true
   },
   {
-    "id": 5257,
+    "id": 5770,
     "date": "1803-04-08",
     "originalDate": "1803-04-08",
     "rangeEndDate": null,
@@ -4165,7 +4318,7 @@
     "dayExist": true
   },
   {
-    "id": 5258,
+    "id": 5771,
     "date": "1803-04-09",
     "originalDate": "1803-04-09",
     "rangeEndDate": null,
@@ -4182,7 +4335,7 @@
     "dayExist": true
   },
   {
-    "id": 5259,
+    "id": 5772,
     "date": "1803-04-10",
     "originalDate": "1803-04-10",
     "rangeEndDate": null,
@@ -4199,7 +4352,7 @@
     "dayExist": true
   },
   {
-    "id": 5260,
+    "id": 5773,
     "date": "1803-04-13",
     "originalDate": "1803-04-13",
     "rangeEndDate": null,
@@ -4216,7 +4369,7 @@
     "dayExist": true
   },
   {
-    "id": 5261,
+    "id": 5774,
     "date": "1803-04-14",
     "originalDate": "1803-04-14",
     "rangeEndDate": null,
@@ -4233,7 +4386,7 @@
     "dayExist": true
   },
   {
-    "id": 5262,
+    "id": 5775,
     "date": "1803-04-15",
     "originalDate": "1803-04-15",
     "rangeEndDate": null,
@@ -4250,7 +4403,7 @@
     "dayExist": true
   },
   {
-    "id": 5263,
+    "id": 5776,
     "date": "1803-04-16",
     "originalDate": "1803-04-16",
     "rangeEndDate": null,
@@ -4267,7 +4420,7 @@
     "dayExist": true
   },
   {
-    "id": 5264,
+    "id": 5777,
     "date": "1803-04-17",
     "originalDate": "1803-04-17",
     "rangeEndDate": null,
@@ -4284,7 +4437,7 @@
     "dayExist": true
   },
   {
-    "id": 5265,
+    "id": 5778,
     "date": "1803-04-18",
     "originalDate": "1803-04-18",
     "rangeEndDate": null,
@@ -4301,7 +4454,7 @@
     "dayExist": true
   },
   {
-    "id": 5266,
+    "id": 5779,
     "date": "1803-04-19",
     "originalDate": "1803-04-19",
     "rangeEndDate": null,
@@ -4318,7 +4471,7 @@
     "dayExist": true
   },
   {
-    "id": 5267,
+    "id": 5780,
     "date": "1803-04-20",
     "originalDate": "1803-04-20",
     "rangeEndDate": null,
@@ -4335,7 +4488,7 @@
     "dayExist": true
   },
   {
-    "id": 5268,
+    "id": 5781,
     "date": "1803-04-21",
     "originalDate": "1803-04-21",
     "rangeEndDate": null,
@@ -4352,7 +4505,7 @@
     "dayExist": true
   },
   {
-    "id": 5269,
+    "id": 5782,
     "date": "1803-05-13",
     "originalDate": "1803-05-13",
     "rangeEndDate": null,
@@ -4369,7 +4522,7 @@
     "dayExist": true
   },
   {
-    "id": 5270,
+    "id": 5783,
     "date": "1803-05-16",
     "originalDate": "1803-05-16",
     "rangeEndDate": null,
@@ -4386,7 +4539,7 @@
     "dayExist": true
   },
   {
-    "id": 5271,
+    "id": 5784,
     "date": "1803-05-23",
     "originalDate": "1803-05-23",
     "rangeEndDate": null,
@@ -4403,7 +4556,7 @@
     "dayExist": true
   },
   {
-    "id": 5272,
+    "id": 5785,
     "date": "1803-05-25",
     "originalDate": "1803-05-25",
     "rangeEndDate": null,
@@ -4420,7 +4573,7 @@
     "dayExist": true
   },
   {
-    "id": 5273,
+    "id": 5786,
     "date": "1803-05-26",
     "originalDate": "1803-05-26",
     "rangeEndDate": null,
@@ -4437,7 +4590,7 @@
     "dayExist": true
   },
   {
-    "id": 5274,
+    "id": 5787,
     "date": "1803-05-27",
     "originalDate": "1803-05-27",
     "rangeEndDate": null,
@@ -4454,7 +4607,7 @@
     "dayExist": true
   },
   {
-    "id": 5275,
+    "id": 5788,
     "date": "1803-05-29",
     "originalDate": "1803-05-29",
     "rangeEndDate": null,
@@ -4471,7 +4624,7 @@
     "dayExist": true
   },
   {
-    "id": 5276,
+    "id": 5789,
     "date": "1803-05-30",
     "originalDate": "1803-05-30",
     "rangeEndDate": null,
@@ -4488,7 +4641,7 @@
     "dayExist": true
   },
   {
-    "id": 5277,
+    "id": 5790,
     "date": "1803-06-02",
     "originalDate": "1803-06-02",
     "rangeEndDate": null,
@@ -4505,7 +4658,7 @@
     "dayExist": true
   },
   {
-    "id": 5278,
+    "id": 5791,
     "date": "1803-06-03",
     "originalDate": "1803-06-03",
     "rangeEndDate": null,
@@ -4522,7 +4675,7 @@
     "dayExist": true
   },
   {
-    "id": 5377,
+    "id": 5884,
     "date": "1803-08-01",
     "originalDate": "1803-08-01",
     "rangeEndDate": null,
@@ -4539,7 +4692,7 @@
     "dayExist": true
   },
   {
-    "id": 5412,
+    "id": 5915,
     "date": "1803-08-16",
     "originalDate": "1218-R-27-1218-R-29",
     "rangeEndDate": "1218-R-29",
@@ -4556,7 +4709,7 @@
     "dayExist": true
   },
   {
-    "id": 5378,
+    "id": 5885,
     "date": "1803-10-02",
     "originalDate": "1803-10-2",
     "rangeEndDate": null,
@@ -4573,7 +4726,7 @@
     "dayExist": true
   },
   {
-    "id": 5020,
+    "id": 5524,
     "date": "1804-07-24",
     "originalDate": "1219-R-15",
     "rangeEndDate": null,
@@ -4590,7 +4743,7 @@
     "dayExist": true
   },
   {
-    "id": 5375,
+    "id": 5882,
     "date": "1805-01-01",
     "originalDate": "1805-?-?",
     "rangeEndDate": null,
@@ -4607,7 +4760,7 @@
     "dayExist": false
   },
   {
-    "id": 5372,
+    "id": 5879,
     "date": "1805-03-20",
     "originalDate": "1805-3-20",
     "rangeEndDate": null,
@@ -4624,7 +4777,7 @@
     "dayExist": true
   },
   {
-    "id": 5373,
+    "id": 5880,
     "date": "1805-04-13",
     "originalDate": "1805-4-13",
     "rangeEndDate": null,
@@ -4641,7 +4794,7 @@
     "dayExist": true
   },
   {
-    "id": 5374,
+    "id": 5881,
     "date": "1805-06-01",
     "originalDate": "1805-06-?",
     "rangeEndDate": null,
@@ -4658,7 +4811,7 @@
     "dayExist": false
   },
   {
-    "id": 5021,
+    "id": 5525,
     "date": "1805-10-06",
     "originalDate": "1220-B-12",
     "rangeEndDate": null,
@@ -4675,7 +4828,7 @@
     "dayExist": true
   },
   {
-    "id": 5385,
+    "id": 5892,
     "date": "1805-10-13",
     "originalDate": "1805-10-13",
     "rangeEndDate": null,
@@ -4692,7 +4845,41 @@
     "dayExist": true
   },
   {
-    "id": 5022,
+    "id": 5546,
+    "date": "1806-03-01",
+    "originalDate": "1806-03-?",
+    "rangeEndDate": null,
+    "text": "In March 1806 , I quitted Pera in a Greek kaique, purposing to\ncross the Black Sea , and as the state of the weather might permit , either to land at Varna or Galatz , and thence proceed to\nEngland. The wind however being variable , and having shifted\nto the westward when we were abreast of Buyukdera, we were\ndetained there for several days, and during that interval , the\nGreek reis having been attacked with fever, I was obliged to\nprocure another vessel . To make amends , however, for this\nvexatious delay , I had the pleasure and good fortune , when at\nthe table of Count Ludolph the Neapolitan Ambassador , (whose\nhospitality and attentions I in common with many other British\ntravellers have every reason gratefully to remember ,) to meet\nwith a gentleman who spoke Turkish fluently , and who was, like\nmyself bound to Varna;",
+    "place": "istanbul",
+    "pageNumber": "260",
+    "bookName": "Travels through some parts of Germany, Poland, Moldavia and Turkey",
+    "author": "Adam Neale",
+    "publishedBy": "A. Strahan New-Street-Square London",
+    "publishedDate": "1818",
+    "weatherTags": "Veba, Kasırga, Şimşek",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5547,
+    "date": "1806-03-01",
+    "originalDate": "1806-03-?",
+    "rangeEndDate": null,
+    "text": "boatmen “ keep company ” during the voyage , to alleviate in\nsome measure the irksomeness of crossing this gloomy sea. The\nwind having become favourable , we left Buyukdera in the after\nnoon, but put into the village of Fanaraki, built - under the\ntower of the European light -house, where we passed the nightin\nthe house of a Turkish officer - a miserable wooden tenement\non & rock overhanging the waves , the open trap stairs of which\nwere in such a state of decay , that we had nearly broken our\nlegs in ascending them . Next morning , with a fair wind and\nclear weather , we bade adieu to the Cyanæan islands, and the\ntowering promontories of that glorious channel, and sometimes\nsailing , at other times rowing , we stretched along the shore\ntowards Midiah .\nBetween Fanaraki and Cape Cara Bouron , ( the Black Cape,)\nthe land ascends gradually from the margin of the sea , excepting\nin some places where the shore seems to have been precipitated\ninto the deep by earthquakes , and then the perpendicular faces\nof the cliffs, showing their internal stratifications , discover horizontal beds of limestone, alternating with rich veins of coal , so\nadvantageously situated , that shafts might be opened into it almost at the water's edge. These beds of coal stretch for many miles\nbeneath the forest of Belgrade , “ cropping out, ” as the miners\nterm it, in various places, and pursuing a direction from south\nwest to north -east. It is more than probable that the spontaneous decomposition of the pyrites usually accompanying this\nformation , gives rise to the violent earthquakes with which constantinople is so frequently visited . At Midiah , the ancient\nSalmydessus , are the ruins of an old tower on a low cliff jutting\nover the waves , and near it our boatmen dropt anchor",
+    "place": "istanbul",
+    "pageNumber": "261",
+    "bookName": "Travels through some parts of Germany, Poland, Moldavia and Turkey",
+    "author": "Adam Neale",
+    "publishedBy": "A. Strahan New-Street-Square London",
+    "publishedDate": "1818",
+    "weatherTags": "Rüzgar, Deprem",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5526,
     "date": "1806-03-31",
     "originalDate": "1221-M-11",
     "rangeEndDate": null,
@@ -4709,7 +4896,7 @@
     "dayExist": true
   },
   {
-    "id": 5023,
+    "id": 5527,
     "date": "1806-04-01",
     "originalDate": "1221-M-12",
     "rangeEndDate": null,
@@ -4726,7 +4913,7 @@
     "dayExist": true
   },
   {
-    "id": 5024,
+    "id": 5528,
     "date": "1806-04-02",
     "originalDate": "1221-M-13",
     "rangeEndDate": null,
@@ -4743,7 +4930,7 @@
     "dayExist": true
   },
   {
-    "id": 5025,
+    "id": 5529,
     "date": "1806-04-03",
     "originalDate": "1221-M-14",
     "rangeEndDate": null,
@@ -4760,7 +4947,7 @@
     "dayExist": true
   },
   {
-    "id": 5026,
+    "id": 5530,
     "date": "1806-04-04",
     "originalDate": "1221-M-15",
     "rangeEndDate": null,
@@ -4777,7 +4964,7 @@
     "dayExist": true
   },
   {
-    "id": 5027,
+    "id": 5531,
     "date": "1806-04-05",
     "originalDate": "1221-M-16",
     "rangeEndDate": null,
@@ -4794,7 +4981,7 @@
     "dayExist": true
   },
   {
-    "id": 5028,
+    "id": 5532,
     "date": "1806-04-06",
     "originalDate": "1221-M-17",
     "rangeEndDate": null,
@@ -4811,7 +4998,7 @@
     "dayExist": true
   },
   {
-    "id": 5029,
+    "id": 5533,
     "date": "1806-04-07",
     "originalDate": "1221-M-18",
     "rangeEndDate": null,
@@ -4828,7 +5015,7 @@
     "dayExist": true
   },
   {
-    "id": 5030,
+    "id": 5534,
     "date": "1806-04-08",
     "originalDate": "1221-M-19",
     "rangeEndDate": null,
@@ -4845,7 +5032,7 @@
     "dayExist": true
   },
   {
-    "id": 5031,
+    "id": 5535,
     "date": "1806-04-09",
     "originalDate": "1221-M-20",
     "rangeEndDate": null,
@@ -4862,7 +5049,7 @@
     "dayExist": true
   },
   {
-    "id": 5032,
+    "id": 5536,
     "date": "1806-11-06",
     "originalDate": "1221-Ş-24",
     "rangeEndDate": null,
@@ -4879,7 +5066,7 @@
     "dayExist": true
   },
   {
-    "id": 5367,
+    "id": 5874,
     "date": "1806-11-09",
     "originalDate": "1806-11-9",
     "rangeEndDate": null,
@@ -4896,7 +5083,7 @@
     "dayExist": true
   },
   {
-    "id": 5368,
+    "id": 5875,
     "date": "1806-12-11",
     "originalDate": "1806-12-11",
     "rangeEndDate": null,
@@ -4913,7 +5100,7 @@
     "dayExist": true
   },
   {
-    "id": 5371,
+    "id": 5878,
     "date": "1807-01-18",
     "originalDate": "1807-1-18",
     "rangeEndDate": null,
@@ -4930,7 +5117,7 @@
     "dayExist": true
   },
   {
-    "id": 5364,
+    "id": 5871,
     "date": "1807-07-10",
     "originalDate": "1807-7-10",
     "rangeEndDate": null,
@@ -4947,7 +5134,7 @@
     "dayExist": true
   },
   {
-    "id": 5365,
+    "id": 5872,
     "date": "1807-07-17",
     "originalDate": "1807-7-17",
     "rangeEndDate": null,
@@ -4964,7 +5151,7 @@
     "dayExist": true
   },
   {
-    "id": 5366,
+    "id": 5873,
     "date": "1807-07-21",
     "originalDate": "1807-7-21",
     "rangeEndDate": null,
@@ -4981,7 +5168,7 @@
     "dayExist": true
   },
   {
-    "id": 5033,
+    "id": 5537,
     "date": "1807-09-05",
     "originalDate": "1222-B-2",
     "rangeEndDate": null,
@@ -4998,7 +5185,7 @@
     "dayExist": true
   },
   {
-    "id": 5370,
+    "id": 5877,
     "date": "1807-09-06",
     "originalDate": "1807-9-6",
     "rangeEndDate": null,
@@ -5015,7 +5202,7 @@
     "dayExist": true
   },
   {
-    "id": 5369,
+    "id": 5876,
     "date": "1807-09-14",
     "originalDate": "1807-9-14",
     "rangeEndDate": null,
@@ -5032,7 +5219,7 @@
     "dayExist": true
   },
   {
-    "id": 5413,
+    "id": 5916,
     "date": "1807-09-25",
     "originalDate": "1222-B-22",
     "rangeEndDate": null,
@@ -5049,7 +5236,7 @@
     "dayExist": true
   },
   {
-    "id": 5384,
+    "id": 5891,
     "date": "1808-02-28",
     "originalDate": "1808-02-28-1808-03-03",
     "rangeEndDate": "1808-03-03",
@@ -5066,7 +5253,7 @@
     "dayExist": true
   },
   {
-    "id": 5351,
+    "id": 5858,
     "date": "1808-07-21",
     "originalDate": "1808-7-21",
     "rangeEndDate": null,
@@ -5083,7 +5270,7 @@
     "dayExist": true
   },
   {
-    "id": 5034,
+    "id": 5538,
     "date": "1808-08-24",
     "originalDate": "1223-B-2",
     "rangeEndDate": null,
@@ -5100,7 +5287,7 @@
     "dayExist": true
   },
   {
-    "id": 5352,
+    "id": 5859,
     "date": "1808-08-25",
     "originalDate": "1808-8-25",
     "rangeEndDate": null,
@@ -5117,7 +5304,7 @@
     "dayExist": true
   },
   {
-    "id": 5042,
+    "id": 5551,
     "date": "1809-01-14",
     "originalDate": "1809-01-14",
     "rangeEndDate": null,
@@ -5134,7 +5321,7 @@
     "dayExist": true
   },
   {
-    "id": 5043,
+    "id": 5552,
     "date": "1809-02-08",
     "originalDate": "1809-02-08",
     "rangeEndDate": null,
@@ -5151,7 +5338,7 @@
     "dayExist": true
   },
   {
-    "id": 5044,
+    "id": 5553,
     "date": "1809-02-09",
     "originalDate": "1809-02-09",
     "rangeEndDate": null,
@@ -5168,7 +5355,7 @@
     "dayExist": true
   },
   {
-    "id": 5045,
+    "id": 5554,
     "date": "1809-02-09",
     "originalDate": "1809-02-09",
     "rangeEndDate": null,
@@ -5185,7 +5372,7 @@
     "dayExist": true
   },
   {
-    "id": 5046,
+    "id": 5555,
     "date": "1809-02-10",
     "originalDate": "1809-02-10",
     "rangeEndDate": null,
@@ -5202,7 +5389,7 @@
     "dayExist": true
   },
   {
-    "id": 5047,
+    "id": 5556,
     "date": "1809-02-20",
     "originalDate": "1809-02-20",
     "rangeEndDate": null,
@@ -5219,7 +5406,7 @@
     "dayExist": true
   },
   {
-    "id": 5048,
+    "id": 5557,
     "date": "1809-03-20",
     "originalDate": "1809-03-20",
     "rangeEndDate": null,
@@ -5236,7 +5423,7 @@
     "dayExist": true
   },
   {
-    "id": 5049,
+    "id": 5558,
     "date": "1809-05-20",
     "originalDate": "1809-05-20-1809-05-22",
     "rangeEndDate": "1809-05-22",
@@ -5253,7 +5440,7 @@
     "dayExist": true
   },
   {
-    "id": 5050,
+    "id": 5559,
     "date": "1809-06-28",
     "originalDate": "1809-06-28",
     "rangeEndDate": null,
@@ -5270,7 +5457,7 @@
     "dayExist": true
   },
   {
-    "id": 5051,
+    "id": 5560,
     "date": "1809-08-11",
     "originalDate": "1809-08-11",
     "rangeEndDate": null,
@@ -5287,7 +5474,7 @@
     "dayExist": true
   },
   {
-    "id": 5353,
+    "id": 5860,
     "date": "1809-12-09",
     "originalDate": "1809-12-9",
     "rangeEndDate": null,
@@ -5304,7 +5491,7 @@
     "dayExist": true
   },
   {
-    "id": 5359,
+    "id": 5866,
     "date": "1810-01-01",
     "originalDate": "1810-?-?-1811-?-?",
     "rangeEndDate": "1811-?-?",
@@ -5321,7 +5508,7 @@
     "dayExist": false
   },
   {
-    "id": 5052,
+    "id": 5561,
     "date": "1810-01-07",
     "originalDate": "1810-01-07-1810-02-05",
     "rangeEndDate": "1810-02-05",
@@ -5338,7 +5525,7 @@
     "dayExist": true
   },
   {
-    "id": 5355,
+    "id": 5862,
     "date": "1810-01-07",
     "originalDate": "1810-01-7",
     "rangeEndDate": null,
@@ -5355,7 +5542,7 @@
     "dayExist": true
   },
   {
-    "id": 5354,
+    "id": 5861,
     "date": "1810-02-24",
     "originalDate": "1810-2-24",
     "rangeEndDate": null,
@@ -5372,7 +5559,7 @@
     "dayExist": true
   },
   {
-    "id": 5054,
+    "id": 5563,
     "date": "1810-04-01",
     "originalDate": "1810-04-01",
     "rangeEndDate": null,
@@ -5389,7 +5576,7 @@
     "dayExist": true
   },
   {
-    "id": 5356,
+    "id": 5863,
     "date": "1810-04-20",
     "originalDate": "1810-4-20",
     "rangeEndDate": null,
@@ -5406,7 +5593,7 @@
     "dayExist": true
   },
   {
-    "id": 5055,
+    "id": 5564,
     "date": "1810-05-15",
     "originalDate": "1810-05-15",
     "rangeEndDate": null,
@@ -5423,7 +5610,7 @@
     "dayExist": true
   },
   {
-    "id": 5056,
+    "id": 5565,
     "date": "1810-09-21",
     "originalDate": "1810-09-21",
     "rangeEndDate": null,
@@ -5440,7 +5627,7 @@
     "dayExist": true
   },
   {
-    "id": 5053,
+    "id": 5562,
     "date": "1810-12-14",
     "originalDate": "1810-12-14",
     "rangeEndDate": null,
@@ -5457,7 +5644,7 @@
     "dayExist": true
   },
   {
-    "id": 5125,
+    "id": 5634,
     "date": "1811-03-21",
     "originalDate": "1811-03-21",
     "rangeEndDate": null,
@@ -5474,7 +5661,7 @@
     "dayExist": true
   },
   {
-    "id": 5383,
+    "id": 5890,
     "date": "1811-03-21",
     "originalDate": "1811-3-21-1811-3-24",
     "rangeEndDate": "1811-3-24",
@@ -5491,7 +5678,7 @@
     "dayExist": true
   },
   {
-    "id": 5358,
+    "id": 5865,
     "date": "1811-03-24",
     "originalDate": "1811-3-24",
     "rangeEndDate": null,
@@ -5508,7 +5695,7 @@
     "dayExist": true
   },
   {
-    "id": 5174,
+    "id": 5687,
     "date": "1811-06-15",
     "originalDate": "1811-06-15",
     "rangeEndDate": null,
@@ -5525,7 +5712,7 @@
     "dayExist": true
   },
   {
-    "id": 5175,
+    "id": 5688,
     "date": "1811-06-18",
     "originalDate": "1811-06-18",
     "rangeEndDate": null,
@@ -5542,7 +5729,7 @@
     "dayExist": true
   },
   {
-    "id": 5057,
+    "id": 5566,
     "date": "1811-06-19",
     "originalDate": "1811-06-19",
     "rangeEndDate": null,
@@ -5559,7 +5746,7 @@
     "dayExist": true
   },
   {
-    "id": 5392,
+    "id": 5899,
     "date": "1811-06-19",
     "originalDate": "1811-6-19",
     "rangeEndDate": null,
@@ -5576,7 +5763,7 @@
     "dayExist": true
   },
   {
-    "id": 5058,
+    "id": 5567,
     "date": "1811-07-29",
     "originalDate": "1811-07-29",
     "rangeEndDate": null,
@@ -5593,7 +5780,7 @@
     "dayExist": true
   },
   {
-    "id": 5176,
+    "id": 5689,
     "date": "1811-07-29",
     "originalDate": "1811-07-29",
     "rangeEndDate": null,
@@ -5610,7 +5797,7 @@
     "dayExist": true
   },
   {
-    "id": 5360,
+    "id": 5867,
     "date": "1811-07-29",
     "originalDate": "1811-7-29",
     "rangeEndDate": null,
@@ -5627,7 +5814,7 @@
     "dayExist": true
   },
   {
-    "id": 5059,
+    "id": 5568,
     "date": "1811-08-30",
     "originalDate": "1811-08-30",
     "rangeEndDate": null,
@@ -5644,7 +5831,7 @@
     "dayExist": true
   },
   {
-    "id": 5177,
+    "id": 5690,
     "date": "1811-09-03",
     "originalDate": "1811-09-03",
     "rangeEndDate": null,
@@ -5661,7 +5848,7 @@
     "dayExist": true
   },
   {
-    "id": 5060,
+    "id": 5569,
     "date": "1811-10-01",
     "originalDate": "1811-10-01",
     "rangeEndDate": null,
@@ -5678,7 +5865,7 @@
     "dayExist": true
   },
   {
-    "id": 5362,
+    "id": 5869,
     "date": "1811-10-01",
     "originalDate": "1811-10-1",
     "rangeEndDate": null,
@@ -5695,7 +5882,7 @@
     "dayExist": true
   },
   {
-    "id": 5061,
+    "id": 5570,
     "date": "1811-10-16",
     "originalDate": "1811-10-16",
     "rangeEndDate": null,
@@ -5712,7 +5899,7 @@
     "dayExist": true
   },
   {
-    "id": 4993,
+    "id": 5424,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5729,7 +5916,7 @@
     "dayExist": false
   },
   {
-    "id": 5065,
+    "id": 5574,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5746,7 +5933,7 @@
     "dayExist": false
   },
   {
-    "id": 5066,
+    "id": 5575,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5763,7 +5950,7 @@
     "dayExist": false
   },
   {
-    "id": 5067,
+    "id": 5576,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5780,7 +5967,7 @@
     "dayExist": false
   },
   {
-    "id": 5068,
+    "id": 5577,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5797,7 +5984,7 @@
     "dayExist": false
   },
   {
-    "id": 5069,
+    "id": 5578,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5814,7 +6001,7 @@
     "dayExist": false
   },
   {
-    "id": 5070,
+    "id": 5579,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5831,7 +6018,7 @@
     "dayExist": false
   },
   {
-    "id": 5071,
+    "id": 5580,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5848,7 +6035,7 @@
     "dayExist": false
   },
   {
-    "id": 5075,
+    "id": 5584,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5865,7 +6052,7 @@
     "dayExist": false
   },
   {
-    "id": 5082,
+    "id": 5591,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5882,7 +6069,7 @@
     "dayExist": false
   },
   {
-    "id": 5152,
+    "id": 5661,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5899,7 +6086,7 @@
     "dayExist": false
   },
   {
-    "id": 5179,
+    "id": 5692,
     "date": "1812-01-01",
     "originalDate": "1812-?-?",
     "rangeEndDate": null,
@@ -5916,7 +6103,7 @@
     "dayExist": false
   },
   {
-    "id": 5062,
+    "id": 5571,
     "date": "1812-04-30",
     "originalDate": "1812-04-30",
     "rangeEndDate": null,
@@ -5933,7 +6120,7 @@
     "dayExist": true
   },
   {
-    "id": 5393,
+    "id": 5900,
     "date": "1812-05-01",
     "originalDate": "1812-05-?-1813-02-?",
     "rangeEndDate": "1813-02-?",
@@ -5950,7 +6137,7 @@
     "dayExist": false
   },
   {
-    "id": 5063,
+    "id": 5572,
     "date": "1812-05-04",
     "originalDate": "1812-05-04",
     "rangeEndDate": null,
@@ -5967,7 +6154,7 @@
     "dayExist": true
   },
   {
-    "id": 5064,
+    "id": 5573,
     "date": "1812-05-06",
     "originalDate": "1812-05-06",
     "rangeEndDate": null,
@@ -5984,7 +6171,7 @@
     "dayExist": true
   },
   {
-    "id": 5178,
+    "id": 5691,
     "date": "1812-06-01",
     "originalDate": "1812-06-?",
     "rangeEndDate": null,
@@ -6001,7 +6188,7 @@
     "dayExist": false
   },
   {
-    "id": 5153,
+    "id": 5662,
     "date": "1812-08-26",
     "originalDate": "1812-08-26",
     "rangeEndDate": null,
@@ -6018,7 +6205,7 @@
     "dayExist": true
   },
   {
-    "id": 5155,
+    "id": 5664,
     "date": "1812-09-01",
     "originalDate": "1812-09-?",
     "rangeEndDate": null,
@@ -6035,7 +6222,7 @@
     "dayExist": false
   },
   {
-    "id": 5156,
+    "id": 5665,
     "date": "1812-09-01",
     "originalDate": "1812-09-?",
     "rangeEndDate": null,
@@ -6052,7 +6239,7 @@
     "dayExist": false
   },
   {
-    "id": 5157,
+    "id": 5666,
     "date": "1812-09-01",
     "originalDate": "1812-09-?",
     "rangeEndDate": null,
@@ -6069,7 +6256,7 @@
     "dayExist": false
   },
   {
-    "id": 5158,
+    "id": 5667,
     "date": "1812-09-01",
     "originalDate": "1812-09-?",
     "rangeEndDate": null,
@@ -6086,7 +6273,7 @@
     "dayExist": false
   },
   {
-    "id": 5154,
+    "id": 5663,
     "date": "1812-09-04",
     "originalDate": "1812-09-04",
     "rangeEndDate": null,
@@ -6103,7 +6290,7 @@
     "dayExist": true
   },
   {
-    "id": 5072,
+    "id": 5581,
     "date": "1812-09-26",
     "originalDate": "1812-09-26",
     "rangeEndDate": null,
@@ -6120,7 +6307,7 @@
     "dayExist": true
   },
   {
-    "id": 5363,
+    "id": 5870,
     "date": "1812-09-26",
     "originalDate": "1812-9-26",
     "rangeEndDate": null,
@@ -6137,7 +6324,7 @@
     "dayExist": true
   },
   {
-    "id": 5073,
+    "id": 5582,
     "date": "1812-09-28",
     "originalDate": "1812-09-28",
     "rangeEndDate": null,
@@ -6154,7 +6341,7 @@
     "dayExist": true
   },
   {
-    "id": 5074,
+    "id": 5583,
     "date": "1812-10-03",
     "originalDate": "1812-10-03",
     "rangeEndDate": null,
@@ -6171,7 +6358,7 @@
     "dayExist": true
   },
   {
-    "id": 5076,
+    "id": 5585,
     "date": "1812-10-03",
     "originalDate": "1812-10-03",
     "rangeEndDate": null,
@@ -6188,7 +6375,7 @@
     "dayExist": true
   },
   {
-    "id": 5077,
+    "id": 5586,
     "date": "1812-10-10",
     "originalDate": "1812-10-10",
     "rangeEndDate": null,
@@ -6205,7 +6392,7 @@
     "dayExist": true
   },
   {
-    "id": 5078,
+    "id": 5587,
     "date": "1812-10-11",
     "originalDate": "1812-10-11",
     "rangeEndDate": null,
@@ -6222,7 +6409,7 @@
     "dayExist": true
   },
   {
-    "id": 5079,
+    "id": 5588,
     "date": "1812-10-14",
     "originalDate": "1812-10-14",
     "rangeEndDate": null,
@@ -6239,7 +6426,7 @@
     "dayExist": true
   },
   {
-    "id": 5080,
+    "id": 5589,
     "date": "1812-10-16",
     "originalDate": "1812-10-16",
     "rangeEndDate": null,
@@ -6256,7 +6443,7 @@
     "dayExist": true
   },
   {
-    "id": 5081,
+    "id": 5590,
     "date": "1812-10-17",
     "originalDate": "1812-10-17",
     "rangeEndDate": null,
@@ -6273,7 +6460,7 @@
     "dayExist": true
   },
   {
-    "id": 5083,
+    "id": 5592,
     "date": "1812-10-24",
     "originalDate": "1812-10- 24",
     "rangeEndDate": null,
@@ -6290,7 +6477,7 @@
     "dayExist": true
   },
   {
-    "id": 5180,
+    "id": 5693,
     "date": "1812-10-25",
     "originalDate": "1812-10-25",
     "rangeEndDate": null,
@@ -6307,7 +6494,7 @@
     "dayExist": true
   },
   {
-    "id": 5084,
+    "id": 5593,
     "date": "1812-10-27",
     "originalDate": "1812-10-27",
     "rangeEndDate": null,
@@ -6324,7 +6511,7 @@
     "dayExist": true
   },
   {
-    "id": 5181,
+    "id": 5694,
     "date": "1812-11-06",
     "originalDate": "1812-11-06-1812-11-15",
     "rangeEndDate": "1812-11-15",
@@ -6341,7 +6528,7 @@
     "dayExist": true
   },
   {
-    "id": 5085,
+    "id": 5594,
     "date": "1812-11-09",
     "originalDate": "1812-11-09",
     "rangeEndDate": null,
@@ -6358,7 +6545,7 @@
     "dayExist": true
   },
   {
-    "id": 5394,
+    "id": 5901,
     "date": "1813-01-01",
     "originalDate": "1813-?-?",
     "rangeEndDate": null,
@@ -6375,7 +6562,7 @@
     "dayExist": false
   },
   {
-    "id": 5396,
+    "id": 5903,
     "date": "1813-01-05",
     "originalDate": "1813-01-05",
     "rangeEndDate": null,
@@ -6392,7 +6579,7 @@
     "dayExist": true
   },
   {
-    "id": 5086,
+    "id": 5595,
     "date": "1813-01-20",
     "originalDate": "1813-01-20",
     "rangeEndDate": null,
@@ -6409,7 +6596,7 @@
     "dayExist": true
   },
   {
-    "id": 5131,
+    "id": 5640,
     "date": "1813-01-20",
     "originalDate": "1228-M-17",
     "rangeEndDate": null,
@@ -6426,7 +6613,7 @@
     "dayExist": true
   },
   {
-    "id": 5395,
+    "id": 5902,
     "date": "1813-01-21",
     "originalDate": "1813-01-21",
     "rangeEndDate": null,
@@ -6443,7 +6630,7 @@
     "dayExist": true
   },
   {
-    "id": 5087,
+    "id": 5596,
     "date": "1813-01-25",
     "originalDate": "1813-01-25",
     "rangeEndDate": null,
@@ -6460,7 +6647,7 @@
     "dayExist": true
   },
   {
-    "id": 5127,
+    "id": 5636,
     "date": "1813-01-30",
     "originalDate": "1228-M-27",
     "rangeEndDate": null,
@@ -6477,7 +6664,7 @@
     "dayExist": true
   },
   {
-    "id": 5088,
+    "id": 5597,
     "date": "1813-02-01",
     "originalDate": "1813-02-01",
     "rangeEndDate": null,
@@ -6494,7 +6681,7 @@
     "dayExist": true
   },
   {
-    "id": 5089,
+    "id": 5598,
     "date": "1813-02-02",
     "originalDate": "1813-02-02",
     "rangeEndDate": null,
@@ -6511,7 +6698,7 @@
     "dayExist": true
   },
   {
-    "id": 5090,
+    "id": 5599,
     "date": "1813-02-07",
     "originalDate": "1813-02-07",
     "rangeEndDate": null,
@@ -6528,7 +6715,7 @@
     "dayExist": true
   },
   {
-    "id": 5128,
+    "id": 5637,
     "date": "1813-02-08",
     "originalDate": "1228-S-6",
     "rangeEndDate": null,
@@ -6545,7 +6732,7 @@
     "dayExist": true
   },
   {
-    "id": 5091,
+    "id": 5600,
     "date": "1813-02-09",
     "originalDate": "1813-02-09",
     "rangeEndDate": null,
@@ -6562,7 +6749,7 @@
     "dayExist": true
   },
   {
-    "id": 5092,
+    "id": 5601,
     "date": "1813-02-11",
     "originalDate": "1813-02-11",
     "rangeEndDate": null,
@@ -6579,7 +6766,7 @@
     "dayExist": true
   },
   {
-    "id": 5093,
+    "id": 5602,
     "date": "1813-03-30",
     "originalDate": "1813-03-30",
     "rangeEndDate": null,
@@ -6596,7 +6783,7 @@
     "dayExist": true
   },
   {
-    "id": 5132,
+    "id": 5641,
     "date": "1813-04-24",
     "originalDate": "1228-R-22",
     "rangeEndDate": null,
@@ -6613,7 +6800,7 @@
     "dayExist": true
   },
   {
-    "id": 5094,
+    "id": 5603,
     "date": "1813-07-25",
     "originalDate": "1813-07-25",
     "rangeEndDate": null,
@@ -6630,7 +6817,7 @@
     "dayExist": true
   },
   {
-    "id": 5357,
+    "id": 5864,
     "date": "1813-08-02",
     "originalDate": "1813-8-2",
     "rangeEndDate": null,
@@ -6647,7 +6834,7 @@
     "dayExist": true
   },
   {
-    "id": 5095,
+    "id": 5604,
     "date": "1813-08-14",
     "originalDate": "1813-08-14",
     "rangeEndDate": null,
@@ -6664,7 +6851,7 @@
     "dayExist": true
   },
   {
-    "id": 5096,
+    "id": 5605,
     "date": "1813-12-23",
     "originalDate": "1813-12-23",
     "rangeEndDate": null,
@@ -6681,7 +6868,7 @@
     "dayExist": true
   },
   {
-    "id": 5013,
+    "id": 5444,
     "date": "1814-08-27",
     "originalDate": "1814-08-27",
     "rangeEndDate": null,
@@ -6698,7 +6885,7 @@
     "dayExist": true
   },
   {
-    "id": 5014,
+    "id": 5445,
     "date": "1814-09-07",
     "originalDate": "1814-09-7",
     "rangeEndDate": null,
@@ -6715,7 +6902,7 @@
     "dayExist": true
   },
   {
-    "id": 5015,
+    "id": 5446,
     "date": "1814-09-07",
     "originalDate": "1814-09-7",
     "rangeEndDate": null,
@@ -6732,7 +6919,7 @@
     "dayExist": true
   },
   {
-    "id": 5016,
+    "id": 5447,
     "date": "1814-09-10",
     "originalDate": "1814-09-10",
     "rangeEndDate": null,
@@ -6749,7 +6936,7 @@
     "dayExist": true
   },
   {
-    "id": 5133,
+    "id": 5642,
     "date": "1815-03-21",
     "originalDate": "1230-R-09",
     "rangeEndDate": null,
@@ -6766,7 +6953,7 @@
     "dayExist": true
   },
   {
-    "id": 5134,
+    "id": 5643,
     "date": "1815-08-02",
     "originalDate": "1230-Ş-25",
     "rangeEndDate": null,
@@ -6783,7 +6970,24 @@
     "dayExist": true
   },
   {
-    "id": 5136,
+    "id": 5473,
+    "date": "1816-02-17",
+    "originalDate": "1816-02-17-1816-02-28",
+    "rangeEndDate": "1816-02-28",
+    "text": "6.1C",
+    "place": "",
+    "pageNumber": "242",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Aylık Ortalama Hava Sıcaklığı",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5645,
     "date": "1816-11-14",
     "originalDate": "1231-Z-23",
     "rangeEndDate": null,
@@ -6800,7 +7004,7 @@
     "dayExist": true
   },
   {
-    "id": 5137,
+    "id": 5646,
     "date": "1817-04-02",
     "originalDate": "1232-CA-15",
     "rangeEndDate": null,
@@ -6817,7 +7021,7 @@
     "dayExist": true
   },
   {
-    "id": 5168,
+    "id": 5681,
     "date": "1818-01-09",
     "originalDate": "1818-01-09",
     "rangeEndDate": null,
@@ -6834,7 +7038,7 @@
     "dayExist": true
   },
   {
-    "id": 5169,
+    "id": 5682,
     "date": "1818-04-16",
     "originalDate": "1818-04-16",
     "rangeEndDate": null,
@@ -6851,7 +7055,7 @@
     "dayExist": true
   },
   {
-    "id": 5145,
+    "id": 5654,
     "date": "1818-04-22",
     "originalDate": "1233-C-15",
     "rangeEndDate": null,
@@ -6868,7 +7072,7 @@
     "dayExist": true
   },
   {
-    "id": 5138,
+    "id": 5647,
     "date": "1818-05-23",
     "originalDate": " 1233-B-17",
     "rangeEndDate": null,
@@ -6885,7 +7089,7 @@
     "dayExist": true
   },
   {
-    "id": 5170,
+    "id": 5683,
     "date": "1818-07-15",
     "originalDate": "1818-07-15",
     "rangeEndDate": null,
@@ -6902,7 +7106,7 @@
     "dayExist": true
   },
   {
-    "id": 5171,
+    "id": 5684,
     "date": "1818-07-25",
     "originalDate": "1818-07-25-1818-08-03",
     "rangeEndDate": "1818-08-03",
@@ -6919,7 +7123,7 @@
     "dayExist": true
   },
   {
-    "id": 5172,
+    "id": 5685,
     "date": "1818-08-14",
     "originalDate": "1818-08-14",
     "rangeEndDate": null,
@@ -6936,7 +7140,7 @@
     "dayExist": true
   },
   {
-    "id": 5146,
+    "id": 5655,
     "date": "1819-10-04",
     "originalDate": "1234-Z-14",
     "rangeEndDate": null,
@@ -6953,7 +7157,7 @@
     "dayExist": true
   },
   {
-    "id": 5147,
+    "id": 5656,
     "date": "1820-09-07",
     "originalDate": "1235-ZA-29",
     "rangeEndDate": null,
@@ -6970,7 +7174,7 @@
     "dayExist": true
   },
   {
-    "id": 5139,
+    "id": 5648,
     "date": "1820-09-25",
     "originalDate": "1235-Z-17",
     "rangeEndDate": null,
@@ -6987,7 +7191,7 @@
     "dayExist": true
   },
   {
-    "id": 5173,
+    "id": 5686,
     "date": "1820-10-07",
     "originalDate": "1820-10-07",
     "rangeEndDate": null,
@@ -7004,7 +7208,7 @@
     "dayExist": true
   },
   {
-    "id": 5140,
+    "id": 5649,
     "date": "1820-10-13",
     "originalDate": "1236-M-5",
     "rangeEndDate": null,
@@ -7021,7 +7225,7 @@
     "dayExist": true
   },
   {
-    "id": 5418,
+    "id": 5921,
     "date": "1820-11-12",
     "originalDate": "1236-S-05",
     "rangeEndDate": null,
@@ -7038,7 +7242,7 @@
     "dayExist": true
   },
   {
-    "id": 5301,
+    "id": 5808,
     "date": "1822-01-01",
     "originalDate": "1822-?-?",
     "rangeEndDate": null,
@@ -7055,7 +7259,7 @@
     "dayExist": false
   },
   {
-    "id": 5302,
+    "id": 5809,
     "date": "1822-01-01",
     "originalDate": "1822-?-?",
     "rangeEndDate": null,
@@ -7072,7 +7276,7 @@
     "dayExist": false
   },
   {
-    "id": 5419,
+    "id": 5922,
     "date": "1823-03-01",
     "originalDate": "1238-C-17-1238-C-20",
     "rangeEndDate": "1238-C-20",
@@ -7089,7 +7293,1027 @@
     "dayExist": true
   },
   {
-    "id": 5343,
+    "id": 5482,
+    "date": "1827-02-01",
+    "originalDate": "1827-02-?",
+    "rangeEndDate": null,
+    "text": "Morning, 4.4C",
+    "place": "İstanbul Pera",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5483,
+    "date": "1827-02-01",
+    "originalDate": "1827-02-?",
+    "rangeEndDate": null,
+    "text": "Noon, 10C",
+    "place": "İstanbul Pera",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5451,
+    "date": "1827-02-02",
+    "originalDate": "1827-02-02",
+    "rangeEndDate": null,
+    "text": "I arrived here form Smyrna on the 2nd day of the present month after an eleven day's passage of almost summer weather",
+    "place": "İzmir-İstanbul(Pera)",
+    "pageNumber": "86",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Anormal hava",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5484,
+    "date": "1827-02-06",
+    "originalDate": "1827-02-06",
+    "rangeEndDate": null,
+    "text": "Greatest, 16.6C",
+    "place": "İstanbul Pera",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5452,
+    "date": "1827-02-14",
+    "originalDate": "1827-02-14",
+    "rangeEndDate": null,
+    "text": "With the exception of few flakes of snow, which fell at Smyrna, I have here for the first time seen any during the present winter. It came to the depth of 2 or 3 inches the day before yesterday (16sında yazıyor) but is now nearly gone.",
+    "place": "İstanbul Pera",
+    "pageNumber": "86",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Hafif kar yağışı",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5486,
+    "date": "1827-02-15",
+    "originalDate": "1827-02-15-1827-02-16",
+    "rangeEndDate": "1827-02-16",
+    "text": "on the 15th several inches in depth , still raining on the 16th",
+    "place": "İstanbul Pera",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Kar yağışı",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5453,
+    "date": "1827-02-16",
+    "originalDate": "1827-02-16",
+    "rangeEndDate": null,
+    "text": "... But the winter in Turkey has been uncommonly mild.",
+    "place": "İstanbul Pera",
+    "pageNumber": "86",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Anormal hava",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5454,
+    "date": "1827-02-16",
+    "originalDate": "1827-02-16",
+    "rangeEndDate": null,
+    "text": "In consequence of this, it is expected that the plague will rage more than usual the approaching summer.",
+    "place": "İstanbul Pera",
+    "pageNumber": "86",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Veba",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5485,
+    "date": "1827-02-18",
+    "originalDate": "1827-02-18",
+    "rangeEndDate": null,
+    "text": "Least, -1.1C",
+    "place": "İstanbul Pera",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5487,
+    "date": "1827-02-18",
+    "originalDate": "1827-02-18-1827-02-19",
+    "rangeEndDate": "1827-02-19",
+    "text": "on the 18th much ice , and on the 19th ground frozen .",
+    "place": "İstanbul Pera",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Yoğun buzlanma",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5488,
+    "date": "1827-02-23",
+    "originalDate": "1827-02-23",
+    "rangeEndDate": null,
+    "text": "On the 23d almond and peach trees were in blossom .",
+    "place": "İstanbul Pera",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Ilıman Hava(?) (Badem ve Şeftali çiçek açmış)",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5455,
+    "date": "1827-02-26",
+    "originalDate": "1827-02-26",
+    "rangeEndDate": null,
+    "text": "At present , however , the alarm appears to be subsiding , but in anticipation of what the warm weather inay soon bring , am casting around for a summer's residence on the Bosphorus , or in the Princes ' Islands .",
+    "place": "İstanbul Pera",
+    "pageNumber": "91",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Anormal hava/Veba",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5489,
+    "date": "1827-03-01",
+    "originalDate": "1827-03-?",
+    "rangeEndDate": null,
+    "text": "Morning, 7.6C",
+    "place": "İstanbul Pera",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5490,
+    "date": "1827-03-01",
+    "originalDate": "1827-03-?",
+    "rangeEndDate": null,
+    "text": "Noon, 13.8C",
+    "place": "İstanbul Pera",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5492,
+    "date": "1827-03-01",
+    "originalDate": "1827-03-01",
+    "rangeEndDate": null,
+    "text": "Least, 3.9C",
+    "place": "İstanbul Pera",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5493,
+    "date": "1827-03-06",
+    "originalDate": "1827-03-06-1827-03-09",
+    "rangeEndDate": "1827-03-09",
+    "text": "The first part of the month was very delightful . 6th to 9th , \" weather like the middle of May in New England , Many trees and plants in blossom .\"",
+    "place": "İstanbul Pera",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Ilıman hava",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5491,
+    "date": "1827-03-11",
+    "originalDate": "1827-03-11",
+    "rangeEndDate": null,
+    "text": "Greatest, 21.1C",
+    "place": "İstanbul Pera",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5494,
+    "date": "1827-03-14",
+    "originalDate": "1827-03-14",
+    "rangeEndDate": null,
+    "text": "The latter part was spent at Prinkipos , where on the 14th I gathered twenty two different plants in blossom",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Ilıman hava(?), çiçek açan bitkiler",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5495,
+    "date": "1827-03-19",
+    "originalDate": "1827-03-19-1827-03-26",
+    "rangeEndDate": "1827-03-26",
+    "text": "There were seven days of rain",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Yağmur (aralıksız 7 gün)",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5496,
+    "date": "1827-03-27",
+    "originalDate": "1827-03-27",
+    "rangeEndDate": null,
+    "text": "on the 27th some hail mingled .",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Dolu",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5497,
+    "date": "1827-04-01",
+    "originalDate": "1827-04-?",
+    "rangeEndDate": null,
+    "text": "Morning, 8.9C",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5498,
+    "date": "1827-04-01",
+    "originalDate": "1827-04-?",
+    "rangeEndDate": null,
+    "text": "Noon, 13.5C",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5500,
+    "date": "1827-04-05",
+    "originalDate": "1827-04-05",
+    "rangeEndDate": null,
+    "text": "Least, 5C",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5456,
+    "date": "1827-04-15",
+    "originalDate": "1827-04-15",
+    "rangeEndDate": null,
+    "text": "As for the plague, according to the prevalent opinion of the Christian population, and particularly the Franks and Greeks, it is communicated chiefly by contact with the person and dress of the infected. Hence, it has become a habit in walking the streets, studiously to collect the skirts of one's garments, and to shun the passer-by as though death were in the touch.",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "106",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Veba",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5457,
+    "date": "1827-04-15",
+    "originalDate": "1827-04-15",
+    "rangeEndDate": null,
+    "text": "The older residents endevor to quiet the fears of strangers, and become somewhat remiss in their precautions, not somuch perhaps from a disbelief of their importance, as of thei insufficiency.",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "106",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Veba",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5458,
+    "date": "1827-04-15",
+    "originalDate": "1827-04-15",
+    "rangeEndDate": null,
+    "text": "In the single street of Prea, from which I have just removed, one thousand died last year.",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "106",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Veba",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5459,
+    "date": "1827-04-15",
+    "originalDate": "1827-04-15",
+    "rangeEndDate": null,
+    "text": "But what is this destructive malady ? Medical wri ters , to whom I must refer you for a particular descrip tion would most of them agree in calling it a “ typhus fever accompanied with extreme debility , ” or a tinued fever allied to typhus . ” Some have spoken of five or six species , and more would admit three varie ties -- the mild , severe and malignant . In its com mencement , the general derangement of the system , is much the same as in ordinary fevers . Cold , nausea , head - ache and delirium , are frequent symptoms . A peculiar muddiness of the eyes is often observed , and a staggering , accompanied with great and sudden pros tration of strength is still more characteristic .",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "109",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Veba",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5460,
+    "date": "1827-04-15",
+    "originalDate": "1827-04-15",
+    "rangeEndDate": null,
+    "text": "But what seems to render the plague a specific disease , is the swellings under the arms , and carbun cles or inflamed blotches , on different parts of the body . The occurrence of the former is by no means univer sal , nor the time of their appearance regular . Usual ly it is near the beginning of the disorder , and their non - appearance is regarded as an unfavorable symp tom . All ages and conditions of people , and every variety of constitution , are subject to its attack . That greater mortality follows it than any other malignant fever , must be evident from the statements already made . Probably a majority of those who are attack ed , die within the period of from two to seven days .",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "109",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Veba",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5461,
+    "date": "1827-04-15",
+    "originalDate": "1827-04-15",
+    "rangeEndDate": null,
+    "text": "Usually in the later stages of the epidemic , it is much diminished in violence .",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "110",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Veba",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5462,
+    "date": "1827-04-15",
+    "originalDate": "1827-04-15",
+    "rangeEndDate": null,
+    "text": "These re marks are not applicable to the Turks , who , you are aware , from their notions of fate , as is usually said , take no more precautions against this than against any other disease .",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "112",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Veba",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5463,
+    "date": "1827-04-15",
+    "originalDate": "1827-04-15",
+    "rangeEndDate": null,
+    "text": "that since Europe has become more cleanly it has been nearly freed from this disease ; and that were it contagious , it would , like the small pox and kindred diseases , long since have made its way through the world . The hopes of this class , rest on the gradual improvement of the condition of people in the Levant ; on more extended experiments by compe tent physicians ; better attendance upon the sick ; dimi nution of the extreme terror with which it is now viewed , and active exertions to remove the local causes of in fection , to all which they very justly remark , the contra ry theory stands opposed .",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "114",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Veba",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5464,
+    "date": "1827-04-15",
+    "originalDate": "1827-04-15",
+    "rangeEndDate": null,
+    "text": "In the opin ion of the contagionists , the quarantine system , if ria ' gidly enforced , might banish this pest from the earth . To this principally , they ascribe the diminution of it in Europe , and they hail with joy , the prospect that the sanitary regulations of Christendom will by and by , he introduced into Mahometan countries . It has been confidently asserted , that the Sultan was about to make the attempt , and that one of these islands would be selected as the place of the Lazaretto . This might exclude the plague of Alexandria , and perhaps of Tre bizonde , but it would be difficult by any system which the Turks are likely for a long time to adopt , to pre vent its approach by land . So long too , as no domes tic precautions are taken by them , but all crowd as usual to bear the dead to the grave , and the garments of such , are freely sold in the bazars and worn by their friends , their is little prospect of its immediate disap pearance .",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "117",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Veba",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5499,
+    "date": "1827-04-25",
+    "originalDate": "1827-04-25",
+    "rangeEndDate": null,
+    "text": "Greatest, 20.5C",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "243",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5501,
+    "date": "1827-05-01",
+    "originalDate": "1827-05-?",
+    "rangeEndDate": null,
+    "text": "Morning, 14.5C",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "244",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5502,
+    "date": "1827-05-01",
+    "originalDate": "1827-05-?",
+    "rangeEndDate": null,
+    "text": "Noon, 20C",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "244",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5504,
+    "date": "1827-05-03",
+    "originalDate": "1827-05-03",
+    "rangeEndDate": null,
+    "text": "Least, 8.9C",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "244",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5505,
+    "date": "1827-05-06",
+    "originalDate": "1827-05-06",
+    "rangeEndDate": null,
+    "text": "6th , “ vine branches as large as beans .\"",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "244",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Bereketli Hasat",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5506,
+    "date": "1827-05-07",
+    "originalDate": "1827-05-07",
+    "rangeEndDate": null,
+    "text": "On the 7th 66 wheat and oats were head ed .",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "244",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Bereketli Hasat (Ekinler sürgün vermiş)",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5465,
+    "date": "1827-05-08",
+    "originalDate": "1827-05-08",
+    "rangeEndDate": null,
+    "text": "During the last year there was a most destructive fire , which extended through “ from sea to sea . \" I have walked for miles in this desolate district , amidst ruined mosques , khans , bazars , dwellings and fountains . The Armenians and the Turks were the principal sufferers , but the former are partially clearing away the rubbish , rebuilding their light wooden shops , and storing them with mer chandise . It was estimated that an eighth part of the city was destroyed , and on an average , the whole city is burned down and rebuilt , once in twenty years .",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "123",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Yangın",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5503,
+    "date": "1827-05-10",
+    "originalDate": "1827-05-10-1827-05-15",
+    "rangeEndDate": "1827-05-15",
+    "text": "Greatest, 23.9C",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "244",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5507,
+    "date": "1827-06-01",
+    "originalDate": "1827-06-?",
+    "rangeEndDate": null,
+    "text": "Morning, 20.5C",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "244",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5508,
+    "date": "1827-06-01",
+    "originalDate": "1827-06-?",
+    "rangeEndDate": null,
+    "text": "Noon, 24.7C",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "244",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5510,
+    "date": "1827-06-15",
+    "originalDate": "1827-06-15",
+    "rangeEndDate": null,
+    "text": "Least, 16.6C",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "244",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5509,
+    "date": "1827-06-27",
+    "originalDate": "1827-06-27",
+    "rangeEndDate": null,
+    "text": "Greatest, 27.7C",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "244",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5511,
+    "date": "1827-07-01",
+    "originalDate": "1827-07-?",
+    "rangeEndDate": null,
+    "text": "Morning, 23.8C",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "244",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5512,
+    "date": "1827-07-01",
+    "originalDate": "1827-07-?",
+    "rangeEndDate": null,
+    "text": "Noon, 26.6C",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "244",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5517,
+    "date": "1827-07-01",
+    "originalDate": "1827-07-1-1827-07-30",
+    "rangeEndDate": "1827-07-30",
+    "text": "Least, 22.2C",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "244",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Kuraklık (30'u hariç)",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5514,
+    "date": "1827-07-04",
+    "originalDate": "1827-07-04",
+    "rangeEndDate": null,
+    "text": "Early on the morning of the 4th , I saw from my window a brilliant meteor descending to the northeast of Prinkipos , in the direction of the Black Sea .",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "244",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Meteor",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5513,
+    "date": "1827-07-12",
+    "originalDate": "1827-07-12",
+    "rangeEndDate": null,
+    "text": "Greatest, 29.4C",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "244",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5515,
+    "date": "1827-07-30",
+    "originalDate": "1827-07-30",
+    "rangeEndDate": null,
+    "text": "During most of the month a cold north wind prevail ed . There was rain in but a single instance , on the 30th",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "245",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Ay boyu kuzeyli soğuk rüzgar, Yağmur",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5516,
+    "date": "1827-07-31",
+    "originalDate": "1827-07-31",
+    "rangeEndDate": null,
+    "text": "thunder on the 31st .",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "245",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Gök gürültüsü",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5518,
+    "date": "1827-08-01",
+    "originalDate": "1827-08-?",
+    "rangeEndDate": null,
+    "text": "Morning, 23.3C",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "245",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5519,
+    "date": "1827-08-01",
+    "originalDate": "1827-08-?",
+    "rangeEndDate": null,
+    "text": "Noon, 27.2C",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "245",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5522,
+    "date": "1827-08-01",
+    "originalDate": "1827-08-?",
+    "rangeEndDate": null,
+    "text": "No instance of rain or thunder during the twenty two days of this month in which the Journal was kept .",
+    "place": "İstanbul Büyükada, Pera",
+    "pageNumber": "245",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Kurak ay",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": false
+  },
+  {
+    "id": 5521,
+    "date": "1827-08-08",
+    "originalDate": "1827-08-08-1827-08-16",
+    "rangeEndDate": "1827-08-16",
+    "text": "Least, 22.2C",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "245",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5466,
+    "date": "1827-08-10",
+    "originalDate": "1827-08-10",
+    "rangeEndDate": null,
+    "text": "The first occasion was after some alarm of the plague , and we had a prospect of all being shut up in our houses for the summer .",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "193",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Veba",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5520,
+    "date": "1827-08-21",
+    "originalDate": "1827-08-21-1827-08-22",
+    "rangeEndDate": "1827-08-22",
+    "text": "Greatest, 30.5C",
+    "place": "İstanbul Büyükada",
+    "pageNumber": "245",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5523,
+    "date": "1827-09-10",
+    "originalDate": "1827-09-10-1827-09-14",
+    "rangeEndDate": "1827-09-14",
+    "text": "Just before I left Constantinople , from 10th to 14th Sept. the rain fell in torrents , and the weather was chilly .",
+    "place": "İstanbul, Pera",
+    "pageNumber": "245",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Soğuk Hava, Sağanak",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5467,
+    "date": "1827-09-12",
+    "originalDate": "1827-09-12",
+    "rangeEndDate": null,
+    "text": "A drenching rain had driven me under the shelter of a sail",
+    "place": "İstanbul Pera?",
+    "pageNumber": "204",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Yağmur",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5468,
+    "date": "1827-09-14",
+    "originalDate": "1827-09-14",
+    "rangeEndDate": null,
+    "text": "Towards evening , the rain which had continued dur ing several days , gave place to a clear sky",
+    "place": "İstanbul Pera?",
+    "pageNumber": "206",
+    "bookName": "A Residence at Constantinople, in the year 1827",
+    "author": "Josiah Brewer",
+    "publishedBy": "Durrie&Peck",
+    "publishedDate": "1830",
+    "weatherTags": "Yağmur",
+    "yearExist": true,
+    "monthExist": true,
+    "dayExist": true
+  },
+  {
+    "id": 5850,
     "date": "1828-01-01",
     "originalDate": "1828-?-?",
     "rangeEndDate": null,
@@ -7106,7 +8330,7 @@
     "dayExist": false
   },
   {
-    "id": 5344,
+    "id": 5851,
     "date": "1828-01-01",
     "originalDate": "1828-?-?",
     "rangeEndDate": null,
@@ -7123,7 +8347,7 @@
     "dayExist": false
   },
   {
-    "id": 5341,
+    "id": 5848,
     "date": "1828-03-25",
     "originalDate": "1828-03-25",
     "rangeEndDate": null,
@@ -7140,7 +8364,7 @@
     "dayExist": true
   },
   {
-    "id": 5342,
+    "id": 5849,
     "date": "1828-03-25",
     "originalDate": "1828-03-25",
     "rangeEndDate": null,
@@ -7157,7 +8381,7 @@
     "dayExist": true
   },
   {
-    "id": 5141,
+    "id": 5650,
     "date": "1829-07-11",
     "originalDate": "1245-M-9",
     "rangeEndDate": null,
@@ -7174,7 +8398,7 @@
     "dayExist": true
   },
   {
-    "id": 4995,
+    "id": 5426,
     "date": "1833-01-01",
     "originalDate": "1833-?-?",
     "rangeEndDate": null,
@@ -7191,7 +8415,7 @@
     "dayExist": false
   },
   {
-    "id": 4996,
+    "id": 5427,
     "date": "1833-01-01",
     "originalDate": "1833-?-?",
     "rangeEndDate": null,
@@ -7208,7 +8432,7 @@
     "dayExist": false
   },
   {
-    "id": 4997,
+    "id": 5428,
     "date": "1833-01-01",
     "originalDate": "1833-?-?",
     "rangeEndDate": null,
@@ -7225,7 +8449,7 @@
     "dayExist": false
   },
   {
-    "id": 4998,
+    "id": 5429,
     "date": "1833-01-01",
     "originalDate": "1833-?-?",
     "rangeEndDate": null,
@@ -7242,7 +8466,7 @@
     "dayExist": false
   },
   {
-    "id": 4999,
+    "id": 5430,
     "date": "1833-01-01",
     "originalDate": "1833-?-?",
     "rangeEndDate": null,
@@ -7259,7 +8483,7 @@
     "dayExist": false
   },
   {
-    "id": 5000,
+    "id": 5431,
     "date": "1833-01-01",
     "originalDate": "1833-?-?",
     "rangeEndDate": null,
@@ -7276,7 +8500,7 @@
     "dayExist": false
   },
   {
-    "id": 5001,
+    "id": 5432,
     "date": "1833-01-01",
     "originalDate": "1833-?-?",
     "rangeEndDate": null,
@@ -7293,7 +8517,7 @@
     "dayExist": false
   },
   {
-    "id": 5002,
+    "id": 5433,
     "date": "1833-01-11",
     "originalDate": "1833-01-11",
     "rangeEndDate": null,
@@ -7310,7 +8534,7 @@
     "dayExist": true
   },
   {
-    "id": 5003,
+    "id": 5434,
     "date": "1833-01-13",
     "originalDate": "1833-01-13",
     "rangeEndDate": null,
