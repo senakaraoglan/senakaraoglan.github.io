@@ -1,0 +1,36 @@
+[
+  {
+    "id": 5425,
+    "date": "1000-01-01",
+    "originalDate": "?-?-?",
+    "rangeEndDate": null,
+    "text": "Pera contains several Roman Catholic convents and an hos\npital for the plague.",
+    "place": "İstanbul",
+    "pageNumber": "95",
+    "bookName": "Picturesque Promenades in and Near Constantinople",
+    "author": "Charles Pertusier",
+    "publishedBy": "Sir Richard Philips and Co.",
+    "publishedDate": "1820",
+    "weatherTags": "Veba",
+    "yearExist": false,
+    "monthExist": false,
+    "dayExist": false
+  },
+  {
+    "id": 5448,
+    "date": "1000-01-01",
+    "originalDate": "?-?-?",
+    "rangeEndDate": null,
+    "text": "Veba salgını karşısında ölüm korkusuna kapılan Avrupalılar, şehri bir an evvel terketmeye çalışır ya da evlerine kapanarak tanıdıklarıyla ilişkilerini keserler. İstanbul’da yıllarca oturan yabancılar bile tehlike karşısında kayıtsız kalamıyorlardır. Oysa Türkler kaza ve kadere inandıklarından böyle bir tehlike karşısında telaşa kapılmayarakişlerine devam ediyorlardır.\nBu kötü hastalığa aldırmayan Müslümanları, sonu ölümle biten felaketler bekliyor. Hükümet de hastalığa karşı önleyici tedbirler almıyor. Türkler meseleye başka açıdan bakıyorlar. Onlar, insanların alınyazısına Allah’ın dokunmadığına inanıyorlar. İslam anlayışına göre,, Allah, dinin bir prensibi olarak kaza ve kadere inanmalarını emrediyor. Bir insanın mutlu olabilmesi için mutlaka şu iki şeyden birinin mevcudiyeti şarttır: Birincisi başına bir felaket gelmemesi, ikincisi, mümkün olduğu kadar kalben huzur içinde bulunması . ilki herşeye kadir olan Allah’a mahsustur. İkincisine gelince, Müslümanlar kaza ve kadere inanmanın Stoa’nın dogmalarına inanmaktan daha sağlam olduğunu söylüyorlar.\nŞarklı metafizikçilerin bu görüşünün ne teferruatına girmek ne de yanlışlığını ortaya koymak niyetindeyim. Yalnız şu var ki, Müslümanların en acılı günlerinde bile kendilerine hakim olabildiklerine hayran kaldığımı burada belirtmeeden geçemeyeceğim. Sıhhatini kaybeden, malından olan, bulaşıcı bir hastalığa tutularak kurtuluş ümidi bulunmayan Müslüman, bunun bir alınyazısı olduğuna inanır. Bu halde dua etmek, verilen hükmü değiştirmez. Şikayette bulunmak ise, akılsızlıktır. O sadece Allah’a tevekkül eder ve sorana, kısmet deyip geçer. ",
+    "place": "İstanbul",
+    "pageNumber": "54",
+    "bookName": "1814'de İstanbul ve Çanakkale'ye Seyahat ",
+    "author": "Edward Raczynski",
+    "publishedBy": "Tercüman",
+    "publishedDate": "1980",
+    "weatherTags": "veba",
+    "yearExist": false,
+    "monthExist": false,
+    "dayExist": false
+  }
+]
