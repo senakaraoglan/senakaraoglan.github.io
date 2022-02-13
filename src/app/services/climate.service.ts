@@ -1,20 +1,19 @@
-import { Injectable } from "@angular/core";
-import { HttpClient, HttpHeaders } from "@angular/common/http";
-import {Observable, of} from "rxjs";
-import {take} from "rxjs/operators";
-import {Climate} from "../climates/climates.component";
-
-import climates from '../_files/response.json';
+import { HttpClient, HttpHeaders } from '@angular/common/http';
+import { Injectable } from '@angular/core';
+import { Observable, of } from 'rxjs';
+import { take } from 'rxjs/operators';
+import { Climate } from '../climates/climates.component';
+import climates from '../_files/response1.json';
 
 @Injectable()
-export class ClimateService{
+export class ClimateService {
   private readonly baseURL: string;
 
-  constructor(private http: HttpClient){
-    this.baseURL ="api/";
+  constructor(private http: HttpClient) {
+    this.baseURL = 'api/';
   }
 
-  getClimates(): Observable<Climate[]>{
+  getClimates(): Observable<Climate[]> {
     let header = new HttpHeaders();
     header.append('Content-Type', 'applications/json');
     //return this.http.get<Climate[]>(this.baseURL + "climates", { headers: header}).pipe(take(1));
@@ -79,13 +78,12 @@ export class ClimateService{
     ])*/
   }
 
-
   getClimatesWithSameDateMap(): any {
     let header = new HttpHeaders();
     header.append('Content-Type', 'applications/json');
-    return this.http.get<Climate[]>(this.baseURL + "climatesSameDate", { headers: header}).pipe(take(1))
-      .subscribe(data => console.log(JSON.stringify(data)));
+    return this.http
+      .get<Climate[]>(this.baseURL + 'climatesSameDate', { headers: header })
+      .pipe(take(1))
+      .subscribe((data) => console.log(JSON.stringify(data)));
   }
-
-
 }
