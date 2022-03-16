@@ -3,7 +3,7 @@ import { Injectable } from '@angular/core';
 import { Observable, of } from 'rxjs';
 import { take } from 'rxjs/operators';
 import { Climate } from '../climates/climates.component';
-import climates from '../_files/response1.json';
+import climates from '../_files/response.json';
 
 @Injectable()
 export class ClimateService {

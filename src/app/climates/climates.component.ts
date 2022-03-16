@@ -171,7 +171,7 @@ export class ClimatesComponent implements OnInit, OnDestroy {
       grouped.forEach((subArray) => {
         console.log(subArray[0] + ': ' + (subArray[1] as any).length);
       });
-      this.readFilePercentage = percentage;
+      this.readFilePercentage = 100; //percentage;
     });
   }
 
