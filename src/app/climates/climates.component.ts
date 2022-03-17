@@ -1,5 +1,4 @@
 import { Component, OnDestroy, OnInit, ViewChild } from '@angular/core';
-import { AngularFireDatabase, AngularFireList } from '@angular/fire/database';
 import {
   MatOptionSelectionChange,
   MatSort,
@@ -27,11 +26,6 @@ export interface Climate {
   weatherTags?: string;
   text: string;
   yearExist?: boolean;
-}
-
-export interface FireClimate {
-  region: string;
-  type: string;
 }
 
 @Component({
@@ -73,8 +67,6 @@ export class ClimatesComponent implements OnInit, OnDestroy {
   public climates$: Observable<Climate[]> = this.climateService
     .getClimates()
     .pipe(takeUntil(this.endSubscriptions$));
-
-  public fireClimates: AngularFireList<FireClimate> = this.db.list('climates');
 
   yearCheck: boolean = undefined;
   monthCheck: boolean = undefined;
@@ -136,21 +128,8 @@ export class ClimatesComponent implements OnInit, OnDestroy {
    ZILHICCE('12', 'Z');
    */
 
-  constructor(
-    private climateService: ClimateService,
-    private db: AngularFireDatabase
-  ) {
+  constructor(private climateService: ClimateService) {
     console.log('const.');
-    this.fireClimates
-      .snapshotChanges()
-      .pipe(
-        map((changes) =>
-          changes.map((c) => ({ key: c.payload.key, ...c.payload.val() }))
-        )
-      )
-      .subscribe((data) => {
-        console.log(data);
-      });
   }
 
   ngOnInit(): void {
