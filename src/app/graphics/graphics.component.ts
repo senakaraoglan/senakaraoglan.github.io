@@ -1,23 +1,35 @@
-import { Component, OnDestroy } from "@angular/core";
+import { ChangeDetectorRef, Component, OnDestroy, OnInit, ViewChild } from "@angular/core";
+import { MatTooltip } from "@angular/material";
 import * as Highcharts from "highcharts";
 import { from, Observable, Subject } from "rxjs";
 import { groupBy, mergeMap, takeUntil, toArray } from "rxjs/operators";
 import { ClimateService } from "src/app/services/climate.service";
 import { Climate } from "../climates/climates.component";
-import { SlideObject, TimelineData } from "./timeline-model";
+//import { SlideObject, TimelineData } from "./timeline-model";
 
 @Component({
   selector: "app-graphics",
   templateUrl: "./graphics.component.html",
 })
-export class GraphicsComponent implements OnDestroy {
+export class GraphicsComponent implements OnInit, OnDestroy {
+  @ViewChild('tooltip', null) tooltip: MatTooltip;
   public _endSubscriptions$: Subject<boolean> = new Subject();
 
-  Highcharts = Highcharts;
+  data = [];/*[
+    "Hello", "world", "normally", "you", "want", "more", "words",
+    "than", "this"].map(function (d) {
+      return { text: d, value: 10 + Math.random() * 90};
+    })*/
+
+  toolTip = '';
+
+  Highcharts: typeof Highcharts = Highcharts;
 
   chartOptions: {};
 
   chartDateOptions: {};
+
+  chartColumnBarOptions: {};
 
   bookNameMap = new Map();
 
@@ -109,7 +121,9 @@ export class GraphicsComponent implements OnDestroy {
     .getClimates()
     .pipe(takeUntil(this._endSubscriptions$));
 
-  constructor(private climateService: ClimateService) {
+  constructor(private climateService: ClimateService, private cd: ChangeDetectorRef) {
+
+
     this.climates$.subscribe((data) => {
       this.climates = data;
 
@@ -128,7 +142,7 @@ export class GraphicsComponent implements OnDestroy {
       this.generateBookNameGraph();
       this.generateDateGraph();
 
-      let title: SlideObject = {
+      /*let title: SlideObject = {
         media: {
           url: "../assets/istanbul1.jpg",
           caption: "Ortaköy Camii 1800' ler",
@@ -197,8 +211,11 @@ export class GraphicsComponent implements OnDestroy {
         });
       });
 
-      new (window as any).TL.Timeline("timeline-embed", newJson);
+      new (window as any).TL.Timeline("timeline-embed", newJson);*/
     });
+  }
+  ngOnInit(): void {
+    //Highcharts.chart('container', this.wordCloudOptions);
   }
 
   getLengthOfDateFilter(
@@ -222,32 +239,32 @@ export class GraphicsComponent implements OnDestroy {
     let dateGraphData = [
       [
         "Yıl/Ay/Gün" +
-          "(" +
-          this.getPercentage(
-            this.getLengthOfDateFilter(true, true, true),
-            this.climates.length
-          ) +
-          "%)",
+        "(" +
+        this.getPercentage(
+          this.getLengthOfDateFilter(true, true, true),
+          this.climates.length
+        ) +
+        "%)",
         this.getLengthOfDateFilter(true, true, true),
       ],
       [
         "Yıl ve Ay" +
-          "(" +
-          this.getPercentage(
-            this.getLengthOfDateFilter(false, true, true),
-            this.climates.length
-          ) +
-          "%)",
+        "(" +
+        this.getPercentage(
+          this.getLengthOfDateFilter(false, true, true),
+          this.climates.length
+        ) +
+        "%)",
         this.getLengthOfDateFilter(false, true, true),
       ],
       [
         "Sadece Yıl" +
-          "(" +
-          this.getPercentage(
-            this.getLengthOfDateFilter(false, false, true),
-            this.climates.length
-          ) +
-          "%)",
+        "(" +
+        this.getPercentage(
+          this.getLengthOfDateFilter(false, false, true),
+          this.climates.length
+        ) +
+        "%)",
         this.getLengthOfDateFilter(false, false, true),
       ],
       ["TOPLAM", this.climates.length],
@@ -305,6 +322,90 @@ export class GraphicsComponent implements OnDestroy {
         },
       ],
     };
+
+    let columnBarGraphData = [];
+
+    for (let [key, value] of this.bookNameMap) {
+      columnBarGraphData.push({
+        name: key + " - (" + value + ")",
+        y: (value / this.climates.length) * 100,
+      });
+    }
+
+    this.chartColumnBarOptions = {
+      chart: {
+        type: 'column'
+      },
+      title: {
+        align: 'left',
+        text: 'Browser market shares. January, 2018'
+      },
+      subtitle: {
+        align: 'left',
+        text: 'Click the columns to view versions. Source: <a href="http://statcounter.com" target="_blank">statcounter.com</a>'
+      },
+      accessibility: {
+        announceNewData: {
+          enabled: true
+        }
+      },
+      xAxis: {
+        type: 'category'
+      },
+      yAxis: {
+        title: {
+          text: 'Total percent market share'
+        }
+
+      },
+      legend: {
+        enabled: false
+      },
+      plotOptions: {
+        series: {
+          borderWidth: 0,
+          dataLabels: {
+            enabled: true,
+            format: '{point.y:.1f}%'
+          }
+        }
+      },
+
+      tooltip: {
+        headerFormat: '<span style="font-size:11px">{series.name}</span><br>',
+        pointFormat: '<span style="color:{point.color}">{point.name}</span>: <b>{point.y:.2f}%</b> of total<br/>'
+      },
+
+      series: [
+        {
+          name: "",
+          colorByPoint: true,
+          data: columnBarGraphData
+        }
+      ],
+    };
+
+    let dataCloud = [];
+
+    for (let [key, value] of this.bookNameMap) {
+      dataCloud.push({
+        text: key.slice(0, 8),
+        fullText: key,
+        occurences: value,
+        value: 10 + value + Math.random() * 90,
+      });
+    }
+
+    this.data = dataCloud;
+  }
+
+  public onWordMouseOver(e: any) {
+    console.log(this.bookNameMap.size);
+    debugger
+    this.toolTip = e.word.fullText + ' - {' + e.word.occurences + '}';
+    this.tooltip.show();
+    this.cd.detectChanges();
+    setTimeout(() => this.tooltip.hide(2000));
   }
 
   public generateBookNameGraph() {
@@ -343,7 +444,7 @@ export class GraphicsComponent implements OnDestroy {
       },
       series: [
         {
-          name: "Brands",
+          name: "",
           colorByPoint: true,
           data: graphData,
         },

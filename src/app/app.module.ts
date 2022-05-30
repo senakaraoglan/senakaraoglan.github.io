@@ -37,6 +37,7 @@ import { LoggedComponent } from './logged/logged.component';
 import { LoginComponent } from './login/login.component';
 import { ClimateService } from './services/climate.service';
 import { TextShrinkPipe } from './table-text-shrink.pipe';
+import { AngularD3CloudModule } from 'angular-d3-cloud'
 
 @NgModule({
   declarations: [
@@ -60,6 +61,7 @@ import { TextShrinkPipe } from './table-text-shrink.pipe';
       animationDuration: 300,
       animation: true,
     }),
+    AngularD3CloudModule,
     BrowserAnimationsModule,
     AppRoutingModule,
     MatSidenavModule,
