@@ -400,7 +400,7 @@ export class GraphicsComponent implements OnInit, OnDestroy {
   }
 
   public onWordMouseOver(e: any) {
-    console.log(this.bookNameMap.size);
+    //console.log(this.bookNameMap.size);
     debugger
     this.toolTip = e.word.fullText + ' - {' + e.word.occurences + '}';
     this.tooltip.show();
